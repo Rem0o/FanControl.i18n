@@ -1,0 +1,7 @@
+{
+  "AddTrayIconSpeed": "Ajouter la vitesse du ventilateur (%) à l'icône de la barre d'état",
+  "AddTrayIconTemp": "Ajouter la température à l'icône de la barre d'état",
+  "DefaultTrayIconColor": "Couleur par défaut de l'icône de la barre d'état",
+  "SyncIconColor": "Synchroniser la couleur de l'icône avec Windows",
+  "MissingTrayIconSensor": "Capteur de l'icône de la barre d'état manquant"
+}

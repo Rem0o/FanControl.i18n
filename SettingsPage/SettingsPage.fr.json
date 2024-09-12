@@ -1,0 +1,23 @@
+{
+  "Delay": "Délai",
+  "EditSources": "Modifier les sources...",
+  "General": "Général",
+  "InstallPlugin": "Installer le plugin...",
+  "LoadedPlugins": "Plugins installés",
+  "Nicknames": "Surnoms",
+  "NoPluginSensorsHelpText": "Aucun capteur du plugin détecté. Assurez-vous que le plugin est activé dans la fenêtre des sources de capteurs et qu'un rafraîchissement a été effectué.",
+  "NoPlugins": "Aucun plugin installé",
+  "NotifyForUpdate": "Notifier pour la mise à jour au démarrage",
+  "OriginalName": "Nom original : {0}",
+  "PluginSensors": "capteurs du plugin",
+  "Plugins": "Plugins",
+  "SecondUnit": "sec",
+  "SelectSensorNickname": "Sélectionnez un capteur à surnommer",
+  "SensorNickname": "Surnom du capteur (modifiable)",
+  "Sensors": "Capteurs",
+  "StartMinimized": "Démarrer minimisé",
+  "StartUserLogon": "Démarrer à l'ouverture de la session utilisateur",
+  "TaskSchedulerAdminRequired": "Impossible de définir le programme pour démarrer avec Windows dans le Planificateur de tâches. Utilisateur administrateur requis.",
+  "CultureText": "Culture",
+  "Symbol": "Symbole"
+}
