@@ -1,6 +1,6 @@
 {
   "Auto": "Auto",
-  "AutoDescription": "La curva automatica della ventola si adatterà automaticamente alla temperatura di carico.",
+  "AutoDescription": "La curva automatica della ventola si adatterà automaticamente alla temperatura sotto carico.",
   "CantBeAddedToMix": "\"{0}\" non può essere aggiunto al mix.",
   "Flat": "Piatta",
   "FlatDescription": "La curva della ventola piatta applica una % fissa.",
@@ -29,7 +29,7 @@
   "SyncLoopError": "\"Loop rilevato. Il controllo {0} non può essere impostato come fonte.",
   "Trigger": "Innesco",
   "TriggerDescription": "La curva di innesco manterrà la sua velocità fino a quando uno dei due punti di cambiamento non verrà attivato.",
-  "TriggerIdleDescription": "Sotto la temperatura in idle, viene applicata la velocità della ventola in idle fino a quando la temperatura non torna alla temperatura di carico",
-  "TriggerLoadDescription": "Sopra la temperatura di carico, viene applicata la velocità della ventola di carico fino a quando la temperatura non torna alla temperatura in idle.",
+  "TriggerIdleDescription": "Sotto la temperatura a riposo, viene applicata la velocità della ventola a riposo fino a quando la temperatura non torna alla temperatura sotto carico",
+  "TriggerLoadDescription": "Sopra la temperatura sotto carico, viene applicata la velocità della ventola sotto carico fino a quando la temperatura non torna alla temperatura a riposo.",
   "TypeFanCurveMissingSensor": "{0} La curva della ventola denominata \"{1}\" manca del sensore con l'identificativo: {2})"
 }
