@@ -1,0 +1,7 @@
+{
+  "CurrentVersionUpToDate": "La tua versione attuale ({0}) è la più aggiornata!",
+  "NewVersion": "È disponibile una nuova versione: {0} (la versione attuale è {1})",
+  "UpdateAvailable": "È disponibile un aggiornamento",
+  "UpdateText": "Aggiorna",
+  "VersionInfoError": "Impossibile ottenere le informazioni sulla versione dal server."
+}
