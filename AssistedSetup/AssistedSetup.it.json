@@ -7,7 +7,7 @@
 "ControlSpeedCalibration": "Calibrazione Controllo/Velocità",
 "ControlSpeedPairing": "Abbinamento Controllo e Velocità",
 "Done": "Fatto!",
-"ExceptionDuringSetup": "Si è verificata un problema durante il processo di configurazione assistita. Consulta il registro degli errori per maggiori dettagli.",
+"ExceptionDuringSetup": "Si è verificato un problema durante il processo di configurazione assistita. Consulta il registro degli errori per maggiori dettagli.",
 "FullSpeed": "imposta ventola al 100%",
 "IdentificationDescription": "Identifica e nomina le tue ventole",
 "IdentificationInstructions": "Questi controlli sono quelli che hanno risposto a Fan Control. Guarda all’interno del tuo computer o usa un software alternativo mentre utilizzi i cursori per nominarli di conseguenza.",
