@@ -1,0 +1,7 @@
+{
+  "AddTrayIconSpeed": "Aggiungi velocità della ventola nella barra delle applicazioni (%)",
+  "AddTrayIconTemp": "Aggiungi temperatura nella barra delle applicazioni",
+  "DefaultTrayIconColor": "Colore predefinito dell’icona nella barra delle applicazioni",
+  "SyncIconColor": "Sincronizza il colore dell’icona con Windows",
+  "MissingTrayIconSensor": "Sensore dell’icona nella barra delle applicazioni mancante"
+}
