@@ -1,1 +1,23 @@
-
+{
+  "Add": "Hinzufügen",
+  "Cancel": "Abbrechen",
+  "Clear": "Entfernen",
+  "Close": "Schließen",
+  "Configurations": "Konfigurationen",
+  "Continue": "Fortfahren",
+  "Delete": "Löschen",
+  "Discard": "Verwerfen",
+  "Edit": "Bearbeiten",
+  "Exit": "Schließen",
+  "Hide": "Verstecken",
+  "Load": "Laden",
+  "No": "Nein",
+  "Ok": "Okay",
+  "Open": "Öffnen",
+  "Refresh": "Neu laden",
+  "Refreshing": "Wird neu geladen …",
+  "Reset": "Zurücksetzen",
+  "Save": "Speichern",
+  "SecondUnit": "Sek.",
+  "Yes": "Ja"
+}
