@@ -1,0 +1,7 @@
+{
+  "AddTrayIconSpeed": "Lüfterdrehzahl (%) im Taskleistensymbol",
+  "AddTrayIconTemp": "Temperatur im Taskleistensymbol",
+  "DefaultTrayIconColor": "Standardfarbe des Taskleistensymbols",
+  "SyncIconColor": "An Windows-Design anpassen",
+  "MissingTrayIconSensor": "Sensor für Taskleistensymbol fehlt"
+}
