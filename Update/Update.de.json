@@ -1,0 +1,7 @@
+{
+  "CurrentVersionUpToDate": "Die derzeit genutzte Version ({0}) ist bereits die aktuelle!",
+  "NewVersion": "Eine neue Version ist verfügbar: {0} (derzeit genutzt: {1})",
+  "UpdateAvailable": "Es ist ein Update verfügbar",
+  "UpdateText": "Update",
+  "VersionInfoError": "Versionsinfo konnte nicht vom Server geladen werden."
+}
