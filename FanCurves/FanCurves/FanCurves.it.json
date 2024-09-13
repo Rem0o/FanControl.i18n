@@ -29,7 +29,7 @@
   "SyncLoopError": "\"Loop rilevato. Il controllo {0} non può essere impostato come fonte.",
   "Trigger": "Innesco",
   "TriggerDescription": "La curva di innesco manterrà la sua velocità fino a quando uno dei due punti di cambiamento non verrà attivato.",
-  "TriggerIdleDescription": "Sotto la temperatura di inattività, viene applicata la velocità della ventola di inattività fino a quando la temperatura non torna alla temperatura di carico",
-  "TriggerLoadDescription": "Sopra la temperatura di carico, viene applicata la velocità della ventola di carico fino a quando la temperatura non torna alla temperatura di inattività.",
+  "TriggerIdleDescription": "Sotto la temperatura in idle, viene applicata la velocità della ventola in idle fino a quando la temperatura non torna alla temperatura di carico",
+  "TriggerLoadDescription": "Sopra la temperatura di carico, viene applicata la velocità della ventola di carico fino a quando la temperatura non torna alla temperatura in idle.",
   "TypeFanCurveMissingSensor": "{0} La curva della ventola denominata \"{1}\" manca del sensore con l'identificativo: {2})"
 }
