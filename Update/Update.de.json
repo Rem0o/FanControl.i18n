@@ -1,5 +1,7 @@
 {
   "CurrentVersionUpToDate": "Die derzeit genutzte Version ({0}) ist bereits die aktuelle!",
+  "DisableUpdatePopupStartup": "Dieses Popup beim Start deaktivieren",
+  "DownloadingUpdater": "Updater wird heruntergeladen…",
   "NewVersion": "Eine neue Version ist verfügbar: {0} (derzeit genutzt: {1})",
   "UpdateAvailable": "Es ist ein Update verfügbar",
   "UpdateText": "Update",

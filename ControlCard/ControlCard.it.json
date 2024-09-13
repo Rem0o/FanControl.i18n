@@ -41,5 +41,5 @@
   "StepHelp": " Velocità con cui il controllo può cambiare la sua percentuale per secondo (%/sec).",
   "StepUp": "Incrementa",
   "StopPercent": "Stop %",
-  "StopPercentHelp": "Percentuale (%) della curva della ventola necessaria per fermare la rotazione della ventola.
+  "StopPercentHelp": "Percentuale (%) della curva della ventola necessaria per fermare la rotazione della ventola."
 }
