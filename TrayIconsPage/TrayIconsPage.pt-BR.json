@@ -1,7 +1,7 @@
 {
-  "AddTrayIconSpeed": "Add tray icon fan speed (%)",
-  "AddTrayIconTemp": "Add tray icon temperature",
-  "DefaultTrayIconColor": "Default Tray Icon Color",
-  "SyncIconColor": "Sync icon color with Windows",
-  "MissingTrayIconSensor": "Missing tray icon sensor"
+  "AddTrayIconSpeed": "Adicionar ícone de bandeja com a velocidade do ventilador (%)",
+  "AddTrayIconTemp": "Adicionar ícone de bandeja com a temperatura",
+  "DefaultTrayIconColor": "Cor padrão do ícone de bandeja",
+  "SyncIconColor": "Sincronizar a cor do ícone com o Windows",
+  "MissingTrayIconSensor": "Sensor de ícone de bandeja ausente"
 }
