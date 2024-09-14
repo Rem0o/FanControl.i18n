@@ -1,16 +1,16 @@
 {
   "AllControlsNoSensors": "Keine der Steuerungen ist mit einem Drehzahlsensor verknüpft.",
-  "AssistedSetupDescription": "Das hier ist der Einrichtungsassistent. Er wird dich mit den folgenden Schritten bei der Ersteinrichtung deiner Lüfter unterstützen:",
+  "AssistedSetupDescription": "Das ist der Einrichtungsassistent. Er wird dich mit den folgenden Schritten bei der Ersteinrichtung deiner Lüfter unterstützen:",
   "Calibrating": "Kalibrieren",
   "CalibrationTitle": "Automatische Lüfterkalibrierung",
   "ControlSensorPairsWithSpeedSensor": "Steuerungssensor \"{0}\" ist gekoppelt an Drehzahlsensor \"{1}\"",
   "ControlSpeedCalibration": "Steuerungs-/Drehzahlkalibrierung",
   "ControlSpeedPairing": "Steuerungs- und Drehzahlkoppelung",
-  "Done": "Fertig!",
+  "Done": "Erledigt!",
   "ExceptionDuringSetup": "Es kam zu einem Fehler beim Ausführen des Einrichtungsassistenten. Für Details siehe Fehlerprotokoll.",
   "FullSpeed": "Lüfter wird auf 100 % eingestellt",
   "IdentificationDescription": "Lüfter bestimmen und benennen",
-  "IdentificationInstructions": "Folgende Steuerungen haben auf Fan Control angesprochen. Wirf einen Blick in deinen Rechner oder nutze eine alternative Software, während du mithilfe der Schieberegler passende Namen vergibst",
+  "IdentificationInstructions": "Folgende Steuerungen haben auf Fan Control angesprochen. Wirf einen Blick in deinen Rechner oder nutze eine andere Software, während du mithilfe der Schieberegler passende Namen vergibst",
   "IncludeNonPaired": "Nicht gekoppelte Steuerungen trotzdem miteinbeziehen.",
   "NoControlPairedSensor": "Keine der Steuerungen ist mit einem Drehzahlsensor gekoppelt.",
   "NoSensor": "Diese Steuerung verfügt über keinen Drehzahlsensor",
@@ -28,6 +28,6 @@
   "Step5": "Ermitteln des Start-&-Schwellwerts jeder Steuerung",
   "Step6": "Bestimmen und Benennen jeder Steuerung",
   "Step7": "Anwendungseinstellungen vornehmen",
-  "Testing": "Testen",
+  "Testing": "Teste",
   "TestingAt": "({0}) Test erfolgt mit {1}% ({2} RPM)"
 }
