@@ -35,12 +35,12 @@
   "SelectedControl": "Ausgewählte Steuerung",
   "SelectedControlDescription": "Die Steuerung, mit der synchronisiert werden soll",
   "Step": "Schritt",
-  "StepDescription": "Rate, mit der sich der Wert nach der angegebenen Antwortzeit ändern wird. Der Schritt ist auf dem Weg nach unten halb.",
+  "StepDescription": "Rate, mit der sich der Wert nach der angegebenen Antwortzeit ändern wird. Beim Abstieg wird der Parameter halbiert.",
   "Subtract": "Subtrahieren",
   "Sum": "Summe",
   "Temp": "Temp.",
   "TemperatureSource": "Temperaturquelle",
   "Time": "Zeit",
   "TimeDescription": "Mittelwertsperiode der ausgewählten Temperaturquelle.",
-  "TwiceOnTheWayDown": "Zeit ist auf dem Weg nach unten doppelt."
+  "TwiceOnTheWayDown": "Beim Abstieg wird die Zeit verdoppelt."
 }
