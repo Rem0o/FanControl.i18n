@@ -1,0 +1,23 @@
+{
+  "Delay": "延迟",
+  "EditSources": "编辑数据源...",
+  "General": "常规",
+  "InstallPlugin": "安装插件...",
+  "LoadedPlugins": "已加载插件",
+  "Nicknames": "昵称",
+  "NoPluginSensorsHelpText": "未检测到插件提供的传感器。确保在传感器源窗口中启用了插件并已执行刷新。",
+  "NoPlugins": "未加载插件",
+  "NotifyForUpdate": "启动时通知软件更新",
+  "OriginalName": "原始名称：{0}",
+  "PluginSensors": "插件提供的传感器",
+  "Plugins": "插件",
+  "SecondUnit": "秒",
+  "SelectSensorNickname": "选择传感器以设置昵称",
+  "SensorNickname": "传感器昵称（可编辑）",
+  "Sensors": "传感器",
+  "StartMinimized": "启动时最小化",
+  "StartUserLogon": "在用户登录时启动",
+  "TaskSchedulerAdminRequired": "无法在计划任务中设置本程序随 Windows 启动。需要以管理员权限运行。",
+  "CultureText": "区域",
+  "Symbol": "符号"
+}
