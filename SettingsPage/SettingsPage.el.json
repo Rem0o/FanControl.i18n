@@ -1,0 +1,23 @@
+{
+  "Delay": "Καθυστέρηση",
+  "EditSources": "Επεξεργασία πηγών...",
+  "General": "Γενικά",
+  "InstallPlugin": "Εγκατάσταση πρόσθετου...",
+  "LoadedPlugins": "Φορτωμένα πρόσθετου",
+  "Nicknames": "παρωνύμιο",
+  "NoPluginSensorsHelpText": "Δεν βρέθηκαν αισθητήρες από το πρόσθετο. Βεβαιωθείτε ότι το πρόσθετο είναι ενεργοποιημένο στο παράθυρο πηγών αισθητήρων και ότι έχει εκτελεστεί ανανέωση.",
+  "NoPlugins": "Δεν φορτώθηκαν πρόσθετα",
+  "NotifyForUpdate": "Ειδοποίηση για ενημέρωση κατά την εκκίνηση",
+  "OriginalName": "Αρχικό όνομα: {0}",
+  "PluginSensors": "Πρόσθετοι αισθητήρες",
+  "Plugins": "Πρόσθετα",
+  "SecondUnit": "sec",
+  "SelectSensorNickname": "Επέλεξε έναν αισθητήρα για του βάλεις παρωνύμιο",
+  "SensorNickname": "παρωνύμιο αισθητήρα (επεξεργάσιμο)",
+  "Sensors": "Αισθητήρες",
+  "StartMinimized": "Ελαχιστοποίηση στη Γραμμή Εργασιών κατά την εκκίνηση",
+  "StartUserLogon": "Εκκίνηση με την είσοδο του χρήστη",
+  "TaskSchedulerAdminRequired": "Could not set the program to start with Windows in the Task Scheduler. Admin user required.",
+  "CultureText": "Γλώσσα",
+  "Symbol": "Συμβολισμός"
+}

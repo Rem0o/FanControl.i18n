@@ -24,7 +24,7 @@
   "Step1": "Select the type of sensors to detect",
   "Step2": "Find corresponding RPM sensor for each control",
   "Step3": "Calibrate each control that paired with a RPM sensor",
-  "Step4": "Find the stop % threshold for each contro",
+  "Step4": "Find the stop % threshold for each control",
   "Step5": "Find the start % threshold for each control",
   "Step6": "Identifying and naming each control",
   "Step7": "Set some application settings",
