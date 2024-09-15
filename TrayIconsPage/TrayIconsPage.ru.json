@@ -1,0 +1,8 @@
+{
+    "AddTrayIconSpeed": "Добавить значок в трее для скорости вентилятора (%)",
+    "AddTrayIconTemp": "Добавить значок в трее для температуры",
+    "DefaultTrayIconColor": "Цвет значка в трее по умолчанию",
+    "SyncIconColor": "Синхронизировать цвет значка с Windows",
+    "MissingTrayIconSensor": "Отсутствует датчик для значка в трее"
+  }
+  
