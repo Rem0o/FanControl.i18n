@@ -7,7 +7,7 @@
   "CurveToolTip": "Kurve, die auf diese Steuerung angewendet wird.",
   "DefaultSensorName": "Standard-Sensorname: {0}",
   "DiscrepancyFanCurve": "die Lüfterkurve {0}",
-  "DiscrepancyManualValue": "der manuell eingestellte Wert {0} %",
+  "DiscrepancyManualValue": "den manuell eingestellten Wert {0} %",
   "DiscrepancyPart1": "Eine Diskrepanz wurde bei der Steuerung \"{0}\" und ihrem Sollwert festgestellt.",
   "DiscrepancyPart2": "Sie reagiert nicht richtig auf {0}.",
   "DiscrepancyPart3": "Es gibt mehrere mögliche Probleme:",
