@@ -30,6 +30,6 @@
   "ZeroRPMOverrideHelpPart2": "Αυτό εμποδίζει τη χρήση της λειτουργίας 0 RPM των επιλεγμένων καρτών.",
   "ZeroRPMOverrideHelpPart3": "Αυτό το κουτί θα \"απενεργοποιήσει\" όλα τα στοιχεία ελέγχου της Nvidia όταν φτάσει στο 0%. Αυτό θα επιτρέψει να γυρίσει στην προεπιλεγμένη καμπύλη \"ενσωματωμένη\" ανεμιστήρα, η οποία μπορεί να υποστηρίζει 0 RPM.",
   "ZeroRPMOverrideHelpPart4": "Λάβετε υπόψη ότι πρέπει να πειραματιστείτε με τη θερμοκρασία στην οποία η κάρτα σας θα λειτουργεί σε 0 RPM από το εργοστάσιο.",
-  "ZeroRPMOverrideHelpPart5": "You will not be able to go 0 RPM over that temperature.",
-  "ZeroRPMOverrideHelpPart6": "To make use of this feature properly, set your Nvidia controls start% and stop% to 30%, so that any % set below that threshold will snap to 0%."
+  "ZeroRPMOverrideHelpPart5": "Δεν θα μπορείτε να ορίσετε 0 RPM πάνω από αυτή τη θερμοκρασία.",
+  "ZeroRPMOverrideHelpPart6": "Για να χρησιμοποιήσετε σωστά αυτή τη δυνατότητα, ορίστε τα στοιχεία ελέγχου Nvidia start% και stop% σε 30%, έτσι ώστε κάθε % που έχει οριστεί κάτω από αυτό το όριο θα μετατραπεί σε 0%."
 }
