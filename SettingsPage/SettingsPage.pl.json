@@ -1,0 +1,23 @@
+{
+  "Delay": "Opóźnienie",
+  "EditSources": "Edytuj źródła...",
+  "General": "Ogólne",
+  "InstallPlugin": "Zainstaluj wtyczkę...",
+  "LoadedPlugins": "Załadowane wtyczki",
+  "Nicknames": "Nazwy alternatywne",
+  "NoPluginSensorsHelpText": "Nie wykryto żadnych czujników z wtyczki. Upewnij się, że wtyczka jest włączona w oknie źródeł czujników i że wykonano odświeżenie.",
+  "NoPlugins": "Brak załadowanych wtyczek",
+  "NotifyForUpdate": "Powiadamiaj o aktualizacjach przy starcie",
+  "OriginalName": "Oryginalna nazwa: {0}",
+  "PluginSensors": "czujniki z wtyczek",
+  "Plugins": "Wtyczki",
+  "SecondUnit": "sek",
+  "SelectSensorNickname": "Wybierz czujnik, aby nadać mu alternatywną nazwę",
+  "SensorNickname": "Alternatywna nazwa czujnika (edytowalna)",
+  "Sensors": "Czujniki",
+  "StartMinimized": "Uruchom zminimalizowany",
+  "StartUserLogon": "Uruchom przy logowaniu użytkownika",
+  "TaskSchedulerAdminRequired": "Nie można ustawić uruchamiania programu z systemem Windows przy użyciu Harmonogramu zadań. Wymagany użytkownik z uprawnieniami administratora.",
+  "CultureText": "Język",
+  "Symbol": "Symbol"
+}
