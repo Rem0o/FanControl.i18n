@@ -18,6 +18,6 @@
   "StartMinimized": "Démarrer minimisé",
   "StartUserLogon": "Démarrer à l'ouverture de la session utilisateur",
   "TaskSchedulerAdminRequired": "Impossible de définir le programme pour démarrer avec Windows dans le Planificateur de tâches. Utilisateur administrateur requis.",
-  "CultureText": "Culture",
+  "CultureText": "Langue",
   "Symbol": "Symbole"
 }
