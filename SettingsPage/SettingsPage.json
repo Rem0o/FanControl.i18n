@@ -18,6 +18,6 @@
   "StartMinimized": "Start minimized",
   "StartUserLogon": "Start at user log on",
   "TaskSchedulerAdminRequired": "Could not set the program to start with Windows in the Task Scheduler. Admin user required.",
-  "CultureText": "Culture",
+  "CultureText": "Language",
   "Symbol": "Symbol"
 }
