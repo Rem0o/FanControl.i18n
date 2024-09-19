@@ -1,6 +1,6 @@
 {
   "Delay": "Retardo",
-  "EditSources": "Editar fuentes...",
+  "EditSources": "Configurar fuentes y ajustes...",
   "General": "General",
   "InstallPlugin": "Instalar plugin...",
   "LoadedPlugins": "Plugins cargados",
@@ -16,7 +16,7 @@
   "SensorNickname": "Apodo del sensor (editable)",
   "Sensors": "Sensores",
   "StartMinimized": "Iniciar minimizado",
-  "StartUserLogon": "Iniciar con el inicio de sesión del usuario",
+  "StartUserLogon": "Iniciar con el usuario",
   "TaskSchedulerAdminRequired": "No se pudo establecer el programa para iniciar con Windows en el programador de tareas. Se requieren permisos de administrador.",
   "CultureText": "Idioma",
   "Symbol": "ISO 639"
