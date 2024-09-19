@@ -2,7 +2,7 @@
   "About": "Info",
   "AddCustomSensor": "Añadir \"{0}\" sensor personalizado",
   "AddFanCurve": "Añadir \"{0}\" curva",
-  "AssistedSetup": "Configuración asistida",
+  "AssistedSetup": "Configuración asistida...",
   "AssistedSetupSteps": "Pasos de la configuración asistida",
   "CalibrateControls": "Calibrar controladores emparejados automáticamente...",
   "CheckForUpdate": "Buscar actualizaciones...",
