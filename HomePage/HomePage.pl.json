@@ -1,5 +1,5 @@
 {
-  "About": "O programie",
+  "About": "Info",
   "AddCustomSensor": "Dodaj niestandardowy czujnik \"{0}\"",
   "AddFanCurve": "Dodaj krzywą wentylatora \"{0}\"",
   "AssistedSetup": "Asystent konfiguracji...",
@@ -32,7 +32,7 @@
   "Speeds": "Prędkości",
   "TemperatureUnitQuestion": "Zmiana jednostki temperatury wymaga zapisania konfiguracji i zresetowania okna aplikacji. Czy chcesz kontynuować?",
   "Theme": "Motyw",
-  "TrayIcons": "Ikony obszaru powiadomień",
+  "TrayIcons": "Ikony Tray",
   "ViewOptions": "Opcje widoku",
   "CouldNotLoadCache": "Nie udało się wczytać zawartości pamięci podręcznej."
 }
