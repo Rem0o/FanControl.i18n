@@ -23,7 +23,7 @@
   "PSU": "PSU (Corsair)",
   "PluginInstalledSuccess": "Plugin {0} instalado satisfactoriamente",
   "Plugins": "Plugins",
-  "SensorSettingsText": "Ajustes del sensor",
+  "SensorSettingsText": "Fuentes y ajustes",
   "Storage": "Almacenamiento",
   "WantToContinue": "¿Deseas continuar?",
   "ZeroRPMOverrideHelpPart1": "Algunas gráficas Nvidia tienen límites sobre el control de los ventiladores donde programas de terceros como Fan Control no pueden establecer la velocidad de los ventiladores por debajo de un % específico, comunmente 30%.",
