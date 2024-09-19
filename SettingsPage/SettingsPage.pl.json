@@ -12,11 +12,11 @@
   "PluginSensors": "czujniki z wtyczek",
   "Plugins": "Wtyczki",
   "SecondUnit": "sek",
-  "SelectSensorNickname": "Wybierz czujnik, aby nadać mu alternatywną nazwę",
+  "SelectSensorNickname": "Wybierz czujnik do zmiany nazwy",
   "SensorNickname": "Alternatywna nazwa czujnika (edytowalna)",
   "Sensors": "Czujniki",
   "StartMinimized": "Uruchom zminimalizowany",
-  "StartUserLogon": "Uruchom przy logowaniu użytkownika",
+  "StartUserLogon": "Uruchom po zalogowaniu",
   "TaskSchedulerAdminRequired": "Nie można ustawić uruchamiania programu z systemem Windows przy użyciu Harmonogramu zadań. Wymagany użytkownik z uprawnieniami administratora.",
   "CultureText": "Język",
   "Symbol": "Symbol"
