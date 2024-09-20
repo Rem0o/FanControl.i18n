@@ -7,7 +7,7 @@
   "CurveToolTip": "Η καμπύλη που θα εφαρμοστεί σε αυτό τον ελεγκτή.",
   "DefaultSensorName": "Προεπιλεγμένο όνομα αισθητήρα: {0}",
   "DiscrepancyFanCurve": "Η καμπύλη του ανεμιστήρα {0}",
-  "DiscrepancyManualValue": "H τιμή που or;isthke χειροκίνητα {0} %",
+  "DiscrepancyManualValue": "H τιμή που ορίστηκε χειροκίνητα {0} %",
   "DiscrepancyPart1": "Εντοπίστηκε ασυμφωνία μεταξύ ελεγκτή \"{0}\" και της στοχευμένης τιμής του.",
   "DiscrepancyPart2": "Δεν ανταποκρίνεται σωστά στο {0}.",
   "DiscrepancyPart3": "Υπάρχουν πολλά πιθανά ζητήματα:",
