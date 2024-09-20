@@ -17,7 +17,7 @@
   "Sensors": "Αισθητήρες",
   "StartMinimized": "Ελαχιστοποίηση στη Γραμμή Εργασιών κατά την εκκίνηση",
   "StartUserLogon": "Εκκίνηση με την είσοδο του χρήστη",
-  "TaskSchedulerAdminRequired": "Could not set the program to start with Windows in the Task Scheduler. Admin user required.",
+  "TaskSchedulerAdminRequired": "Δεν ήταν δυνατή η ρύθμιση του προγράμματος ώστε να ξεκινά με τον προγραμματιστή εργασιών των Windows. Απαιτoύνται δικαιώματα διαχειριστή.",
   "CultureText": "Γλώσσα",
   "Symbol": "Συμβολισμός"
 }
