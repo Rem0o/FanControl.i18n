@@ -1,0 +1,23 @@
+{
+  "Delay": "Viive",
+  "EditSources": "Muokkaa lähteitä...",
+  "General": "Yleiset",
+  "InstallPlugin": "Asenna lisäosa...",
+  "LoadedPlugins": "Ladatut lisäosat",
+  "Nicknames": "Lempinimet",
+  "NoPluginSensorsHelpText": "Lisäosalta ei löydetty antureita. Varmista, että se on aktivoitu anturilähteiden ikkunasta ja päivitys on suoritettu.",
+  "NoPlugins": "Lisäosia ei ladattu",
+  "NotifyForUpdate": "Ilmoita päivityksestä käynnistettäessä",
+  "OriginalName": "Alkuperäinen nimi: {0}",
+  "PluginSensors": "lisäosan anturit",
+  "Plugins": "Lisäosat",
+  "SecondUnit": "toinen",
+  "SelectSensorNickname": "Anna anturille lempinimi",
+  "SensorNickname": "Anturin lempinimi (muokattavissa)",
+  "Sensors": "Anturit",
+  "StartMinimized": "Käynnistä pienennettynä",
+  "StartUserLogon": "Käynnistä käyttäjän kirjautuessa",
+  "TaskSchedulerAdminRequired": "Sovellusta ei voitu asettaa käynnistymään Windowsin Tehtävien ajoituksella. Tämä vaatii järjestelmänvalvojan oikeudet.",
+  "CultureText": "Kieli",
+  "Symbol": "Symboli"
+}
