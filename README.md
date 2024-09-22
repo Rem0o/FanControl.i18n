@@ -6,6 +6,7 @@ For a given language, say french, each json file needs a ".fr.json" version, wit
 Any missing key will result this specific string to use the default (english) string.
 Try and keep the relative size of the string close to the original, to avoid layout issues.
 
-To find your corresponding language code, see [here](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes).
+We are using [IETF BCP 47](https://www.ietf.org/rfc/bcp/bcp47.txt) as default for Windows locale names, like suggested [here](https://learn.microsoft.com/en-us/globalization/locale/standard-locale-names)
+The most common language codes can be found [here](https://www.techonthenet.com/js/language_tags.php)
 
 These translations will be pulled into the software periodically.
