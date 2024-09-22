@@ -1,0 +1,23 @@
+{
+  "CultureText": "Idioma",
+  "Delay": "Atraso",
+  "EditSources": "Editar fontes...",
+  "General": "Geral",
+  "InstallPlugin": "Instalar plugin...",
+  "LoadedPlugins": "Plugins carregados",
+  "Nicknames": "Apelidos",
+  "NoPluginSensorsHelpText": "Nenhum sensor do plugin detectado. Certifique-se de que o plugin está habilitado na janela de fontes de sensores e que o aplicativo foi reiniciado.",
+  "NoPlugins": "Nenhum plugin carregado",
+  "NotifyForUpdate": "Notificar sobre atualizações na inicialização",
+  "OriginalName": "Nome original: {0}",
+  "PluginSensors": "sensores dos plugins",
+  "Plugins": "Plugins",
+  "SecondUnit": "s",
+  "SelectSensorNickname": "Selecione um sensor para dar um apelido",
+  "SensorNickname": "Apelido do sensor (editável)",
+  "Sensors": "Sensores",
+  "StartMinimized": "Iniciar minimizado",
+  "StartUserLogon": "Iniciar ao fazer login do usuário",
+  "Symbol": "Símbolo",
+  "TaskSchedulerAdminRequired": "Não foi possível configurar o programa para iniciar com o Windows no Agendador de Tarefas. É necessário um usuário administrador."
+}
