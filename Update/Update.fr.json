@@ -1,6 +1,6 @@
 {
   "CurrentVersionUpToDate": "Votre version actuelle ({0}) est la plus à jour !",
-  "DisableUpdateStartup": "Désactiver cette fenêtre au démarrage.",
+  "DisableUpdatePopupStartup": "Disable this popup at startup.",
   "DownloadingUpdater": "Téléchargement de la mise à jour…",
   "NewVersion": "Une nouvelle version est disponible : {0} (la version actuelle est {1})",
   "UpdateAvailable": "Une mise à jour est disponible",
