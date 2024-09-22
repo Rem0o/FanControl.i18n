@@ -9,7 +9,7 @@ rem ----------------------------------------------------------------------------
 
 rem Initialize variables
 set "__NAME=FanControl Json LangControl i18n"
-set "__VERSION=1.2"
+set "__VERSION=1.3"
 set "update=0"
 set "cleanup=0"
 set "prettify=0"
@@ -155,7 +155,7 @@ if "!update!"=="1" (
         if defined new_value (
             echo Adding key: %%K
             %jq_executable% --join-output --binary --sort-keys --arg key "%%K" --arg value "!new_value!" ". + {($key): $value}" "%translated_file%" > "%translated_file%.tmp"
-            move /y "%translated_file%.tmp" "%translated_file%" >nul
+            call :convert_crlf "%translated_file%.tmp" "%translated_file%"
         )
     )
 )
@@ -165,19 +165,32 @@ if "!cleanup!"=="1" (
     for %%K in (!unexpected_keys!) do (
         echo Removing unexpected key: %%K
         %jq_executable% --join-output --binary --sort-keys "del(.%%K)" "%translated_file%" > "%translated_file%.tmp"
-        move /y "%translated_file%.tmp" "%translated_file%" >nul
+        call :convert_crlf "%translated_file%.tmp" "%translated_file%"
     )
 )
 
 rem If --prettify is set, format the JSON files with prettify options
 if "!prettify!"=="1" (
-    %jq_executable% --sort-keys "." "%translated_file%" > "%translated_file%.tmp"
+    %jq_executable% --join-output --binary --sort-keys "." "%translated_file%" > "%translated_file%.tmp"
     fc /b "%translated_file%" "%translated_file%.tmp" >nul
     if errorlevel 1 (
-        move /y "%translated_file%.tmp" "%translated_file%" >nul
+        call :convert_crlf "%translated_file%.tmp" "%translated_file%"
         echo Prettified %translated_file%.
     ) else (
         del "%translated_file%.tmp"
     )
+)
+goto :eof
+
+:convert_crlf
+rem Function to convert CRLF to LF
+findstr /r "\r$" "%~1" >nul
+if %errorlevel%==0 (
+    rem Convert CRLF to LF by copiing content line by line
+    (for /f "delims=" %%A in ('type "%~1"') do (
+        echo(%%A>>"%~2"
+    )) >nul
+) else (
+    move /y "%~1" "%~2" >nul
 )
 goto :eof
