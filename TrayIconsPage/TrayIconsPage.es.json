@@ -2,6 +2,6 @@
   "AddTrayIconSpeed": "Añadir icono de velocidad (%) del ventilador a la barra de tareas",
   "AddTrayIconTemp": "Añadir icono de temperatura a la barra de tareas",
   "DefaultTrayIconColor": "Color predeterminado del icono de la barra de tareas",
-  "SyncIconColor": "Sincronizar color del icono con Windows",
-  "MissingTrayIconSensor": "No se encuentra el sensor de la barra de tareas"
+  "MissingTrayIconSensor": "No se encuentra el sensor de la barra de tareas",
+  "SyncIconColor": "Sincronizar color del icono con Windows"
 }

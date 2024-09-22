@@ -2,6 +2,6 @@
   "AddTrayIconSpeed": "Dodaj ikonę prędkości wentylatora w obszarze powiadomień (%)",
   "AddTrayIconTemp": "Dodaj ikonę temperatury w obszarze powiadomień",
   "DefaultTrayIconColor": "Domyślny kolor ikony w obszarze powiadomień",
-  "SyncIconColor": "Synchronizuj kolor ikony z systemem Windows",
-  "MissingTrayIconSensor": "Brak czujnika dla ikony w obszarze powiadomień"
+  "MissingTrayIconSensor": "Brak czujnika dla ikony w obszarze powiadomień",
+  "SyncIconColor": "Synchronizuj kolor ikony z systemem Windows"
 }

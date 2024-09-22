@@ -8,6 +8,7 @@
   "CheckForUpdate": "检查更新...",
   "ColumnsMode": "列模式",
   "Controls": "控制",
+  "CouldNotLoadCache": "无法加载缓存内容。",
   "CreateNewConfig": "创建新配置...",
   "Curves": "曲线",
   "CustomSensors": "自定义传感器",
@@ -33,6 +34,5 @@
   "TemperatureUnitQuestion": "为了应用温度单位变更，即将保存您的配置，并重置应用程序窗口，要继续吗？",
   "Theme": "主题",
   "TrayIcons": "托盘图标",
-  "ViewOptions": "查看选项",
-  "CouldNotLoadCache": "无法加载缓存内容。"
+  "ViewOptions": "查看选项"
 }

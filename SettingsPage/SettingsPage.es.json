@@ -1,4 +1,5 @@
 {
+  "CultureText": "Idioma",
   "Delay": "Retardo",
   "EditSources": "Configurar fuentes y ajustes...",
   "General": "General",
@@ -17,7 +18,6 @@
   "Sensors": "Sensores",
   "StartMinimized": "Iniciar minimizado",
   "StartUserLogon": "Iniciar con el usuario",
-  "TaskSchedulerAdminRequired": "No se pudo establecer el programa para iniciar con Windows en el programador de tareas. Se requieren permisos de administrador.",
-  "CultureText": "Idioma",
-  "Symbol": "ISO 639"
+  "Symbol": "ISO 639",
+  "TaskSchedulerAdminRequired": "No se pudo establecer el programa para iniciar con Windows en el programador de tareas. Se requieren permisos de administrador."
 }

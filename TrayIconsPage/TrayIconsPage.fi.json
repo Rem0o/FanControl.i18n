@@ -2,6 +2,6 @@
   "AddTrayIconSpeed": "Lisää ilmaisinalueelle kierroslukukuvake (%)",
   "AddTrayIconTemp": "Lisää ilmaisinalueelle lämpötilakuvake",
   "DefaultTrayIconColor": "Ilmaisinalueen kuvakkeen oletusväri",
-  "SyncIconColor": "Käytä Windowsin asetuksia vastaavaa väriä",
-  "MissingTrayIconSensor": "Ilmaisinalueen anturi puuttuu"
+  "MissingTrayIconSensor": "Ilmaisinalueen anturi puuttuu",
+  "SyncIconColor": "Käytä Windowsin asetuksia vastaavaa väriä"
 }

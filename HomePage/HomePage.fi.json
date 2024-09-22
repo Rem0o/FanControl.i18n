@@ -8,6 +8,7 @@
   "CheckForUpdate": "Tarkista päivitykset...",
   "ColumnsMode": "Saraketila",
   "Controls": "Ohjaimet",
+  "CouldNotLoadCache": "Välimuistin sisältöä ei voitu ladata.",
   "CreateNewConfig": "Luo uudet määritykset...",
   "Curves": "Käyrät",
   "CustomSensors": "Mukautetut sensorit",
@@ -33,6 +34,5 @@
   "TemperatureUnitQuestion": "Nähdäksesi lämpötilayksikön muutoksen määrityksesi tallennetaan ja sovelluksen ikkuna päivitetään. Haluatko jatkaa?",
   "Theme": "Teema",
   "TrayIcons": "Ilmaisinalueen kuvakkeet",
-  "ViewOptions": "Näkymävalinnat",
-  "CouldNotLoadCache": "Välimuistin sisältöä ei voitu ladata."
+  "ViewOptions": "Näkymävalinnat"
 }

@@ -8,6 +8,7 @@
   "CheckForUpdate": "Szukaj aktualizacji...",
   "ColumnsMode": "Tryb kolumnowy",
   "Controls": "Kontrolery",
+  "CouldNotLoadCache": "Nie udało się wczytać zawartości pamięci podręcznej.",
   "CreateNewConfig": "Utwórz nową konfigurację...",
   "Curves": "Krzywe",
   "CustomSensors": "Niestandardowe czujniki",
@@ -33,6 +34,5 @@
   "TemperatureUnitQuestion": "Zmiana jednostki temperatury wymaga zapisania konfiguracji i zresetowania okna aplikacji. Czy chcesz kontynuować?",
   "Theme": "Motyw",
   "TrayIcons": "Ikony Tray",
-  "ViewOptions": "Opcje widoku",
-  "CouldNotLoadCache": "Nie udało się wczytać zawartości pamięci podręcznej."
+  "ViewOptions": "Opcje widoku"
 }

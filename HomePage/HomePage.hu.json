@@ -8,6 +8,7 @@
   "CheckForUpdate": "Frissítés keresése...",
   "ColumnsMode": "Oszlopok mód",
   "Controls": "Vezérlők",
+  "CouldNotLoadCache": "Nem sikerült betölteni a gyorsítótár tartalmát.",
   "CreateNewConfig": "Új konfiguráció létrehozása...",
   "Curves": "Görbék",
   "CustomSensors": "Egyedi érzékelők",
@@ -33,6 +34,5 @@
   "TemperatureUnitQuestion": "A hőmérséklet mértékegységének módosításához a konfiguráció mentésre kerül, és az alkalmazás ablaka visszaáll. Folytatja?",
   "Theme": "Téma",
   "TrayIcons": "Tálca ikonok",
-  "ViewOptions": "Opciók megtekintése",
-  "CouldNotLoadCache": "Nem sikerült betölteni a gyorsítótár tartalmát."
+  "ViewOptions": "Opciók megtekintése"
 }

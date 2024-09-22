@@ -8,6 +8,7 @@
   "CheckForUpdate": "Vérifier mise à jour...",
   "ColumnsMode": "Mode colonnes",
   "Controls": "Contrôles",
+  "CouldNotLoadCache": "Le contenu de la cache ne pu être chargé.",
   "CreateNewConfig": "Créer nouvelle configuration...",
   "Curves": "Courbes",
   "CustomSensors": "Capteurs personalisés",
@@ -33,6 +34,5 @@
   "TemperatureUnitQuestion": "Pour changer d'unité de température, votre configuration va être enregistrée et la fenêtre de l'application va être réinitialisée. Voulez-vous continuer?",
   "Theme": "Thème",
   "TrayIcons": "Icônes\r\nd'état",
-  "ViewOptions": "Options d'affichage",
-  "CouldNotLoadCache": "Le contenu de la cache ne pu être chargé."
+  "ViewOptions": "Options d'affichage"
 }

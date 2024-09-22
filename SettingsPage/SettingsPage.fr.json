@@ -1,4 +1,5 @@
 {
+  "CultureText": "Langue",
   "Delay": "Délai",
   "EditSources": "Modifier les sources...",
   "General": "Général",
@@ -17,7 +18,6 @@
   "Sensors": "Capteurs",
   "StartMinimized": "Démarrer minimisé",
   "StartUserLogon": "Démarrer à l'ouverture de la session utilisateur",
-  "TaskSchedulerAdminRequired": "Impossible de définir le programme pour démarrer avec Windows dans le Planificateur de tâches. Utilisateur administrateur requis.",
-  "CultureText": "Langue",
-  "Symbol": "Symbole"
+  "Symbol": "Symbole",
+  "TaskSchedulerAdminRequired": "Impossible de définir le programme pour démarrer avec Windows dans le Planificateur de tâches. Utilisateur administrateur requis."
 }
