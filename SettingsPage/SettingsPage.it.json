@@ -1,4 +1,5 @@
 {
+  "CultureText": "Cultura",
   "Delay": "Ritardo",
   "EditSources": "Modifica fonti...",
   "General": "Generale",
@@ -17,7 +18,6 @@
   "Sensors": "Sensori",
   "StartMinimized": "Avvia ridotto a icona",
   "StartUserLogon": "Avvia all'accesso dell'utente",
-  "TaskSchedulerAdminRequired": "Impossibile impostare il programma per l'avvio con Windows nell’Utilità di pianificazione. È richiesto un utente amministratore.",
-  "CultureText": "Cultura",
-  "Symbol": "Simbolo"
+  "Symbol": "Simbolo",
+  "TaskSchedulerAdminRequired": "Impossibile impostare il programma per l'avvio con Windows nell’Utilità di pianificazione. È richiesto un utente amministratore."
 }

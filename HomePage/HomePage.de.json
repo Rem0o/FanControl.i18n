@@ -1,4 +1,3 @@
-
 {
   "About": "Über",
   "AddCustomSensor": "Benutzerdefinierten Sensor \"{0}\" hinzufügen",
@@ -9,6 +8,7 @@
   "CheckForUpdate": "Auf Update prüfen …",
   "ColumnsMode": "Spaltenmodus",
   "Controls": "Steuerungen",
+  "CouldNotLoadCache": "Cache-Inhalt konnte nicht geladen werden.",
   "CreateNewConfig": "Neue Konfiguration erstellen …",
   "Curves": "Kurven",
   "CustomSensors": "Benutzerdefinierte Sensoren",
@@ -34,6 +34,5 @@
   "TemperatureUnitQuestion": "Um die Änderung der Temperatureinheit anzuwenden, wird die Konfiguration gespeichert und das Anwendungsfenster zurückgesetzt. Fortfahren?",
   "Theme": "Design",
   "TrayIcons": "Tray-\r\nIcons",
-  "ViewOptions": "Optionen anzeigen",
-  "CouldNotLoadCache": "Cache-Inhalt konnte nicht geladen werden."
+  "ViewOptions": "Optionen anzeigen"
 }

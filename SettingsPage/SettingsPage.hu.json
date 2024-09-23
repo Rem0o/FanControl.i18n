@@ -1,4 +1,5 @@
 {
+  "CultureText": "Kultúra",
   "Delay": "Késleltetés",
   "EditSources": "Források szerkesztése...",
   "General": "Általános",
@@ -17,7 +18,6 @@
   "Sensors": "Érzékelők",
   "StartMinimized": "Indítás minimalizálva",
   "StartUserLogon": "Indítás a felhasználói bejelentkezéskor",
-  "TaskSchedulerAdminRequired": "Nem sikerült beállítani, hogy a program a Windows rendszerrel induljon a Feladatütemezőben. Adminisztrátor felhasználó szükséges.",
-  "CultureText": "Kultúra",
-  "Symbol": "Szimbólum"
+  "Symbol": "Szimbólum",
+  "TaskSchedulerAdminRequired": "Nem sikerült beállítani, hogy a program a Windows rendszerrel induljon a Feladatütemezőben. Adminisztrátor felhasználó szükséges."
 }

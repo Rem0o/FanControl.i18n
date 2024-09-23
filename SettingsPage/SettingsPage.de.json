@@ -1,4 +1,5 @@
 {
+  "CultureText": "Sprache",
   "Delay": "Verzögerung",
   "EditSources": "Quellen bearbeiten …",
   "General": "Allgemein",
@@ -17,7 +18,6 @@
   "Sensors": "Sensoren",
   "StartMinimized": "Minimiert starten",
   "StartUserLogon": "Bei Benutzeranmeldung starten",
-  "TaskSchedulerAdminRequired": "Das Programm konnte in der Aufgabenplanung nicht so eingestellt werden, dass es beim Start von Windows ausgeführt wird. Administratorrechte erforderlich.",
-  "CultureText": "Sprache",
-  "Symbol": "Symbol"
+  "Symbol": "Symbol",
+  "TaskSchedulerAdminRequired": "Das Programm konnte in der Aufgabenplanung nicht so eingestellt werden, dass es beim Start von Windows ausgeführt wird. Administratorrechte erforderlich."
 }

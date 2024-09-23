@@ -8,6 +8,7 @@
   "CheckForUpdate": "Check for update...",
   "ColumnsMode": "Columns mode",
   "Controls": "Controls",
+  "CouldNotLoadCache": "Could not load cache content.",
   "CreateNewConfig": "Create new configuration...",
   "Curves": "Curves",
   "CustomSensors": "Custom Sensors",
@@ -33,6 +34,5 @@
   "TemperatureUnitQuestion": "To apply the temperature unit change, your config will be saved and the application window will be reset. Do you want to continue?",
   "Theme": "Theme",
   "TrayIcons": "Tray Icons",
-  "ViewOptions": "View options",
-  "CouldNotLoadCache": "Could not load cache content."
+  "ViewOptions": "View options"
 }

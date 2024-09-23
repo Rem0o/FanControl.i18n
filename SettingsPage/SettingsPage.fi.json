@@ -1,4 +1,5 @@
 {
+  "CultureText": "Kieli",
   "Delay": "Viive",
   "EditSources": "Muokkaa lähteitä...",
   "General": "Yleiset",
@@ -17,7 +18,6 @@
   "Sensors": "Anturit",
   "StartMinimized": "Käynnistä pienennettynä",
   "StartUserLogon": "Käynnistä käyttäjän kirjautuessa",
-  "TaskSchedulerAdminRequired": "Sovellusta ei voitu asettaa käynnistymään Windowsin Tehtävien ajoituksella. Tämä vaatii järjestelmänvalvojan oikeudet.",
-  "CultureText": "Kieli",
-  "Symbol": "Symboli"
+  "Symbol": "Symboli",
+  "TaskSchedulerAdminRequired": "Sovellusta ei voitu asettaa käynnistymään Windowsin Tehtävien ajoituksella. Tämä vaatii järjestelmänvalvojan oikeudet."
 }

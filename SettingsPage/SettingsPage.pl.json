@@ -1,4 +1,5 @@
 {
+  "CultureText": "Język",
   "Delay": "Opóźnienie",
   "EditSources": "Edytuj źródła...",
   "General": "Ogólne",
@@ -17,7 +18,6 @@
   "Sensors": "Czujniki",
   "StartMinimized": "Uruchom zminimalizowany",
   "StartUserLogon": "Uruchom po zalogowaniu",
-  "TaskSchedulerAdminRequired": "Nie można ustawić uruchamiania programu z systemem Windows przy użyciu Harmonogramu zadań. Wymagany użytkownik z uprawnieniami administratora.",
-  "CultureText": "Język",
-  "Symbol": "Symbol"
+  "Symbol": "Symbol",
+  "TaskSchedulerAdminRequired": "Nie można ustawić uruchamiania programu z systemem Windows przy użyciu Harmonogramu zadań. Wymagany użytkownik z uprawnieniami administratora."
 }

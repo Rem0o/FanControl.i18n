@@ -1,4 +1,5 @@
 {
+  "CultureText": "区域",
   "Delay": "延迟",
   "EditSources": "编辑数据源...",
   "General": "常规",
@@ -17,7 +18,6 @@
   "Sensors": "传感器",
   "StartMinimized": "启动时最小化",
   "StartUserLogon": "在用户登录时启动",
-  "TaskSchedulerAdminRequired": "无法在计划任务中设置本程序随 Windows 启动。需要以管理员权限运行。",
-  "CultureText": "区域",
-  "Symbol": "符号"
+  "Symbol": "符号",
+  "TaskSchedulerAdminRequired": "无法在计划任务中设置本程序随 Windows 启动。需要以管理员权限运行。"
 }

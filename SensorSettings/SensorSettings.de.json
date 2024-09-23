@@ -32,4 +32,4 @@
   "ZeroRPMOverrideHelpPart4": "Beachte, dass du etwas herumprobieren musst, um den Wert zu finden, bei der deine Karte ab Werk auf 0 RPM geht.",
   "ZeroRPMOverrideHelpPart5": "Oberhalb dieser Temperatur können 0 RPM nicht eingestellt werden.",
   "ZeroRPMOverrideHelpPart6": "Um diese Funktion richtig zu nutzen, setze die Start-%- und Stopp-%-Werte deiner Nvidia-Steuerungen auf 30%, sodass jeder %-Wert unterhalb dieses Schwellenwerts auf 0 % springt."
-} 
+}
