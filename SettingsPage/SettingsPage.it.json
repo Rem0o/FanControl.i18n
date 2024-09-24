@@ -5,19 +5,19 @@
   "General": "Generale",
   "InstallPlugin": "Installa plugin...",
   "LoadedPlugins": "Plugin caricati",
-  "Nicknames": "Soprannome",
-  "NoPluginSensorsHelpText": "Nessun sensore dal plugin rilevato. Assicurati che il plugin sia abilitato nella finestra delle fonti dei sensori e che sia stato eseguito un aggiornamento.",
+  "Nicknames": "Soprannomi",
+  "NoPluginSensorsHelpText": "Nessun sensore, appartenente al plugin, rilevato. Assicurati che il plugin sia abilitato nella finestra delle fonti dei sensori e che sia stato eseguito un aggiornamento.",
   "NoPlugins": "Nessun plugin caricato",
   "NotifyForUpdate": "Notifica aggiornamenti all'avvio",
   "OriginalName": "Nome originale: {0}",
   "PluginSensors": "Sensori del plugin",
   "Plugins": "Plugin",
   "SecondUnit": "sec",
-  "SelectSensorNickname": "Seleziona un sensore per il soprannome",
+  "SelectSensorNickname": "Seleziona un sensore da soprannominare",
   "SensorNickname": "Soprannome del sensore (modificabile)",
   "Sensors": "Sensori",
   "StartMinimized": "Avvia ridotto a icona",
   "StartUserLogon": "Avvia all'accesso dell'utente",
   "Symbol": "Simbolo",
-  "TaskSchedulerAdminRequired": "Impossibile impostare il programma per l'avvio con Windows nell’Utilità di pianificazione. È richiesto un utente amministratore."
+  "TaskSchedulerAdminRequired": "Impossibile impostare il programma per l'avvio con Windows nell’utilità di pianificazione. È richiesto un utente amministratore."
 }
