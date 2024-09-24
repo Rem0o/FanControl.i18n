@@ -14,7 +14,7 @@
   "DiscrepancyPart4": "The control has a limited minimum value set to {0} %.",
   "DiscrepancyPart5": "The control value (%) relative to its RPM doesn't match the set calibration at all. Calibration should be revised.",
   "DiscrepancyPart6": "The control doesn't respond at all to any command.",
-  "DiscrepancyPart7": "The control is being overriden by an external source.",
+  "DiscrepancyPart7": "The control is being overridden by an external source.",
   "DiscrepancyPart8": "If it's the latter, you can activate the following option, which will reapply the value everytime a discrepancy is detected.",
   "EditCalibration": "Edit calibration...",
   "EnableDisableSoftwareControl": "Enable software control",
