@@ -1,6 +1,6 @@
 {
   "Cancel": "Cancelar",
-  "ConfigChangedQuestion": "Sua configuração atual foi alterada. Você quer salvar ou descartar essas mudanças?",
+  "ConfigChangedQuestion": "A configuração atual foi alterada.",
   "ConfigCouldNotBeSaved": "A configuração não pôde ser salva. Consulte o log para mais detalhes.",
   "ConfigName": "Nome da configuração:",
   "ConfigRestoreError": "Ocorreram estes erros durante a restauração da configuração:",
@@ -18,7 +18,7 @@
   "MissingControlSensor": "Controle não encontrado",
   "MissingSpeedSensor": "Sensor de velocidade não encontrado",
   "MissingTemperatureSensor": "Sensor de temperatura não encontrado",
-  "NameConflicts": "Os seguintes itens têm conflito de nome com sua configuração atual:",
+  "NameConflicts": "Os seguintes itens têm conflito de nome com a configuração atual:",
   "NothingToImportIn": "Não há curvas de ventoinha ou sensores personalizados para importar em {0}.",
   "RestoreErrorIncreaseDelay": "Se este erro ocorrer na inicialização, tente aumentar o atraso de inicialização.",
   "RetryFailed": "Tentativa de reinicialização falhou ({0})",

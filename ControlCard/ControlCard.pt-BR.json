@@ -36,10 +36,10 @@
   "RecalibrateAuto": "Recalibrar controle emparelhado automaticamente...",
   "RemovePaired": "Remover sensor de velocidade emparelhado",
   "StartPercent": "Início %",
-  "StartPercentHelp": "Limite de porcentagem (%) para que a ventoinha comece a girar.",
+  "StartPercentHelp": "Limite (%) para que a ventoinha comece a girar.",
   "StepDown": "Desaceleração",
-  "StepHelp": "Define a velocidade usada pelo controle (%/s).",
+  "StepHelp": "Define a velocidade do controle (%/s).",
   "StepUp": "Aceleração",
   "StopPercent": "Parada %",
-  "StopPercentHelp": "Limiar de porcentagem (%) para que a ventoinha pare de girar."
+  "StopPercentHelp": "Limite (%) para que a ventoinha pare de girar."
 }
