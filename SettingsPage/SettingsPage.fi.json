@@ -12,12 +12,12 @@
   "OriginalName": "Alkuperäinen nimi: {0}",
   "PluginSensors": "lisäosan anturit",
   "Plugins": "Lisäosat",
-  "SecondUnit": "toinen",
+  "SecondUnit": "sekuntia",
   "SelectSensorNickname": "Anna anturille lempinimi",
   "SensorNickname": "Anturin lempinimi (muokattavissa)",
   "Sensors": "Anturit",
   "StartMinimized": "Käynnistä pienennettynä",
   "StartUserLogon": "Käynnistä käyttäjän kirjautuessa",
-  "Symbol": "Symboli",
+  "Symbol": "Koodi",
   "TaskSchedulerAdminRequired": "Sovellusta ei voitu asettaa käynnistymään Windowsin Tehtävien ajoituksella. Tämä vaatii järjestelmänvalvojan oikeudet."
 }
