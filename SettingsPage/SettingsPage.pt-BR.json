@@ -17,7 +17,7 @@
   "SensorNickname": "Apelido do sensor (editável)",
   "Sensors": "Sensores",
   "StartMinimized": "Iniciar minimizado",
-  "StartUserLogon": "Iniciar ao fazer login do usuário",
+  "StartUserLogon": "Iniciar no login",
   "Symbol": "Símbolo",
   "TaskSchedulerAdminRequired": "Não foi possível configurar o programa para iniciar com o Windows no Agendador de Tarefas. É necessário um usuário administrador."
 }

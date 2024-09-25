@@ -35,7 +35,7 @@
   "SelectedControl": "Selected control",
   "SelectedControlDescription": "The control to sync with",
   "Step": "Step",
-  "StepDescription": "Rate at which the value will change after the given reponse time. Step is half on the way down.",
+  "StepDescription": "Rate at which the value will change after the given response time. Step is half on the way down.",
   "Subtract": "Subtract",
   "Sum": "Sum",
   "Temp": "Temp",

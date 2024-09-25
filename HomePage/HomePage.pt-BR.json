@@ -27,12 +27,12 @@
   "RefreshSensors": "Atualizar detecção de sensores",
   "SaveConfig": "Salvar configuração",
   "SaveConfigAs": "Salvar configuração como...",
-  "Settings": "Configurações",
+  "Settings": "Configs",
   "Setup": "Configurar",
   "ShowHiddenCards": "Mostrar cartões ocultos",
   "Speeds": "Velocidades",
-  "TemperatureUnitQuestion": "Para aplicar a mudança da unidade de temperatura, sua configuração será salva e a janela do aplicativo será reiniciada. Deseja continuar?",
+  "TemperatureUnitQuestion": "Para aplicar a mudança da unidade de temperatura, a configuração será salva e a janela do aplicativo será reiniciada. Deseja continuar?",
   "Theme": "Tema",
-  "TrayIcons": "Ícones da bandeja",
+  "TrayIcons": "Ícones",
   "ViewOptions": "Opções de visualização"
 }

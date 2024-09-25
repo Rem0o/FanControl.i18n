@@ -20,5 +20,5 @@
   "OffsetDescription": "The offset custom sensor allows to offset an existing sensor.",
   "SaveSensorFileDialogTitle": "Save sensor file",
   "TimeAverage": "Time Average",
-  "TimeAverageDescription": "The time average custom sensor averages the selected sensor over a set ammount of time."
+  "TimeAverageDescription": "The time average custom sensor averages the selected sensor over a set amount of time."
 }
