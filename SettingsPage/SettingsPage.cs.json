@@ -1,0 +1,23 @@
+{
+  "CultureText": "Jazyk",
+  "Delay": "Zpoždění",
+  "EditSources": "Upravit zdroje...",
+  "General": "Obecné",
+  "InstallPlugin": "Instalovat plugin...",
+  "LoadedPlugins": "Načtené pluginy",
+  "Nicknames": "Přezdívky",
+  "NoPluginSensorsHelpText": "Nebyly detekovány žádné senzory z pluginu. Ujistěte se, že je plugin povolen v okně zdrojů senzorů a obnovení bylo provdeno.",
+  "NoPlugins": "Žádné pluginy nejsou načteny",
+  "NotifyForUpdate": "Upozornit na aktualizaci při spuštění",
+  "OriginalName": "Původní název: {0}",
+  "PluginSensors": "senzory pluginu",
+  "Plugins": "Pluginy",
+  "SecondUnit": "sek",
+  "SelectSensorNickname": "Vyberte senzor pro přidání přezdívky",
+  "SensorNickname": "Přezdívka senzoru (upravitelná)",
+  "Sensors": "Senzory",
+  "StartMinimized": "Spustit minimalizované",
+  "StartUserLogon": "Spustit při přihlášení uživatele",
+  "Symbol": "Symbol",
+  "TaskSchedulerAdminRequired": "Nepodařilo se nastavit program, aby se spouštěl s Windows v Plánovači úloh. Je vyžadován administrátorský účet."
+}
