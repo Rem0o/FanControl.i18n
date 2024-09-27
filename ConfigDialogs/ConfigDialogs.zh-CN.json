@@ -21,7 +21,7 @@
   "NameConflicts": "以下项目与您的当前配置存在名称冲突：",
   "NothingToImportIn": "{0} 中没有可导入的风扇曲线或自定义传感器。",
   "RestoreErrorIncreaseDelay": "如果是启动期间发生此错误，请尝试增加启动延迟。",
-  "RetryFailed": "初始化重试失败（{0}）",
+  "RetryFailed": "初始化重试失败.",
   "SelectAll": "全选",
   "SelectConfigFile": "选择配置文件"
 }

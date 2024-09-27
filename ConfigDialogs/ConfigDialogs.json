@@ -21,7 +21,7 @@
   "NameConflicts": "The following items have name conflict with your current configuration:",
   "NothingToImportIn": "There is no fan curves or custom sensors to import in {0}.",
   "RestoreErrorIncreaseDelay": "if this error occurs upon startup, try increasing your startup delay.",
-  "RetryFailed": "Initialization retry failed ({0})",
+  "RetryFailed": "Initialization retry failed.",
   "SelectAll": "Select all",
   "SelectConfigFile": "Select a configuration file"
 }

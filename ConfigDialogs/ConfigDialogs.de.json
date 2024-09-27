@@ -21,7 +21,7 @@
   "NameConflicts": "Folgende Elemente weisen einen Namenskonflikt mit deiner derzeitigen Konfiguration auf:",
   "NothingToImportIn": "Keine Lüfterkurven oder benutzerdefinierten Sensoren zum Import in {0} vorhanden.",
   "RestoreErrorIncreaseDelay": "Tritt dieser Fehler beim Hochfahren auf, bitte eine höhere Startverzögerung einstellen.",
-  "RetryFailed": "Wiederholter Initialisierungsversuch fehlgeschlagen ({0})",
+  "RetryFailed": "Wiederholter Initialisierungsversuch fehlgeschlagen.",
   "SelectAll": "Alle auswählen",
   "SelectConfigFile": "Konfigurationsdatei auswählen"
 }

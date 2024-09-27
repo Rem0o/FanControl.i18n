@@ -21,7 +21,7 @@
   "NameConflicts": "A következő elemek neve ütközik a jelenlegi konfigurációval:",
   "NothingToImportIn": "Nincsenek importálható ventilátor-görbék vagy egyéni érzékelők a következőben: {0}.",
   "RestoreErrorIncreaseDelay": "Ha ez a hiba jelentkezik az indításkor, próbálja meg növelni az indítási késleltetést!",
-  "RetryFailed": "Az inicializálási újrapróbálkozás sikertelen ({0})",
+  "RetryFailed": "Az inicializálási újrapróbálkozás sikertelen.",
   "SelectAll": "Összes kijelölése",
   "SelectConfigFile": "Válasszon ki egy konfigurációs fájlt!"
 }

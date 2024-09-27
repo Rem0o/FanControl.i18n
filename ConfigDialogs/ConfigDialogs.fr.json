@@ -21,7 +21,7 @@
   "NameConflicts": "Les items suivants ont des conflits de nom avec la configuration courante:",
   "NothingToImportIn": "Aucune courbe ou capteur à importer à partir de {0}.",
   "RestoreErrorIncreaseDelay": "Si cette erreur se produit au démarrage, essayez d'augmenter votre délai de démarrage.",
-  "RetryFailed": "Essaies d'initialisation en erreur. ({0})",
+  "RetryFailed": "Essaies d'initialisation en erreur.",
   "SelectAll": "Sélectionner tout",
   "SelectConfigFile": "Sélectionnez un fichier de configuration"
 }

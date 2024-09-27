@@ -21,7 +21,7 @@
   "NameConflicts": "Los siguientes elementos tienen un nombre conflictivo con su configuración actual:",
   "NothingToImportIn": "No hay curvas de ventiladores y sensores personalizados para importar de {0}.",
   "RestoreErrorIncreaseDelay": "Si este error ocurre al iniciar, pruebe a aumentar el retardo de inicio.",
-  "RetryFailed": "Reintento de inicialización fallido ({0})",
+  "RetryFailed": "Reintento de inicialización fallido.",
   "SelectAll": "Seleccionar todo",
   "SelectConfigFile": "Selecciona un archivo de configuración"
 }

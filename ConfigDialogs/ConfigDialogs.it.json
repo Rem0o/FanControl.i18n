@@ -21,7 +21,7 @@
   "NameConflicts": "I seguenti elementi hanno un conflitto di nome con la configurazione corrente:",
   "NothingToImportIn": "Non ci sono curve delle ventole o sensori personalizzati da importare in {0}.",
   "RestoreErrorIncreaseDelay": "Se questo errore si verifica all’avvio, prova ad aumentare il ritardo di avvio.",
-  "RetryFailed": "Tentativo di inizializzazione fallito ({0})",
+  "RetryFailed": "Tentativo di inizializzazione fallito.",
   "SelectAll": "Seleziona tutto",
   "SelectConfigFile": "Seleziona un file di configurazione"
 }

@@ -21,7 +21,7 @@
   "NameConflicts": "Seuraavien kohteiden nimet ovat ristiriidassa nykyisten määritystesi kanssa:",
   "NothingToImportIn": "\"{0}\" ei sisällä tuuletinkäyriä tai mukautettuja antureita.",
   "RestoreErrorIncreaseDelay": "Jos virhe tapahtuu käynnistettäessä, kokeile auttaako pidempi käynnistysviive.",
-  "RetryFailed": " Uusi alustusyritys epäonnistui ({0})",
+  "RetryFailed": " Uusi alustusyritys epäonnistui.",
   "SelectAll": "Valitse kaikki",
   "SelectConfigFile": "Valitse määritystiedosto"
 }

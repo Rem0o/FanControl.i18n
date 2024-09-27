@@ -21,7 +21,7 @@
   "NameConflicts": "Następujące elementy powodują konflikt nazw z bieżącą konfiguracją:",
   "NothingToImportIn": "Brak krzywych wentylatorów lub niestandardowych czujników do zaimportowania z {0}.",
   "RestoreErrorIncreaseDelay": "Jeśli ten błąd występuje przy uruchamianiu, spróbuj zwiększyć opóźnienie.",
-  "RetryFailed": "Ponowna inicjalizacja nie powiodła się ({0})",
+  "RetryFailed": "Ponowna inicjalizacja nie powiodła się.",
   "SelectAll": "Zaznacz wszystkie",
   "SelectConfigFile": "Wybierz plik konfiguracji"
 }

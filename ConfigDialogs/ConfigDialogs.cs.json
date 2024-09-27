@@ -21,7 +21,7 @@
   "NameConflicts": "Následující položky jsou v konfliktu názvů s vaší aktuální konfigurací:",
   "NothingToImportIn": "Není možné importovat křivky venzilátoru aní vlastní senzory do {0}.",
   "RestoreErrorIncreaseDelay": "pokud k této chybě dochází při spuštění, zkuste zvýšit prodlevu při spuštění.",
-  "RetryFailed": "Opakovaný pokus o inicializaci se nezdařil ({0})",
+  "RetryFailed": "Opakovaný pokus o inicializaci se nezdařil.",
   "SelectAll": "Vybrat vše",
   "SelectConfigFile": "Výběr konfiguračního souboru"
 }
