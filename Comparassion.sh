@@ -15,6 +15,20 @@ cleanup=0
 prettify=0
 all=0
 
+# Functions for usage and version
+usage() {
+    echo "USAGE:"
+    echo "  $__NAME [OPTIONS]"
+    echo
+    echo "  OPTIONS:"
+    echo "    -h, --help       Show this help message."
+    echo "    -v, --version    Show the version of the script."
+    echo "    --update         Add new keys from the base file to translated files."
+    echo "    --cleanup        Remove old/unexpected keys from translated files."
+    echo "    --prettify       Format JSON files with pretty printing."
+    echo "    --all            Include base translation when processing."
+}
+
 # Handle command-line arguments
 while [[ "$#" -gt 0 ]]; do
     case "$1" in
@@ -46,20 +60,6 @@ while [[ "$#" -gt 0 ]]; do
     esac
     shift
 done
-
-# Functions for usage and version
-usage() {
-    echo "USAGE:"
-    echo "  $__NAME [OPTIONS]"
-    echo
-    echo "  OPTIONS:"
-    echo "    -h, --help       Show this help message."
-    echo "    -v, --version    Show the version of the script."
-    echo "    --update         Add new keys from the base file to translated files."
-    echo "    --cleanup        Remove old/unexpected keys from translated files."
-    echo "    --prettify       Format JSON files with pretty printing."
-    echo "    --all            Include base translation when processing."
-}
 
 version() {
     echo "$__NAME v$__VERSION"
