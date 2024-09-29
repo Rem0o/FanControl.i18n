@@ -21,7 +21,7 @@
   "NameConflicts": "Os seguintes itens têm conflito de nome com a configuração atual:",
   "NothingToImportIn": "Não há curvas de ventoinha ou sensores personalizados para importar em {0}.",
   "RestoreErrorIncreaseDelay": "Se este erro ocorrer na inicialização, tente aumentar o atraso de inicialização.",
-  "RetryFailed": "Tentativa de reinicialização falhou ({0})",
+  "RetryFailed": "Tentativa de reinicialização falhou.",
   "SelectAll": "Selecionar tudo",
   "SelectConfigFile": "Selecione um arquivo de configuração"
 }
