@@ -1,5 +1,5 @@
 {
-  "CultureText": "Kultúra",
+  "CultureText": "Nyelv",
   "Delay": "Késleltetés",
   "EditSources": "Források szerkesztése...",
   "General": "Általános",
@@ -13,7 +13,7 @@
   "PluginSensors": "Plugin érzékelők",
   "Plugins": "Pluginok",
   "SecondUnit": "mp",
-  "SelectSensorNickname": "Válasszon egy érzékelőt a becenévhez",
+  "SelectSensorNickname": "Válasszon egy érzékelőt becenév hozzáadásához",
   "SensorNickname": "Érzékelő beceneve (szerkeszthető)",
   "Sensors": "Érzékelők",
   "StartMinimized": "Indítás minimalizálva",
