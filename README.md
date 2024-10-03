@@ -11,3 +11,9 @@ Try and keep the relative size of the string close to the original, to avoid lay
 The most common language codes can be found [here](https://www.techonthenet.com/js/language_tags.php).
 
 Translations will be pulled into the main software periodically.
+
+## Formatting script
+The formatting script will run on every PR.  To run the script locally before committing:
+```powershell
+./format-json.ps1 -Fix
+```
