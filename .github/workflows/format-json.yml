@@ -1,0 +1,28 @@
+name: Run format-json Script
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run PowerShell script
+        shell: pwsh
+        run: |
+          $result = & ./format-json.ps1
+          if ($result -eq -1) {
+            Write-Error "Script failed with output -1"
+            exit 1
+          } else {
+            Write-Output "Script succeeded with output $result"
+          }
