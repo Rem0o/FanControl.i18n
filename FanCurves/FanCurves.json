@@ -26,7 +26,7 @@
   "RpmModeWarning": "Changing mode will reset this graph. Are you sure you want to continue?",
   "Sync": "Sync",
   "SyncDescription": "The sync fan curve will output the same % as the selected control.",
-  "SyncLoopError": "\"Loop detected. Control {0} could not be set as a source.",
+  "SyncLoopError": "Loop detected. Control {0} could not be set as a source.",
   "Trigger": "Trigger",
   "TriggerDescription": "The trigger fan curve will hold its fan speed until one of the two changing point is triggered.",
   "TriggerIdleDescription": "Below the idle temperature, idle fan speed is applied until the temperature gets back up to the load temperature.",

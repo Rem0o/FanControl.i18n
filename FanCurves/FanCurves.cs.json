@@ -26,7 +26,7 @@
   "RpmModeWarning": "Změnou režimu se tento graf vynuluje. Určitě chcete pokračovat?",
   "Sync": "Synchronizace",
   "SyncDescription": "Synchronizační křivka ventilátoru bude mít stejný výstup v % jako vybraný ovládací prvek.",
-  "SyncLoopError": "\"Zjištěna smyčka. Ovládací prvek {0} se nepodařilo nastavit jako zdroj.",
+  "SyncLoopError": "Zjištěna smyčka. Ovládací prvek {0} se nepodařilo nastavit jako zdroj.",
   "Trigger": "Spoušť",
   "TriggerDescription": "Spouštěcí křivka ventilátoru bude držet otáčky ventilátoru, dokud nebude spuštěn jeden ze dvou měnících se bodů.",
   "TriggerIdleDescription": "Pod teplotou volnoběhu se volnoběžné otáčky ventilátoru používají, dokud se teplota nevrátí na teplotu zátěže.",

@@ -26,7 +26,7 @@
   "RpmModeWarning": "Cambiar el modo reestablecerá el gráfico. ¿Estás seguro que quieres continuar?",
   "Sync": "Sinc",
   "SyncDescription": "La curva sinc emitirá el mismo % del controlador seleccionado.",
-  "SyncLoopError": "\"Bucle detectado. El controlador {0} no se puede establecer como origen.",
+  "SyncLoopError": "Bucle detectado. El controlador {0} no se puede establecer como origen.",
   "Trigger": "Disparador",
   "TriggerDescription": "La curva disparador mantendrá la velocidad hasta llegar a uno de los dos puntos de cambio.",
   "TriggerIdleDescription": "Por debajo de la temperatura de reposo, se aplicará la velocidad de reposo hasta que suba a la temperatura de carga.",

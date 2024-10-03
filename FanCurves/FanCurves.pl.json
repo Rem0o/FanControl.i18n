@@ -26,7 +26,7 @@
   "RpmModeWarning": "Zmiana trybu zresetuje ten wykres. Czy na pewno kontynuować?",
   "Sync": "Synchroniczna",
   "SyncDescription": "Synchroniczna krzywa wentylatora będzie uzyskiwać ten sam procent, co wybrany kontroler.",
-  "SyncLoopError": "\"Wykryto pętlę. Kontroler {0} nie może być ustawiony jako źródło.",
+  "SyncLoopError": "Wykryto pętlę. Kontroler {0} nie może być ustawiony jako źródło.",
   "Trigger": "Wyzwalana",
   "TriggerDescription": "Wyzwalana krzywa utrzyma prędkość wentylatora, dopóki nie zostanie wyzwolony jeden z dwóch punktów zmiany.",
   "TriggerIdleDescription": "Poniżej temperatury bezczynności stosowana jest prędkość wentylatora bezczynności, dopóki temperatura nie wzrośnie do poziomu obciążenia.",

@@ -1,8 +1,8 @@
 {
   "Credit": "Credit",
   "Donate": "Donate",
-  "EULA": "EULA",
   "Email": "Email",
+  "EULA": "EULA",
   "OfficialWebsite": "Official website",
   "Sponsor": "Sponsor",
   "VersionStringFormat": "Version: {0}"

@@ -26,7 +26,7 @@
   "RpmModeWarning": "更改模式将重置此图形。确定要继续吗？",
   "Sync": "同步",
   "SyncDescription": "同步型风扇曲线输出与所选控制器相同的百分比。",
-  "SyncLoopError": "\"检测到循环。控制器 {0} 不能设置为源。",
+  "SyncLoopError": "检测到循环。控制器 {0} 不能设置为源。",
   "Trigger": "触发",
   "TriggerDescription": "触发型风扇曲线在两个临界点之一被触发之前维持其风扇速度。",
   "TriggerIdleDescription": "低于闲置温度时，应用闲置风扇速度，直到温度回升至负载温度。",

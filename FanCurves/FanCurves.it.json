@@ -26,7 +26,7 @@
   "RpmModeWarning": "Cambiare modalità reimposterà questo grafico. Sei sicuro di voler continuare?",
   "Sync": "Sincronizza",
   "SyncDescription": "La curva sincronizzata emetterà la stessa % del controllo selezionato.",
-  "SyncLoopError": "\"Loop rilevato. Il controllo {0} non può essere impostato come sorgente.",
+  "SyncLoopError": "Loop rilevato. Il controllo {0} non può essere impostato come sorgente.",
   "Trigger": "Innesco",
   "TriggerDescription": "La curva di innesco manterrà la sua velocità finché uno dei due punti di cambiamento non si attiverà.",
   "TriggerIdleDescription": "Sotto la temperatura a riposo, viene applicata la velocità a riposo finché la temperatura non raggiunge quella di carico.",

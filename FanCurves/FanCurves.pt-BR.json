@@ -26,7 +26,7 @@
   "RpmModeWarning": "Mudar o modo irá redefinir este gráfico. Tem certeza de que deseja continuar?",
   "Sync": "Sincronizar",
   "SyncDescription": "A curva de sincronização aplicará a mesma % do controle selecionado.",
-  "SyncLoopError": "\"Loop detectado. O controle {0} não pôde ser definido como uma fonte.",
+  "SyncLoopError": "Loop detectado. O controle {0} não pôde ser definido como uma fonte.",
   "Trigger": "Gatilho",
   "TriggerDescription": "A curva de gatilho manterá a velocidade da ventoinha até que um dos dois pontos de mudança seja ativado.",
   "TriggerIdleDescription": "Abaixo da temperatura de inatividade, a velocidade configurada é usada até que a temperatura suba para a temperatura de carga.",

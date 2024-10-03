@@ -1,8 +1,8 @@
 {
   "Credit": "Kehittänyt",
   "Donate": "Lahjoita",
-  "EULA": "Käyttöehdot",
   "Email": "Sähköposti",
+  "EULA": "Käyttöehdot",
   "OfficialWebsite": "Virallinen sivusto",
   "Sponsor": "Sponsoroi",
   "VersionStringFormat": "Versio: {0}"
