@@ -1,6 +1,6 @@
 {
   "AddFanCurve": "Aggiungi curva della ventola",
-  "AddSensor": "Add sensor",
+  "AddSensor": "Aggiungi sensore",
   "AdvancedHysteresis": "Isteresi avanzata",
   "Average": "Media",
   "Deadband": "Zona morta",
@@ -39,7 +39,7 @@
   "StepDescription": "Velocità con cui il valore cambierà dopo il tempo di risposta dato. Il passo è dimezzato in discesa.",
   "Subtract": "Sottrai",
   "Sum": "Somma",
-  "Temp": "Temp",
+  "Temp": "Temp.",
   "TemperatureSource": "Fonte di temperatura",
   "Time": "Tempo",
   "TimeDescription": "Periodo di media della fonte di temperatura selezionata.",
