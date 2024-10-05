@@ -18,7 +18,7 @@
   "DiscrepancyPart8": "Si es lo anterior, puedes activar la siguiente opción. Esto hará que se reaplique el valor cada vez que una discrepancia sea detectada.",
   "EditCalibration": "Editar calibración...",
   "EnableDisableSoftwareControl": "Habilitar controlador de software",
-  "ForceApply": "Aplicación forzosa",
+  "ForceApply": "Forzar aplicación",
   "ForceApplyEnabled": "Aplicación forzosa está activada.",
   "InvalidCalibrationError": "El controlador {0} no tiene una calibración válida y la curva del ventilador {1} está en modo RPM.",
   "ManualControl": "Control manual",
