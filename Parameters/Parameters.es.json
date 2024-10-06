@@ -1,6 +1,6 @@
 {
   "AddFanCurve": "Añadir curva",
-  "AddSensor": "Add sensor",
+  "AddSensor": "Añadir sensor",
   "AdvancedHysteresis": "Histéresis avanzada",
   "Average": "Media",
   "Deadband": "Zona muerta",
@@ -9,7 +9,7 @@
   "FileName": "Nombre del archivo",
   "Function": "Función",
   "Hysteresis": "Histéresis",
-  "HysteresisDescription": "Delta mínimo de temperatura para que se produzca un cambio.",
+  "HysteresisDescription": "Delta de temperatura mínimo para que se produzca un cambio.",
   "HysteresisDownOnly": "La histéresis sólo se aplica en la bajada",
   "IdleSpeed": "Velocidad en reposo",
   "IdleTemp": "Temp. en reposo.",
