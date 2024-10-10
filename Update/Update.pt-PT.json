@@ -1,0 +1,9 @@
+{
+  "CurrentVersionUpToDate": "A versão atual ({0}) está atualizada!",
+  "DisableUpdatePopupStartup": "Desativar esta janela na inicialização.",
+  "DownloadingUpdater": "A transferir o atualizador...",
+  "NewVersion": "Uma nova versão está disponível: {0} (atual {1})",
+  "UpdateAvailable": "Uma nova atualização está disponível",
+  "UpdateText": "Atualizar",
+  "VersionInfoError": "Ocorreu um erro ao consultar a versão com o servidor."
+}
