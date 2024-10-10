@@ -112,11 +112,12 @@ function ConvertTo-OrderedDictionaryFromArray {
 
 $fullPath = $Path | Resolve-Path
 Write-Output "Scanning $fullPath"
-Write-Output ""
+Write-Output "${[Environment]::NewLine}"
 
 $baseFiles = Get-ChildItem -Path $Path -Filter "*.json" -Recurse | Where-Object { $_.Name -notmatch "\.[a-z]{2}(-[a-z]{2})?\.json$" }
 
 $exitCode = 0
+$problem = ""
 
 foreach ($baseFile in $baseFiles) {
     $baseJson = Get-Content -Path $baseFile.FullName -Raw;
@@ -155,8 +156,9 @@ foreach ($baseFile in $baseFiles) {
             $formattedTranslationJson = ConvertTo-OrderedDictionaryFromArray($translation.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
             if ($formattedTranslationJson -ne $translationJson) {
                 $exitCode = -1
+                $problem = "Formatting for [$translationFile] is wrong"
                 if ($Fix) {
-                    Write-Output "Formatting $translationFile"
+                    Write-Output "Formatting [$translationFile]"
                     Set-Content -Path $translationFile.FullName -Value $formattedTranslationJson -NoNewLine
                 }
             }
@@ -166,20 +168,27 @@ foreach ($baseFile in $baseFiles) {
     $formattedBaseJson = ConvertTo-OrderedDictionaryFromArray( $baseDictionary.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
     if ($formattedBaseJson -ne $baseJson) {
         $exitCode = -1;
+        $problem = "Formatting for [$baseFile] is wrong"
         if ($Fix) {
-            Write-Output "Formatting $baseFile"
+            Write-Output "Formatting [$baseFile]"
             Set-Content -Path $baseFile.FullName -Value $formattedBaseJson -NoNewLine
         }
     }
-    
 }
 
-if ($exitCode -eq 0) {
-    Write-Output "No problem found!"
+Write-Output "${[Environment]::NewLine}"
+if ( $Fix -and ($exitCode -eq -1) ) {
+    $exitCode = 0
 }
-else {
-    Write-Output ""
+elseif ( $exitCode -eq -1) {
     Write-Output "Problems found!"
+    if ( -Not [String]::IsNullOrEmpty($problem) ) {
+        Write-Output $problem
+    }
+}
+# Success (0)
+else { 
+    Write-Output "No problem found!"
 }
 
 exit $exitCode
