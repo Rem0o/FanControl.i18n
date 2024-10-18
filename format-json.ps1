@@ -5,6 +5,8 @@ param (
 
 $newline = [Environment]::NewLine
 $windowsNewline = "`r`n"
+$charA = [System.Convert]::ToChar(0xA)
+$charD = [System.Convert]::ToChar(0xD)
 
 function Format-Json {
     Param(
@@ -46,9 +48,9 @@ function Format-Json {
         $line
     }
 
-    $res = ($result -Join $newline)
+    $res = ($result -Join $windowsNewline) -replace $charA, $windowsNewline
 
-    return $res -replace $newline, $windowsNewline
+    return $res
 }
 
 function Compare-Json {
@@ -152,6 +154,17 @@ foreach ($baseFile in $baseFiles) {
             if ($formattedTranslationJson -ne $translationJson) {
                 $exitCode = -1
                 $problem += "Formatting for [$translationFile] is wrong" + $newline
+
+                $length = [math]::Min($formattedTranslationJson.Length, $translationJson.Length)
+                for ($i = 0; $i -lt $length; $i++) {
+                    if ($formattedTranslationJson[$i] -ne $translationJson[$i]) {
+                        $hex1 = [System.Convert]::ToString([System.Convert]::ToInt32($formattedTranslationJson[$i]), 16)
+                        $hex2 = [System.Convert]::ToString([System.Convert]::ToInt32($translationJson[$i]), 16)
+                        Write-Output "Difference at position {$i}: (0x$hex1) vs (0x$hex2)"
+                        break;
+                    }
+                }
+
 
                 if ($Fix) {
                     Write-Output "Formatting [$translationFile]"

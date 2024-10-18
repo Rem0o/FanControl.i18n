@@ -1,7 +1,7 @@
-﻿{
-  "AddTrayIconSpeed": "Ventilátor-sebesség tálcaikon hozzáadása (%)",
-  "AddTrayIconTemp": "Hőmérséklet tálcaikon hozzáadása",
-  "DefaultTrayIconColor": "Alapértelmezett tálcaikon szín",
-  "MissingTrayIconSensor": "Hiányzó tálcaikon érzékelő",
-  "SyncIconColor": "Tálcaikon színének szinkronizálása a Windows-al"
+﻿{
+  "AddTrayIconSpeed": "Ventilátor-sebesség tálcaikon hozzáadása (%)",
+  "AddTrayIconTemp": "Hőmérséklet tálcaikon hozzáadása",
+  "DefaultTrayIconColor": "Alapértelmezett tálcaikon szín",
+  "MissingTrayIconSensor": "Hiányzó tálcaikon érzékelő",
+  "SyncIconColor": "Tálcaikon színének szinkronizálása a Windows-al"
 }

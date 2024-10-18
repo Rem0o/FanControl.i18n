@@ -1,9 +1,9 @@
-﻿{
-  "CurrentVersionUpToDate": "¡Tu versión actual ({0}) es la versión más reciente!",
-  "DisableUpdatePopupStartup": "Deshabilitar notificaciones de actualizaciones.",
-  "DownloadingUpdater": "Descargando actualizador...",
-  "NewVersion": "Una nueva versión está disponible: {0} (la actual es {1})",
-  "UpdateAvailable": "Una actualización está disponible",
-  "UpdateText": "Actualizar",
-  "VersionInfoError": "No se pudo obtener la información de la versión del servidor."
+﻿{
+  "CurrentVersionUpToDate": "¡Tu versión actual ({0}) es la versión más reciente!",
+  "DisableUpdatePopupStartup": "Deshabilitar notificaciones de actualizaciones.",
+  "DownloadingUpdater": "Descargando actualizador...",
+  "NewVersion": "Una nueva versión está disponible: {0} (la actual es {1})",
+  "UpdateAvailable": "Una actualización está disponible",
+  "UpdateText": "Actualizar",
+  "VersionInfoError": "No se pudo obtener la información de la versión del servidor."
 }
