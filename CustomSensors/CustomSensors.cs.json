@@ -1,4 +1,4 @@
-{
+﻿{
   "File": "Soubor",
   "FileDescription": "Vlastní snímač souboru čte data z daného souboru.",
   "FileSensorNotExists": "Senzor souboru s cestou \"{0}\" neexistuje.",

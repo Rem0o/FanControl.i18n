@@ -50,9 +50,10 @@ function Format-Json {
         $line
     }
 
-    $res = ($result -Join [Environment]::NewLine)
+    $newline = "`r`n"
+    $res = ($result -Join $newline)
 
-    return $res.Trim()
+    return $res
 }
 
 function Compare-Json {
@@ -109,26 +110,6 @@ function ConvertTo-OrderedDictionaryFromArray {
     return $ordered
 }
 
-function Compare-Strings {
-    param (
-        [string]$string1,
-        [string]$string2
-    )
-
-    $length = [math]::Min($string1.Length, $string2.Length)
-    
-    for ($i = 0; $i -lt $length; $i++) {
-        if ($string1[$i] -ne $string2[$i]) {
-            Write-Output "Difference at position {$i}: '$($string1[$i])' vs '$($string2[$i])'"
-        }
-    }
-    
-    if ($string1.Length -ne $string2.Length) {
-        Write-Output "The strings are of different lengths."
-    }
-}
-
-
 $fullPath = $Path | Resolve-Path
 Write-Output "Scanning $fullPath"
 Write-Output "${[Environment]::NewLine}"
@@ -173,7 +154,7 @@ foreach ($baseFile in $baseFiles) {
         }
         else {
             $formattedTranslationJson = ConvertTo-OrderedDictionaryFromArray($translation.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
-            if ( $formattedTranslationJson -ne $translationJson ) {
+            if ($formattedTranslationJson -ne $translationJson) {
                 $exitCode = -1
                 $problem = "Formatting for [$translationFile] is wrong"
 
@@ -202,12 +183,12 @@ foreach ($baseFile in $baseFiles) {
 }
 
 Write-Output "${[Environment]::NewLine}"
-if ( $Fix -and ($exitCode -eq -1) ) {
+if ($Fix -and ($exitCode -eq -1)) {
     $exitCode = 0
 }
 elseif ( $exitCode -eq -1) {
     Write-Output "Problems found!"
-    if ( -Not [String]::IsNullOrEmpty($problem) ) {
+    if (-Not [String]::IsNullOrEmpty($problem) ) {
         Write-Output $problem
     }
 }

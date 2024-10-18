@@ -1,4 +1,4 @@
-{
+﻿{
   "Auto": "自动",
   "AutoDescription": "自动风扇曲线会自动调整以匹配指定负载的温度。",
   "CantBeAddedToMix": "“{0}”不能添加到混合。",

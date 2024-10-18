@@ -1,4 +1,4 @@
-{
+﻿{
   "File": "Arquivo",
   "FileDescription": "O sensor personalizado irá ler os dados de um determinado arquivo",
   "FileSensorNotExists": "O arquivo localizado em \"{0}\" não existe.",

@@ -1,4 +1,4 @@
-{
+﻿{
   "Auto": "Auto",
   "AutoDescription": "The auto fan curve will automatically adjust itself to match the given load temperature.",
   "CantBeAddedToMix": "\"{0}\" can't be added to the mix.",

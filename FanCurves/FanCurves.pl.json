@@ -1,4 +1,4 @@
-{
+﻿{
   "Auto": "Automatyczna",
   "AutoDescription": "Automatyczna krzywa wentylatora dostosowuje się samodzielnie do wskazanego obciążenia temperaturowego.",
   "CantBeAddedToMix": "\"{0}\" nie może być dodany do krzywej mieszanej.",

@@ -1,4 +1,4 @@
-{
+﻿{
   "Auto": "Automática",
   "AutoDescription": "A curva automática ajusta-se automaticamente para corresponder à temperatura de carga fornecida.",
   "CantBeAddedToMix": "\"{0}\" não pode ser adicionado à mistura.",

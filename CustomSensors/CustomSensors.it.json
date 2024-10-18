@@ -1,4 +1,4 @@
-{
+﻿{
   "File": "File",
   "FileDescription": "Il sensore personalizzato del file legge i dati da un file specifico",
   "FileSensorNotExists": "Il sensore del file con il percorso \"{0}\" non esiste.",
