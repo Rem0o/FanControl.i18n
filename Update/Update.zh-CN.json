@@ -1,9 +1,9 @@
-﻿{
-  "CurrentVersionUpToDate": "您当前的版本 ({0}) 已是最新！",
-  "DisableUpdatePopupStartup": "禁止启动时弹出此窗口。",
-  "DownloadingUpdater": "正在下载更新...",
-  "NewVersion": "有新版本可用：{0}（当前版本为 {1}）",
-  "UpdateAvailable": "有可用更新",
-  "UpdateText": "更新",
-  "VersionInfoError": "无法从服务器检索到版本信息。"
+﻿{
+  "CurrentVersionUpToDate": "您当前的版本 ({0}) 已是最新！",
+  "DisableUpdatePopupStartup": "禁止启动时弹出此窗口。",
+  "DownloadingUpdater": "正在下载更新...",
+  "NewVersion": "有新版本可用：{0}（当前版本为 {1}）",
+  "UpdateAvailable": "有可用更新",
+  "UpdateText": "更新",
+  "VersionInfoError": "无法从服务器检索到版本信息。"
 }

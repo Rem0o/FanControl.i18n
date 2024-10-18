@@ -1,7 +1,7 @@
-﻿{
-  "AddTrayIconSpeed": "Adicionar ícone de velocidade (%) na área de notificação",
-  "AddTrayIconTemp": "Adicionar ícone de temperatura na área de notificação",
-  "DefaultTrayIconColor": "Cor padrão do ícone na área de notificação",
-  "MissingTrayIconSensor": "Sensor do ícone está ausente",
-  "SyncIconColor": "Sincronizar a cor do ícone com o Windows"
+﻿{
+  "AddTrayIconSpeed": "Adicionar ícone de velocidade (%) na área de notificação",
+  "AddTrayIconTemp": "Adicionar ícone de temperatura na área de notificação",
+  "DefaultTrayIconColor": "Cor padrão do ícone na área de notificação",
+  "MissingTrayIconSensor": "Sensor do ícone está ausente",
+  "SyncIconColor": "Sincronizar a cor do ícone com o Windows"
 }

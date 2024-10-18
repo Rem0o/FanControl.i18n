@@ -5,6 +5,8 @@ param (
 
 $newline = [Environment]::NewLine
 $windowsNewline = "`r`n"
+$charA = [System.Convert]::ToChar(0xA)
+$charD = [System.Convert]::ToChar(0xD)
 
 function Format-Json {
     Param(
@@ -46,9 +48,9 @@ function Format-Json {
         $line
     }
 
-    $res = ($result -Join $windowsNewline)
+    $res = ($result -Join $windowsNewline) -replace $charA, $windowsNewline
 
-    return $res;
+    return $res
 }
 
 function Compare-Json {

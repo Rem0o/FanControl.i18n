@@ -1,9 +1,9 @@
-﻿{
-  "CurrentVersionUpToDate": "Votre version actuelle ({0}) est la plus à jour !",
-  "DisableUpdatePopupStartup": "Désactiver cette fenêtre au démarrage.",
-  "DownloadingUpdater": "Téléchargement de la mise à jour…",
-  "NewVersion": "Une nouvelle version est disponible : {0} (la version actuelle est {1})",
-  "UpdateAvailable": "Une mise à jour est disponible",
-  "UpdateText": "Mettre à jour",
-  "VersionInfoError": "Impossible d'obtenir les informations de version à partir serveur."
+﻿{
+  "CurrentVersionUpToDate": "Votre version actuelle ({0}) est la plus à jour !",
+  "DisableUpdatePopupStartup": "Désactiver cette fenêtre au démarrage.",
+  "DownloadingUpdater": "Téléchargement de la mise à jour…",
+  "NewVersion": "Une nouvelle version est disponible : {0} (la version actuelle est {1})",
+  "UpdateAvailable": "Une mise à jour est disponible",
+  "UpdateText": "Mettre à jour",
+  "VersionInfoError": "Impossible d'obtenir les informations de version à partir serveur."
 }
