@@ -177,9 +177,6 @@ foreach ($baseFile in $baseFiles) {
                 $exitCode = -1
                 $problem = "Formatting for [$translationFile] is wrong"
 
-                Write-Output $translationJson
-                Write-Output $formattedTranslationJson
-
                 Compare-Strings -string1 $formattedTranslationJson -string2 $translationJson
 
                 if ($Fix) {
@@ -194,6 +191,9 @@ foreach ($baseFile in $baseFiles) {
     if ($formattedBaseJson -ne $baseJson) {
         $exitCode = -1;
         $problem = "Formatting for [$baseFile] is wrong"
+
+        Compare-Strings -string1 $formattedBaseJson -string2 $baseJson
+
         if ($Fix) {
             Write-Output "Formatting [$baseFile]"
             Set-Content -Path $baseFile.FullName -Value $formattedBaseJson -NoNewLine
