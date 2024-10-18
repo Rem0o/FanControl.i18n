@@ -3,6 +3,8 @@ param (
     [switch]$Fix = $false
 )
 
+$newline = "`r`n"
+
 function Format-Json {
     Param(
         [Parameter(Mandatory = $true, Position = 0, ValueFromPipeline = $true)]
@@ -50,7 +52,6 @@ function Format-Json {
         $line
     }
 
-    $newline = "`r`n"
     $res = ($result -Join $newline)
 
     return $res
@@ -112,7 +113,7 @@ function ConvertTo-OrderedDictionaryFromArray {
 
 $fullPath = $Path | Resolve-Path
 Write-Output "Scanning $fullPath"
-Write-Output "${[Environment]::NewLine}"
+Write-Output "$newline"
 
 $baseFiles = Get-ChildItem -Path $Path -Filter "*.json" -Recurse | Where-Object { $_.Name -notmatch "\.[a-z]{2}(-[a-z]{2})?\.json$" }
 
@@ -156,9 +157,7 @@ foreach ($baseFile in $baseFiles) {
             $formattedTranslationJson = ConvertTo-OrderedDictionaryFromArray($translation.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
             if ($formattedTranslationJson -ne $translationJson) {
                 $exitCode = -1
-                $problem = "Formatting for [$translationFile] is wrong"
-
-                Compare-Strings -string1 $formattedTranslationJson -string2 $translationJson
+                $problem += "Formatting for [$translationFile] is wrong" + $newline
 
                 if ($Fix) {
                     Write-Output "Formatting [$translationFile]"
@@ -171,9 +170,7 @@ foreach ($baseFile in $baseFiles) {
     $formattedBaseJson = ConvertTo-OrderedDictionaryFromArray( $baseDictionary.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
     if ($formattedBaseJson -ne $baseJson) {
         $exitCode = -1;
-        $problem = "Formatting for [$baseFile] is wrong"
-
-        Compare-Strings -string1 $formattedBaseJson -string2 $baseJson
+        $problem += "Formatting for [$baseFile] is wrong" + $newline
 
         if ($Fix) {
             Write-Output "Formatting [$baseFile]"
@@ -182,7 +179,7 @@ foreach ($baseFile in $baseFiles) {
     }
 }
 
-Write-Output "${[Environment]::NewLine}"
+Write-Output "$newline"
 if ($Fix -and ($exitCode -eq -1)) {
     $exitCode = 0
 }
