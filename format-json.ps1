@@ -16,7 +16,7 @@ function Format-Json {
     $indent = 0
     $regexUnlessQuoted = '(?=([^"]*"[^"]*")*[^"]*$)'
 
-    $result = $Json -split $windowsNewline |
+    $result = $Json -split $newline |
     ForEach-Object {
         # If the line contains a ] or } character, 
         # we need to decrement the indentation level, unless:
@@ -48,7 +48,7 @@ function Format-Json {
 
     $res = ($result -Join $windowsNewline)
 
-    return $res -replace $newline, $windowsNewline
+    return $res;
 }
 
 function Compare-Json {
