@@ -3,26 +3,20 @@ param (
     [switch]$Fix = $false
 )
 
-$newline = "`r`n"
+$newline = [Environment]::NewLine
+$windowsNewline = "`r`n"
 
 function Format-Json {
     Param(
         [Parameter(Mandatory = $true, Position = 0, ValueFromPipeline = $true)]
         [string]$Json,
-        [ValidateRange(1, 1024)]
         [int]$Indentation = 4
     )
-
-    # If the input JSON text has been created with ConvertTo-Json -Compress
-    # then we first need to reconvert it without compression
-    if ($Json -notmatch '\r?\n') {
-        $Json = ($Json | ConvertFrom-Json) | ConvertTo-Json -Depth 100
-    }
 
     $indent = 0
     $regexUnlessQuoted = '(?=([^"]*"[^"]*")*[^"]*$)'
 
-    $result = $Json -split '\r?\n' |
+    $result = $Json -split $newline |
     ForEach-Object {
         # If the line contains a ] or } character, 
         # we need to decrement the indentation level, unless:
@@ -54,7 +48,7 @@ function Format-Json {
 
     $res = ($result -Join $newline)
 
-    return $res
+    return $res -replace $newline, $windowsNewline
 }
 
 function Compare-Json {
@@ -121,12 +115,12 @@ $exitCode = 0
 $problem = ""
 
 foreach ($baseFile in $baseFiles) {
-    $baseJson = Get-Content -Path $baseFile.FullName -Raw;
+    $baseJson = [IO.File]::ReadAllText($baseFile.FullName, [System.Text.Encoding]::UTF8)
     $baseDictionary = $baseJson | ConvertFrom-Json | ConvertTo-OrderedDictionary
     $translationFiles = $translationFiles = Get-ChildItem -Path $baseFile.DirectoryName -Filter "$($baseFile.BaseName).*.json"
 
     foreach ($translationFile in $translationFiles) {
-        $translationJson = Get-Content -Path $translationFile.FullName -Raw
+        $translationJson =[IO.File]::ReadAllText($translationFile.FullName, [System.Text.Encoding]::UTF8);
         $translation = $translationJson  | ConvertFrom-Json | ConvertTo-OrderedDictionary
         $comparison = Compare-Json -Base $baseDictionary -Translation $translation
 
@@ -149,7 +143,7 @@ foreach ($baseFile in $baseFiles) {
 
                 if ($formattedJson -ne $translationJson) {
                     Write-Output "Fixing translationFile"
-                    Set-Content -Path $translationFile.FullName -Value $formattedJson -NoNewLine
+                    [IO.File]::WriteAllText($translationFile.FullName, $formattedJson, [System.Text.Encoding]::UTF8)
                 }
             }
         }
@@ -161,7 +155,7 @@ foreach ($baseFile in $baseFiles) {
 
                 if ($Fix) {
                     Write-Output "Formatting [$translationFile]"
-                    Set-Content -Path $translationFile.FullName -Value $formattedTranslationJson -NoNewLine
+                    [IO.File]::WriteAllText( $translationFile.FullName, $formattedTranslationJson, [System.Text.Encoding]::UTF8)
                 }
             }
         }
@@ -172,9 +166,21 @@ foreach ($baseFile in $baseFiles) {
         $exitCode = -1;
         $problem += "Formatting for [$baseFile] is wrong" + $newline
 
+        
+
+        $length = [math]::Min($formattedBaseJson.Length, $baseJson.Length)
+        for ($i = 0; $i -lt $length; $i++) {
+            if ($formattedBaseJson[$i] -ne $baseJson[$i]) {
+                $hex1 = [System.Convert]::ToString([System.Convert]::ToInt32($formattedBaseJson[$i]), 16)
+                $hex2 = [System.Convert]::ToString([System.Convert]::ToInt32($baseJson[$i]), 16)
+                Write-Output "Difference at position {$i}: (0x$hex1) vs (0x$hex2)"
+                break;
+            }
+        }
+
         if ($Fix) {
             Write-Output "Formatting [$baseFile]"
-            Set-Content -Path $baseFile.FullName -Value $formattedBaseJson -NoNewLine
+            [IO.File]::WriteAllText($baseFile.FullName,  $formattedBaseJson, [System.Text.Encoding]::UTF8)
         }
     }
 }
