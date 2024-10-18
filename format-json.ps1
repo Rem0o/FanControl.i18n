@@ -52,7 +52,7 @@ function Format-Json {
 
     $res = ($result -Join [Environment]::NewLine)
 
-    return $res
+    return $res.Trim()
 }
 
 function Compare-Json {
@@ -109,6 +109,25 @@ function ConvertTo-OrderedDictionaryFromArray {
     return $ordered
 }
 
+function Compare-Strings {
+    param (
+        [string]$string1,
+        [string]$string2
+    )
+
+    $length = [math]::Min($string1.Length, $string2.Length)
+    
+    for ($i = 0; $i -lt $length; $i++) {
+        if ($string1[$i] -ne $string2[$i]) {
+            Write-Output "Difference at position {$i}: '$($string1[$i])' vs '$($string2[$i])'"
+        }
+    }
+    
+    if ($string1.Length -ne $string2.Length) {
+        Write-Output "The strings are of different lengths."
+    }
+}
+
 
 $fullPath = $Path | Resolve-Path
 Write-Output "Scanning $fullPath"
@@ -154,9 +173,15 @@ foreach ($baseFile in $baseFiles) {
         }
         else {
             $formattedTranslationJson = ConvertTo-OrderedDictionaryFromArray($translation.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
-            if ($formattedTranslationJson -ne $translationJson) {
+            if ( $formattedTranslationJson -ne $translationJson ) {
                 $exitCode = -1
                 $problem = "Formatting for [$translationFile] is wrong"
+
+                Write-Output $translationJson
+                Write-Output $formattedTranslationJson
+
+                Compare-Strings -string1 $formattedTranslationJson -string2 $translationJson
+
                 if ($Fix) {
                     Write-Output "Formatting [$translationFile]"
                     Set-Content -Path $translationFile.FullName -Value $formattedTranslationJson -NoNewLine
