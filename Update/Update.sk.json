@@ -1,0 +1,9 @@
+﻿{
+  "CurrentVersionUpToDate": "Vaša aktuálna verzia ({0}) je najnovšia!",
+  "DisableUpdatePopupStartup": "Zakázať toto vyskakovacie okno pri spustení.",
+  "DownloadingUpdater": "Sťahovanie aktualizácie...",
+  "NewVersion": "Je k dispozícii nová verzia: {0} (aktuálna je {1})",
+  "UpdateAvailable": "Je k dispozícii aktualizácia",
+  "UpdateText": "Aktualizácia",
+  "VersionInfoError": "Nie je možné získať informácie o verzii zo servera"
+}
