@@ -14,7 +14,7 @@
   "MissingSensorsForTimeAverage": "Missing sensor for time average sensor named {0}: {1}",
   "Mix": "Mix",
   "MixDescription": "The mix custom sensor applies a function to the selected temperature sensors.",
-  "MixLoopDetected": "\"{0}\" can't be added to the mix. A loop was detected.",
+  "MixLoopDetected": "\"{0}\" can't be added to the mix. A loop was detected or the sensor is already in the mix.",
   "NameAlreadyTaken": "The custom sensor name \"{0}\" is already taken",
   "Offset": "Offset",
   "OffsetDescription": "The offset custom sensor allows to offset an existing sensor.",
