@@ -1,1 +1,9 @@
-﻿{  "CurrentVersionUpToDate": "Ваша поточна версія ({0}) є найновішою!",  "DisableUpdatePopupStartup": "Не показувати це спливаюче вікно під час запуску.",  "DownloadingUpdater": "Завантажуємо оновлення...",  "NewVersion": "Доступна нова версія: {0} (поточна - {1})",  "UpdateAvailable": "Доступне оновлення",  "UpdateText": "Оновити",  "VersionInfoError": "Не вдалося отримати інформацію про версію з сервера."}
+﻿{
+  "CurrentVersionUpToDate": "Ваша поточна версія ({0}) є найновішою!",
+  "DisableUpdatePopupStartup": "Не показувати це спливаюче вікно під час запуску.",
+  "DownloadingUpdater": "Завантажуємо оновлення...",
+  "NewVersion": "Доступна нова версія: {0} (поточна - {1})",
+  "UpdateAvailable": "Доступне оновлення",
+  "UpdateText": "Оновити",
+  "VersionInfoError": "Не вдалося отримати інформацію про версію з сервера."
+}
