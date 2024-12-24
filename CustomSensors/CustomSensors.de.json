@@ -14,7 +14,7 @@
   "MissingSensorsForTimeAverage": "Fehlender Sensor für den Zeitdurchschnittssensor namens {0}: {1}",
   "Mix": "Mix",
   "MixDescription": "Der benutzerdefinierte Mix-Sensor wendet eine Funktion auf die ausgewählten Temperatursensoren an.",
-  "MixLoopDetected": "\"{0}\" kann nicht zum Mix hinzugefügt werden. Eine Schleife wurde erkannt.",
+  "MixLoopDetected": "\"{0}\" kann nicht zum Mix hinzugefügt werden. Entweder wurde eine Schleife erkannt oder der Sensor ist bereits Bestandteil des Mix.",
   "NameAlreadyTaken": "Der benutzerdefinierte Sensorname \"{0}\" ist bereits vergeben.",
   "Offset": "Offset",
   "OffsetDescription": "Der benutzerdefinierte Offset-Sensor ermöglicht das Einrichten eines Offsets für einen vorhandenen Sensor.",
