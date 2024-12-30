@@ -1,0 +1,23 @@
+{
+  "CultureText": "Dil",
+  "Delay": "Gecikme",
+  "EditSources": "Kaynakları düzenle...",
+  "General": "Genel",
+  "InstallPlugin": "Eklenti yükle...",
+  "LoadedPlugins": "Yüklenen Eklentiler",
+  "Nicknames": "Takma Adlar",
+  "NoPlugins": "Yüklenen eklenti yok",
+  "NoPluginSensorsHelpText": "Eklentiden sensör tespit edilmedi. Eklentinin sensör kaynakları penceresinde etkin olduğundan ve bir yenileme yapıldığından emin olun.",
+  "NotifyForUpdate": "Başlangıçta güncelleme bildirimi yap",
+  "OriginalName": "Orijinal ad: {0}",
+  "Plugins": "Eklentiler",
+  "PluginSensors": "eklenti sensörleri",
+  "SecondUnit": "sn",
+  "SelectSensorNickname": "Takma ad eklemek için bir sensör seçin",
+  "SensorNickname": "Sensör takma adı (düzenlenebilir)",
+  "Sensors": "Sensörler",
+  "StartMinimized": "Küçültülmüş olarak başlat",
+  "StartUserLogon": "Kullanıcı oturum açıldığında başlat",
+  "Symbol": "Sembol",
+  "TaskSchedulerAdminRequired": "Programı Görev Zamanlayıcı'da Windows ile başlatacak şekilde ayarlayamadım. Yönetici kullanıcısı gerekli."
+}
