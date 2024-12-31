@@ -1,0 +1,9 @@
+﻿{
+  "CurrentVersionUpToDate": "Geçerli sürümünüz ({0}) en güncel sürüm!",
+  "DisableUpdatePopupStartup": "Bu açılır pencereyi başlangıçta devre dışı bırak.",
+  "DownloadingUpdater": "Güncelleyici indiriliyor...",
+  "NewVersion": "Yeni bir sürüm mevcut: {0} (geçerli sürüm {1})",
+  "UpdateAvailable": "Bir güncelleme mevcut",
+  "UpdateText": "Güncelleme",
+  "VersionInfoError": "Sunucudan sürüm bilgileri alınamadı."
+}
