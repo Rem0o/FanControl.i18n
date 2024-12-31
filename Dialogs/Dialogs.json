@@ -1,1 +1,47 @@
-﻿{  "AscendingRpmValues": "Ascending RPM values",  "CalibrationCommand": "Command (%)",  "CalibrationControlCardInstructions": "Use the following card to adjust your fan % and observe its RPM.",  "CalibrationPointPercent": "Point %",  "CalibrationSpeed": "Speed (RPM)",  "CalibrationTable": "Calibration Table",  "ControlHelpPart1": "The \"Controls\" section shows every available header/fan that is detected.",  "ControlHelpPart2": "You can either assign a fan curve or go into manual control from the three dot menu of each card.",  "ControlHelpPart3": "From the three dot menu of each card, you can \"match\" a fan speed sensor from the section below, which will show that RPM on the control card.",  "ControlHelpPart4": "The following advanced options are available by clicking the bottom section of a card:",  "CurveHelpPart1": "The \"Curves\" section shows every curve that was created.",  "CurveHelpPart2": "To create a new curve, click the big \"+\" sign button at the bottom right and select from the available types.",  "CurveHelpPart3": "To get details on how a specific fan curve type works, add it and click its icon at the top left of its card.",  "CustomSensorsHelpPart1": "The \"Custom sensors\" section shows every custom sensor that was created.",  "CustomSensorsHelpPart2": "To create a new custom sensor, click the big \"+\" sign button at the bottom right and select from the available types.",  "CustomSensorsHelpPart3": "To get details on how a specific custom sensor type works, add it and click its icon at the top left of its card.",  "EULALicenses": "EULA/Licenses",  "FailedRefreshSleep": "Failed to refresh after resuming from sleep",  "GraphCopy": "Copy graph",  "GraphPaste": "Paste graph",  "GraphSelectedPoint": "Selected Point:",  "HidePopup": "Hide this popup in the future",  "InitFailedRetry": "Fan Control failed to initialize. Retrying...",  "ManualPairingInstruction": "Select the speed sensor below that reacts to this control.",  "ManualPairingTip": "(Tip: Set the slider to 0% and see which fan slows/stops) ",  "OtherInstance": "An other instance of FanControl was running under user \"{0}\". It was was closed to start this new instance.",  "PaypalDialogPart1": "Message from the developer of Fan Control",  "PaypalDialogPart2": "Hey there! Rémi here.",  "PaypalDialogPart3a": "I can see you got some fan curves going, that's awesome! 🚀🙌",  "PaypalDialogPart3b": "You got no fan curve created yet, click the big + button at the bottom right corner to get started! 🚀🙌",  "PaypalDialogPart4": "The software is continuously being developed for better performance, less bugs, more features, and a better user experience. This takes time and effort.",  "PaypalDialogPart5": "Fan Control is free to use, but if you like it enough to make it a part of your system, consider contributing to my Paypal or sponsoring me on Github, it is much appreciated! 😊",  "PaypalDialogPart6": "If you got issues with the software or you just want to share your feedback, there is an email link in the left \"About\" section or you can go to the Github page.",  "PaypalDialogPart7": "Thank you for using Fan Control! 🙏",  "PlatformNotSupported": "Your platform is not supported. Windows 10 or later is required.",  "ReadEULA": "Take a minute to read the end-user license agreement section. It's short, I promise. You can always read it later in the About section.",  "RefreshingAfterSleep": "Fan Control is refreshing after resuming from sleep",  "SpeedHelpPart1": "The \"Speeds\" section shows every available RPM sensor that is detected.",  "SpeedHelpPart2": "Note that each control card may or may not have a corresponding RPM card due to compatibility reasons.",  "SpeedHelpPart3": "It is recommended that you \"pair\" each sensor in this section to its corresponding control card. Use the three dot menu option of a control card to do so, and select either the manual or automatic pairing.",  "SpeedHelpPart4": "Once a speed sensor is paired, you can hide it for a cleaner look.",  "TwoPointsRequired": "At least 2 points required",  "UnexpectedErrorOccurred": "An unexpected error has occurred and has been added to the log file.",  "UnexpectedErrorSeeLog": "An unexpected error occurred. See log file for details.",  "WelcomeFanControl": "Welcome to Fan Control! 👋"}
+﻿{
+  "AscendingRpmValues": "Ascending RPM values",
+  "CalibrationCommand": "Command (%)",
+  "CalibrationControlCardInstructions": "Use the following card to adjust your fan % and observe its RPM.",
+  "CalibrationPointPercent": "Point %",
+  "CalibrationSpeed": "Speed (RPM)",
+  "CalibrationTable": "Calibration Table",
+  "ControlHelpPart1": "The \"Controls\" section shows every available header/fan that is detected.",
+  "ControlHelpPart2": "You can either assign a fan curve or go into manual control from the three dot menu of each card.",
+  "ControlHelpPart3": "From the three dot menu of each card, you can \"match\" a fan speed sensor from the section below, which will show that RPM on the control card.",
+  "ControlHelpPart4": "The following advanced options are available by clicking the bottom section of a card:",
+  "CurveHelpPart1": "The \"Curves\" section shows every curve that was created.",
+  "CurveHelpPart2": "To create a new curve, click the big \"+\" sign button at the bottom right and select from the available types.",
+  "CurveHelpPart3": "To get details on how a specific fan curve type works, add it and click its icon at the top left of its card.",
+  "CustomSensorsHelpPart1": "The \"Custom sensors\" section shows every custom sensor that was created.",
+  "CustomSensorsHelpPart2": "To create a new custom sensor, click the big \"+\" sign button at the bottom right and select from the available types.",
+  "CustomSensorsHelpPart3": "To get details on how a specific custom sensor type works, add it and click its icon at the top left of its card.",
+  "EULALicenses": "EULA/Licenses",
+  "FailedRefreshSleep": "Failed to refresh after resuming from sleep",
+  "GraphCopy": "Copy graph",
+  "GraphPaste": "Paste graph",
+  "GraphSelectedPoint": "Selected Point:",
+  "HidePopup": "Hide this popup in the future",
+  "InitFailedRetry": "Fan Control failed to initialize. Retrying...",
+  "ManualPairingInstruction": "Select the speed sensor below that reacts to this control.",
+  "ManualPairingTip": "(Tip: Set the slider to 0% and see which fan slows/stops) ",
+  "OtherInstance": "An other instance of FanControl was running under user \"{0}\". It was was closed to start this new instance.",
+  "PaypalDialogPart1": "Message from the developer of Fan Control",
+  "PaypalDialogPart2": "Hey there! Rémi here.",
+  "PaypalDialogPart3a": "I can see you got some fan curves going, that's awesome! 🚀🙌",
+  "PaypalDialogPart3b": "You got no fan curve created yet, click the big + button at the bottom right corner to get started! 🚀🙌",
+  "PaypalDialogPart4": "The software is continuously being developed for better performance, less bugs, more features, and a better user experience. This takes time and effort.",
+  "PaypalDialogPart5": "Fan Control is free to use, but if you like it enough to make it a part of your system, consider contributing to my Paypal or sponsoring me on Github, it is much appreciated! 😊",
+  "PaypalDialogPart6": "If you got issues with the software or you just want to share your feedback, there is an email link in the left \"About\" section or you can go to the Github page.",
+  "PaypalDialogPart7": "Thank you for using Fan Control! 🙏",
+  "PlatformNotSupported": "Your platform is not supported. Windows 10 or later is required.",
+  "ReadEULA": "Take a minute to read the end-user license agreement section. It's short, I promise. You can always read it later in the About section.",
+  "RefreshingAfterSleep": "Fan Control is refreshing after resuming from sleep",
+  "SpeedHelpPart1": "The \"Speeds\" section shows every available RPM sensor that is detected.",
+  "SpeedHelpPart2": "Note that each control card may or may not have a corresponding RPM card due to compatibility reasons.",
+  "SpeedHelpPart3": "It is recommended that you \"pair\" each sensor in this section to its corresponding control card. Use the three dot menu option of a control card to do so, and select either the manual or automatic pairing.",
+  "SpeedHelpPart4": "Once a speed sensor is paired, you can hide it for a cleaner look.",
+  "TwoPointsRequired": "At least 2 points required",
+  "UnexpectedErrorOccurred": "An unexpected error has occurred and has been added to the log file.",
+  "UnexpectedErrorSeeLog": "An unexpected error occurred. See log file for details.",
+  "WelcomeFanControl": "Welcome to Fan Control! 👋"
+}
