@@ -15,7 +15,7 @@
   "CustomSensorsHelpPart1": "La sección \"Sensores personalizados\" muestra todos los sensores personalizados que se han creado.",
   "CustomSensorsHelpPart2": "Para crear un nuevo sensor personalizado, haz clic en el botón grande de abajo a la derecha con el símbolo \"+\" y selecciona uno de los tipos disponibles de la columna izquierda.",
   "CustomSensorsHelpPart3": "Para obtener detalles de cómo funciona cada tipo específico de sensor personalizado, añádelo y haz clic sobre el icono en la parte superior izquierda del panel.",
-  "EULA": "EULA",
+  "EULALicenses": "EULA",
   "FailedRefreshSleep": "Fallo al actualizar después de reanudar desde el reposo",
   "GraphCopy": "Copiar gráfico",
   "GraphPaste": "Pegar gráfico",

@@ -15,7 +15,7 @@
   "CustomSensorsHelpPart1": "“自定义传感器”显示已创建的自定义传感器。",
   "CustomSensorsHelpPart2": "要创建新自定义传感器，请单击右下角的 + 按钮并选择所需的类型。",
   "CustomSensorsHelpPart3": "要了解特定自定义传感器类型的详细说明，添加它然后单击其卡片左上角的图标。",
-  "EULA": "最终用户许可协议",
+  "EULALicenses": "最终用户许可协议",
   "FailedRefreshSleep": "从睡眠恢复后刷新失败",
   "GraphCopy": "复制图表",
   "GraphPaste": "粘贴图表",

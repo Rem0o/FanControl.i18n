@@ -15,7 +15,7 @@
   "CustomSensorsHelpPart1": "V části \"Vlastní senzory\" jsou zobrazeny všechny vytvořené vlastní senzory.",
   "CustomSensorsHelpPart2": "Chcete-li vytvořit nový vlastní senzor, klikněte na velký nápis \"+\" vpravo dole a vyberte jeden z dostupných typů.",
   "CustomSensorsHelpPart3": "Chcete-li získat podrobnosti o fungování konkrétního typu vlastního senzoru, přidejte jej a klikněte na jeho ikonu v levém horním rohu karty.",
-  "EULA": "LICENČNÍ SMLOUVA EULA",
+  "EULALicenses": "LICENČNÍ SMLOUVA EULA",
   "FailedRefreshSleep": "Nepodařilo se obnovit po probuzení z režimu spánku",
   "GraphCopy": "Kopírovat graf",
   "GraphPaste": "Vložit graf",

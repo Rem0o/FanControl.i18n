@@ -15,7 +15,7 @@
   "CustomSensorsHelpPart1": "La section \"Capteurs personnalisés\" montre chaque capteur personnalisé qui a été créé.",
   "CustomSensorsHelpPart2": "Pour créer un nouveau capteur personnalisé, cliquez sur le grand bouton \"+\" en bas à droite et sélectionnez parmi les types disponibles.",
   "CustomSensorsHelpPart3": "Pour obtenir des détails sur le fonctionnement d'un type de capteur personnalisé spécifique, ajoutez-le et cliquez sur son icône en haut à gauche de sa tuile.",
-  "EULA": "CLUF",
+  "EULALicenses": "CLUF",
   "FailedRefreshSleep": "Échec de l'actualisation après la reprise du sommeil",
   "GraphCopy": "Copier le graphique",
   "GraphPaste": "Coller le graphique",

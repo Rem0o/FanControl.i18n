@@ -15,7 +15,7 @@
   "CustomSensorsHelpPart1": "Der Bereich \"Benutzerdefinierte Sensoren\" zeigt alle erstellten benutzerdefinierten Sensoren.",
   "CustomSensorsHelpPart2": "Um einen neuen benutzerdefinierten Sensor zu erstellen, klicke auf das große \"+\"-Symbol unten rechts und wähle aus den verfügbaren Typen.",
   "CustomSensorsHelpPart3": "Um Details darüber zu erhalten, wie ein bestimmter benutzerdefinierter Sensortyp funktioniert, füge ihn hinzu und klicke auf das Symbol oben links auf der Karte.",
-  "EULA": "EULA",
+  "EULALicenses": "EULA",
   "FailedRefreshSleep": "Fehler beim Neuladen nach dem Aufwachen aus dem Ruhezustand",
   "GraphCopy": "Diagramm kopieren",
   "GraphPaste": "Diagramm einfügen",

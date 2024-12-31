@@ -15,7 +15,7 @@
   "CustomSensorsHelpPart1": "Az \"Egyéni érzékelők\" szakasz minden létrehozott egyéni érzékelőt megjelenít.",
   "CustomSensorsHelpPart2": "Új egyéni érzékelő létrehozásához kattintson a jobb alsó sarokban található nagy \"+\" jel gombra, és válasszon a rendelkezésre álló típusok közül.",
   "CustomSensorsHelpPart3": "Ha részleteket szeretne megtudni egy adott egyéni érzékelőtípus működéséről, adja hozzá azt, és kattintson az ikonjára a kártya bal felső sarkában.",
-  "EULA": "EULA",
+  "EULALicenses": "EULA",
   "FailedRefreshSleep": "Az alvásból való visszatérés után nem sikerült frissíteni",
   "GraphCopy": "Grafikon másolása",
   "GraphPaste": "Grafikon beillesztése",

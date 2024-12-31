@@ -15,7 +15,7 @@
   "CustomSensorsHelpPart1": "La sezione \"Sensori personalizzati\" mostra ogni sensore personalizzato creato.",
   "CustomSensorsHelpPart2": "Per creare un nuovo sensore personalizzato, clicca sul grande pulsante \"+\" in basso a destra e seleziona tra i tipi disponibili.",
   "CustomSensorsHelpPart3": "Per avere dettagli sul funzionamento di uno specifico tipo di sensore personalizzato, aggiungilo e clicca la sua icona in alto a sinistra della scheda.",
-  "EULA": "EULA",
+  "EULALicenses": "EULA",
   "FailedRefreshSleep": "Aggiornamento fallito dopo la riattivazione dalla modalità sospensione",
   "GraphCopy": "Copia grafico",
   "GraphPaste": "Incolla grafico",

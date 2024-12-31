@@ -15,7 +15,7 @@
   "CustomSensorsHelpPart1": "\"Özel sensörler\" bölümü, oluşturulan her özel sensörü gösterir.",
   "CustomSensorsHelpPart2": "Yeni bir özel sensör oluşturmak için, sağ alttaki büyük \"+\" işaretli düğmeye tıklayın ve mevcut türlerden birini seçin.",
   "CustomSensorsHelpPart3": "Belirli bir özel sensör türünün nasıl çalıştığı hakkında ayrıntı almak için, sensörü ekleyin ve kartının sol üst köşesindeki simgesine tıklayın.",
-  "EULA": "EULA",
+  "EULALicenses": "EULA",
   "FailedRefreshSleep": "Uyku modundan sonra yenileme işlemi başarısız oldu",
   "GraphCopy": "Grafiği kopyala",
   "GraphPaste": "Grafiği yapıştır",

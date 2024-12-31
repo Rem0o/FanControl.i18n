@@ -15,7 +15,7 @@
   "CustomSensorsHelpPart1": "Sekcja \"Czujniki niestandardowe\" pokazuje wszystkie utworzone czujniki.",
   "CustomSensorsHelpPart2": "Aby utworzyć nowy czujnik, kliknij duży przycisk \"+\" w prawym dolnym rogu i wybierz jeden z dostępnych typów.",
   "CustomSensorsHelpPart3": "Aby uzyskać szczegóły dotyczące działania konkretnego typu czujnika, dodaj go i kliknij jego ikonę w lewym górnym rogu karty.",
-  "EULA": "Umowa licencyjna użytkownika końcowego",
+  "EULALicenses": "Umowa licencyjna użytkownika końcowego",
   "FailedRefreshSleep": "Nie udało się odświeżyć po wybudzeniu",
   "GraphCopy": "Kopiuj wykres",
   "GraphPaste": "Wklej wykres",
