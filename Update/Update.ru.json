@@ -1,8 +1,8 @@
 ﻿{
-  "CurrentVersionUpToDate": "Ваша текущая версия ({0}) является самой актуальной!",
-  "DisableUpdatePopupStartup": "Отключить это всплывающее окно при запуске.",
+  "CurrentVersionUpToDate": "У вас самая новая версия ({0}).",
+  "DisableUpdatePopupStartup": "Не показывать это окно при запуске",
   "DownloadingUpdater": "Загрузка обновления...",
-  "NewVersion": "Доступна новая версия: {0} (текущая версия {1})",
+  "NewVersion": "Доступна новая версия: {0} (текущая версия: {1})",
   "UpdateAvailable": "Доступно обновление",
   "UpdateText": "Обновить",
   "VersionInfoError": "Не удалось получить информацию о версии с сервера."
