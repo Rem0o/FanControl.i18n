@@ -1,9 +1,9 @@
-{
-  "CurrentVersionUpToDate": "Din nuværende version ({0}) er den mest opdaterede!",
-  "DisableUpdatePopupStartup": "Deaktiver denne popup ved opstart.",
-  "DownloadingUpdater": "Downloader opdateringsprogram...",
-  "NewVersion": "En ny version er tilgængelig: {0} (den nuværende er {1})",
-  "UpdateAvailable": "En opdatering er tilgængelig",
-  "UpdateText": "Opdater",
-  "VersionInfoError": "Kunne ikke hente versionsoplysninger fra serveren."
+﻿{
+  "CurrentVersionUpToDate": "Din nuværende version ({0}) er den mest opdaterede!",
+  "DisableUpdatePopupStartup": "Deaktiver denne popup ved opstart.",
+  "DownloadingUpdater": "Downloader opdateringsprogram...",
+  "NewVersion": "En ny version er tilgængelig: {0} (den nuværende er {1})",
+  "UpdateAvailable": "En opdatering er tilgængelig",
+  "UpdateText": "Opdater",
+  "VersionInfoError": "Kunne ikke hente versionsoplysninger fra serveren."
 }
