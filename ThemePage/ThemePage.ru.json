@@ -1,9 +1,17 @@
-﻿{
-  "Input": "Ввод",
-  "Previews": "Предпросмотры",
-  "Primary": "Основной",
-  "SampleText": "Тестовый текст",
-  "Secondary": "Вторичный",
-  "SyncThemeWindows": "Синхронизировать тему с Windows",
-  "Theme": "Тема"
+﻿{
+
+  "Input": "Ввод",
+
+  "Previews": "Предпросмотр",
+
+  "Primary": "Основной",
+
+  "SampleText": "Пример текста",
+
+  "Secondary": "Вторичный",
+
+  "SyncThemeWindows": "Синхронизировать тему с Windows",
+
+  "Theme": "Тема"
+
 }
