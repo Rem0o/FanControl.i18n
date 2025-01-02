@@ -1,0 +1,23 @@
+{
+  "CultureText": "Sprog",
+  "Delay": "Forsinkelse",
+  "EditSources": "Rediger kilder...",
+  "General": "Generelt",
+  "InstallPlugin": "Installer plugin...",
+  "LoadedPlugins": "Indlæste plugins",
+  "Nicknames": "Kælenavne",
+  "NoPlugins": "Ingen plugins indlæst",
+  "NoPluginSensorsHelpText": "Ingen sensorer fra plugin blev registreret. Sørg for, at pluginet er aktiveret i sensor-kildens vindue, og at der er udført en opdatering.",
+  "NotifyForUpdate": "Giv besked om opdatering ved opstart",
+  "OriginalName": "Originalt navn: {0}",
+  "Plugins": "Plugins",
+  "PluginSensors": "Plugin-sensorer",
+  "SecondUnit": "sek",
+  "SelectSensorNickname": "Vælg en sensor for at tilføje kælenavn",
+  "SensorNickname": "Sensor kælenavn (kan redigeres)",
+  "Sensors": "Sensorer",
+  "StartMinimized": "Start minimeret",
+  "StartUserLogon": "Start ved brugerlogon",
+  "Symbol": "Symbol",
+  "TaskSchedulerAdminRequired": "Kunne ikke sætte programmet til at starte med Windows i Opgavestyring. Administratorrettigheder kræves."
+}
