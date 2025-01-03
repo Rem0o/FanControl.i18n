@@ -1,7 +1,7 @@
-﻿{
-  "AddTrayIconSpeed": "إضافة سرعة مروحة أيقونة الدرج (%)",
-  "AddTrayIconTemp": "إضافة درجة حرارة أيقونة الدرج",
-  "DefaultTrayIconColor": "لون أيقونة الدرج الافتراضي",
-  "MissingTrayIconSensor": "مستشعر أيقونة الدرج المفقود",
-  "SyncIconColor": "مزامنة لون الأيقونة مع Windows"
+﻿{
+  "AddTrayIconSpeed": "إضافة سرعة مروحة أيقونة الدرج (%)",
+  "AddTrayIconTemp": "إضافة درجة حرارة أيقونة الدرج",
+  "DefaultTrayIconColor": "لون أيقونة الدرج الافتراضي",
+  "MissingTrayIconSensor": "مستشعر أيقونة الدرج المفقود",
+  "SyncIconColor": "مزامنة لون الأيقونة مع Windows"
 }

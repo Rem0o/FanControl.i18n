@@ -1,9 +1,9 @@
-﻿{
-  "CurrentVersionUpToDate": "إصدارك الحالي ({0}) هو الأحدث!",
-  "DisableUpdatePopupStartup": "قم بتعطيل هذه النافذة المنبثقة عند بدء التشغيل.",
-  "DownloadingUpdater": "تنزيل المحدث...",
-  "NewVersion": "يتوفر إصدار جديد: {0} (الحالي هو {1})",
-  "UpdateAvailable": "يتوفر تحديث متاح",
-  "UpdateText": "تحديث",
-  "VersionInfoError": "تعذر الحصول على معلومات الإصدار من الخادم."
+﻿{
+  "CurrentVersionUpToDate": "إصدارك الحالي ({0}) هو الأحدث!",
+  "DisableUpdatePopupStartup": "قم بتعطيل هذه النافذة المنبثقة عند بدء التشغيل.",
+  "DownloadingUpdater": "تنزيل المحدث...",
+  "NewVersion": "يتوفر إصدار جديد: {0} (الحالي هو {1})",
+  "UpdateAvailable": "يتوفر تحديث متاح",
+  "UpdateText": "تحديث",
+  "VersionInfoError": "تعذر الحصول على معلومات الإصدار من الخادم."
 }
