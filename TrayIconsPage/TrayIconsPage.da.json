@@ -1,7 +1,7 @@
-﻿{
-  "AddTrayIconSpeed": "Tilføj systembakkeikon for blæserhastighed (%)",
-  "AddTrayIconTemp": "Tilføj systembakkeikon for temperatur",
-  "DefaultTrayIconColor": "Standardfarve for systembakkeikon",
-  "MissingTrayIconSensor": "Manglende sensor til systembakkeikon",
-  "SyncIconColor": "Synkroniser ikonfarve med Windows"
+﻿{
+  "AddTrayIconSpeed": "Tilføj systembakkeikon for blæserhastighed (%)",
+  "AddTrayIconTemp": "Tilføj systembakkeikon for temperatur",
+  "DefaultTrayIconColor": "Standardfarve for systembakkeikon",
+  "MissingTrayIconSensor": "Manglende sensor til systembakkeikon",
+  "SyncIconColor": "Synkroniser ikonfarve med Windows"
 }

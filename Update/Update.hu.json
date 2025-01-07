@@ -1,9 +1,9 @@
-﻿{
-  "CurrentVersionUpToDate": "Az Ön jelenlegi verziója ({0}) a legfrissebb!",
-  "DisableUpdatePopupStartup": "Indításkor tiltsa le ezt a felugró ablakot.",
-  "DownloadingUpdater": "Frissítő letöltése...",
-  "NewVersion": "Új verzió érhető el: {0} (jelenlegi: {1})",
-  "UpdateAvailable": "Frissítés elérhető",
-  "UpdateText": "Frissítés",
-  "VersionInfoError": "Nem sikerült lekérni a verzióinformációt a szerverről."
+﻿{
+  "CurrentVersionUpToDate": "Az Ön jelenlegi verziója ({0}) a legfrissebb!",
+  "DisableUpdatePopupStartup": "Indításkor tiltsa le ezt a felugró ablakot.",
+  "DownloadingUpdater": "Frissítő letöltése...",
+  "NewVersion": "Új verzió érhető el: {0} (jelenlegi: {1})",
+  "UpdateAvailable": "Frissítés elérhető",
+  "UpdateText": "Frissítés",
+  "VersionInfoError": "Nem sikerült lekérni a verzióinformációt a szerverről."
 }

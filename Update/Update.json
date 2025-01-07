@@ -1,9 +1,9 @@
-﻿{
-  "CurrentVersionUpToDate": "Your current version ({0}) is the most up-to-date!",
-  "DisableUpdatePopupStartup": "Disable this popup at startup.",
-  "DownloadingUpdater": "Downloading updater...",
-  "NewVersion": "A new version is available: {0} (current is {1})",
-  "UpdateAvailable": "An update is available",
-  "UpdateText": "Update",
-  "VersionInfoError": "Could not get the version info from the server."
+﻿{
+  "CurrentVersionUpToDate": "Your current version ({0}) is the most up-to-date!",
+  "DisableUpdatePopupStartup": "Disable this popup at startup.",
+  "DownloadingUpdater": "Downloading updater...",
+  "NewVersion": "A new version is available: {0} (current is {1})",
+  "UpdateAvailable": "An update is available",
+  "UpdateText": "Update",
+  "VersionInfoError": "Could not get the version info from the server."
 }

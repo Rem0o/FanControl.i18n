@@ -1,9 +1,9 @@
-﻿{
-  "CurrentVersionUpToDate": "Nykyinen versiosi ({0}) on uusin!",
-  "DisableUpdatePopupStartup": "Älä näytä tätä ponnahdusta käynnistettäessä.",
-  "DownloadingUpdater": "Ladataan päivitystä...",
-  "NewVersion": "Uusi versio on saatavilla: {0} (nykyinen on {1})",
-  "UpdateAvailable": "Päivitys on saatavilla",
-  "UpdateText": "Päivitä",
-  "VersionInfoError": "Versiotietoja ei saatu palvelimelta."
+﻿{
+  "CurrentVersionUpToDate": "Nykyinen versiosi ({0}) on uusin!",
+  "DisableUpdatePopupStartup": "Älä näytä tätä ponnahdusta käynnistettäessä.",
+  "DownloadingUpdater": "Ladataan päivitystä...",
+  "NewVersion": "Uusi versio on saatavilla: {0} (nykyinen on {1})",
+  "UpdateAvailable": "Päivitys on saatavilla",
+  "UpdateText": "Päivitä",
+  "VersionInfoError": "Versiotietoja ei saatu palvelimelta."
 }

@@ -1,7 +1,7 @@
-﻿{
-  "AddTrayIconSpeed": "Pridať rýchlosť ventilátora do oznamovacej oblasti (%)",
-  "AddTrayIconTemp": "Pridať teplotu do oznamovacej oblasti",
-  "DefaultTrayIconColor": "Predvolená farba ikony v oznamovacej oblasti",
-  "MissingTrayIconSensor": "Chýbajúca ikona snímača v oznamovacej oblasti",
-  "SyncIconColor": "Synchronizovať farbu ikon so systémom Windows"
+﻿{
+  "AddTrayIconSpeed": "Pridať rýchlosť ventilátora do oznamovacej oblasti (%)",
+  "AddTrayIconTemp": "Pridať teplotu do oznamovacej oblasti",
+  "DefaultTrayIconColor": "Predvolená farba ikony v oznamovacej oblasti",
+  "MissingTrayIconSensor": "Chýbajúca ikona snímača v oznamovacej oblasti",
+  "SyncIconColor": "Synchronizovať farbu ikon so systémom Windows"
 }

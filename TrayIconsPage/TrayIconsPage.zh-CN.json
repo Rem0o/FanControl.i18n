@@ -1,7 +1,7 @@
-﻿{
-  "AddTrayIconSpeed": "托盘图标区域添加风扇速度 (%)",
-  "AddTrayIconTemp": "托盘图标区域添加温度",
-  "DefaultTrayIconColor": "默认的托盘图标颜色",
-  "MissingTrayIconSensor": "缺少托盘图标所要求的传感器",
-  "SyncIconColor": "与 Windows 同步图标颜色"
+﻿{
+  "AddTrayIconSpeed": "托盘图标区域添加风扇速度 (%)",
+  "AddTrayIconTemp": "托盘图标区域添加温度",
+  "DefaultTrayIconColor": "默认的托盘图标颜色",
+  "MissingTrayIconSensor": "缺少托盘图标所要求的传感器",
+  "SyncIconColor": "与 Windows 同步图标颜色"
 }

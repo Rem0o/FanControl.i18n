@@ -4,9 +4,9 @@ param (
 )
 
 $newline = [Environment]::NewLine
-$windowsNewline = "`r`n"
-$charA = [System.Convert]::ToChar(0xA)
 $charD = [System.Convert]::ToChar(0xD)
+$charA = [System.Convert]::ToChar(0xA)
+$CRLF = "$charD$charA"
 
 function Format-Json {
     Param(
@@ -48,7 +48,7 @@ function Format-Json {
         $line
     }
 
-    $res = ($result -Join $windowsNewline) -replace $charA, $windowsNewline
+    $res = ($result -Join $CRLF)
 
     return $res
 }
