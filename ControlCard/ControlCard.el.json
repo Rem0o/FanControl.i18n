@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "Ενεργοποίηση ελέγχου λογισμικού",
   "ForceApply": "Αναγκαστική εφαρμογή",
   "ForceApplyEnabled": "Η αναγκαστική εφαρμογή είναι ενεργοποιημένη.",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Ο ελεγκτής {0} δεν έχει έγκυρη ρύθμιση και η καμπύλη ανεμιστήρα {1} βρίσκεται σε λειτουργία RPM.",
   "ManualControl": "Χειροκίνητη λειτουργία",
   "ManualFanCalibration": "Χειροκίνητη ρύθμιση ανεμιστήρα",

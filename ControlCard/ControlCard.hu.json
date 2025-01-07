@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "Szoftvervezérlés engedélyezése",
   "ForceApply": "Kényszeralkalmazás",
   "ForceApplyEnabled": "A kényszeralkalmazás engedélyezve van.",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "A {0} vezérlőnek nincs érvényes kalibrációja, és a ventilátor-görbe {1} fordulatszám üzemmódban van.",
   "ManualControl": "Kézi vezérlés",
   "ManualFanCalibration": "Manuális ventilátor kalibrálás",

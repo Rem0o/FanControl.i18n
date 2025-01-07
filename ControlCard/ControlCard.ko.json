@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "소프트웨어 제어 활성화",
   "ForceApply": "강제 적용",
   "ForceApplyEnabled": "강제 적용이 활성화되었습니다.",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "제어 {0}에 유효한 보정이 없으며 팬 곡선 {1}이 RPM 모드에 있습니다.",
   "ManualControl": "수동 제어",
   "ManualFanCalibration": "수동 팬 보정",

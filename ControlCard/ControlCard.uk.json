@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "Увімкнути програмне керування",
   "ForceApply": "Примусове застосування",
   "ForceApplyEnabled": "Примусове застосування увімкнено.",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Елемент керування {0} не має коректного калібрування, натомість крива вентилятора {1} перебуває в режимі обертів на хвилину.",
   "ManualControl": "Ручне керування",
   "ManualFanCalibration": "Ручне калібрування вентилятора",

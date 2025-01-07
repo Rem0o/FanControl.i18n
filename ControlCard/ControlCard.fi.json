@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "Käytä ohjelmistopohjaista ohjausta",
   "ForceApply": "Pakota arvojen asetus",
   "ForceApplyEnabled": "Arvojen pakkoasetus on käytössä.",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Ohjaimella \"{0}\" ei ole kelvollista kalibrointia ja tuuletinkäyrä \"{1}\" on RPM-tilassa.",
   "ManualControl": "Manuaalinen ohjaus",
   "ManualFanCalibration": "Manuaalinen tuuletinkalibrointi",

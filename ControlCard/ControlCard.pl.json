@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "Włącz sterowanie programowe",
   "ForceApply": "Wymuś zastosowanie",
   "ForceApplyEnabled": "Wymuszanie zastosowania jest włączone.",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Kontroler {0} nie ma prawidłowej kalibracji, a krzywa wentylatora {1} jest w trybie RPM.",
   "ManualControl": "Sterowanie ręczne",
   "ManualFanCalibration": "Ręczna kalibracja wentylatora",

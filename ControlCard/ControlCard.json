@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "Enable software control",
   "ForceApply": "Force apply",
   "ForceApplyEnabled": "Force apply is enabled.",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Control {0} has no valid calibration and fan curve {1} is in RPM mode.",
   "ManualControl": "Manual control",
   "ManualFanCalibration": "Manual Fan Calibration",

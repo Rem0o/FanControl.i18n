@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "Уключыць праграмнае кіраванне",
   "ForceApply": "Прымяніць прымусова",
   "ForceApplyEnabled": "Прымусовае прымяненне ўключана.",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Элемент кіравання {0} не мае сапраўднай каліброўкі, а крывая вентылятара {1} знаходзіцца ў рэжыме абаротаў.",
   "ManualControl": "Ручное кіраванне",
   "ManualFanCalibration": "Ручная каліброўка вентылятара",

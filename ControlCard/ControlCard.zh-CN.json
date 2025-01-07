@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "启用软件控制",
   "ForceApply": "强制应用",
   "ForceApplyEnabled": "强制应用已启用。",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "控制器 {0} 没有有效的校准，风扇曲线 {1} 处于 RPM 模式。",
   "ManualControl": "手动控制",
   "ManualFanCalibration": "手动风扇校准",

@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "تمكين التحكم في البرامج",
   "ForceApply": "تطبيق القوة",
   "ForceApplyEnabled": "فرض التطبيق ممكّن.",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "عنصر التحكم {0} ليس له معايرة صالحة ومنحنى المروحة {1} في وضع RPM.",
   "ManualControl": "التحكم اليدوي",
   "ManualFanCalibration": "المعايرة اليدوية للمروحة",

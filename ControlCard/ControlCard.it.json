@@ -20,6 +20,7 @@
   "EnableDisableSoftwareControl": "Abilita controllo software",
   "ForceApply": "Applica forzatamente",
   "ForceApplyEnabled": "L’applicazione forzata è abilitata.",
+  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Il controllo {0} non ha una calibrazione valida e la curva della ventola {1} è in modalità RPM.",
   "ManualControl": "Controllo manuale",
   "ManualFanCalibration": "Calibrazione manuale della ventola",
