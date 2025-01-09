@@ -13,7 +13,7 @@ The most common language codes can be found [here](https://www.techonthenet.com/
 Translations will be pulled into the main software periodically.
 
 ## Formatting script
-The formatting script will run on every PR.  To run the script locally before committing:
+The formatting script will run on every PR. It makes sure all the json files are formatted the same. Run the script locally before committing:
 ```powershell
 ./format-json.ps1 -Fix
 ```
