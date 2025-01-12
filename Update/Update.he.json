@@ -1,0 +1,9 @@
+{
+  "CurrentVersionUpToDate": "הגרסה הנוכחית שלך ({0}) היא העדכנית ביותר!",
+  "DisableUpdatePopupStartup": "אל תציג חלון זה בעת ההפעלה.",
+  "DownloadingUpdater": "מוריד את מעדכן התוכנה...",
+  "NewVersion": "גרסה חדשה זמינה: {0} (הגרסה הנוכחית היא {1})",
+  "UpdateAvailable": "עדכון זמין",
+  "UpdateText": "עדכן",
+  "VersionInfoError": "לא ניתן היה לקבל מידע על הגרסה מהשרת."
+}
