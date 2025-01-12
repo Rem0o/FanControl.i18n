@@ -1,0 +1,23 @@
+{
+  "CultureText": "שפה",
+  "Delay": "עיכוב",
+  "EditSources": "ערוך מקורות...",
+  "General": "כללי",
+  "InstallPlugin": "התקן תוסף...",
+  "LoadedPlugins": "תוספים טעונים",
+  "Nicknames": "כינויים",
+  "NoPlugins": "לא נטענו תוספים",
+  "NoPluginSensorsHelpText": "לא זוהו חיישנים מהתוסף. ודא שהתוסף מופעל בחלון מקורות החיישנים ובוצע רענון.",
+  "NotifyForUpdate": "הודע על עדכון בעת הפעלה",
+  "OriginalName": "שם מקורי: {0}",
+  "Plugins": "תוספים",
+  "PluginSensors": "חיישני תוספים",
+  "SecondUnit": "שניה",
+  "SelectSensorNickname": "בחר חיישן לשם כינוי",
+  "SensorNickname": "כינוי חיישן (ניתן לעריכה)",
+  "Sensors": "חיישנים",
+  "StartMinimized": "התחל בחלון ממוזער",
+  "StartUserLogon": "התחל בעת כניסת משתמש",
+  "Symbol": "סמל",
+  "TaskSchedulerAdminRequired": "לא ניתן להגדיר את התוכנית להתחיל עם Windows דרך מתזמן המשימות. נדרש משתמש מנהל."
+}
