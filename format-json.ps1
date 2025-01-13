@@ -41,9 +41,11 @@ function Format-Json {
 
         # Powershell 5.10 doesn't handle some chars well
         # Replace escapped "\u0027" with "'"
-        # Replace escapped "\u0026" with "&"
         $line = $line -replace "\\u0027", "'"
+        # Replace escapped "\u0026" with "&"
         $line = $line -replace "\\u0026", "&"
+        # Replace Json Formatting weird double space https://github.com/PowerShell/PowerShell/issues/8604
+        $line = $line -replace  """:  ", """: "
 
         $line
     }
@@ -160,11 +162,10 @@ foreach ($baseFile in $baseFiles) {
                     if ($formattedTranslationJson[$i] -ne $translationJson[$i]) {
                         $hex1 = [System.Convert]::ToString([System.Convert]::ToInt32($formattedTranslationJson[$i]), 16)
                         $hex2 = [System.Convert]::ToString([System.Convert]::ToInt32($translationJson[$i]), 16)
-                        Write-Output "Difference at position {$i}: (0x$hex1) vs (0x$hex2)"
+                        $problem += "Difference at position {$i}: (0x$hex1) vs (0x$hex2)" + $newline
                         break;
                     }
                 }
-
 
                 if ($Fix) {
                     Write-Output "Formatting [$translationFile]"
@@ -179,14 +180,12 @@ foreach ($baseFile in $baseFiles) {
         $exitCode = -1;
         $problem += "Formatting for [$baseFile] is wrong" + $newline
 
-        
-
         $length = [math]::Min($formattedBaseJson.Length, $baseJson.Length)
         for ($i = 0; $i -lt $length; $i++) {
             if ($formattedBaseJson[$i] -ne $baseJson[$i]) {
                 $hex1 = [System.Convert]::ToString([System.Convert]::ToInt32($formattedBaseJson[$i]), 16)
                 $hex2 = [System.Convert]::ToString([System.Convert]::ToInt32($baseJson[$i]), 16)
-                Write-Output "Difference at position {$i}: (0x$hex1) vs (0x$hex2)"
+                $problem += "Difference at position {$i}: (0x$hex1) vs (0x$hex2)" + $newline
                 break;
             }
         }
