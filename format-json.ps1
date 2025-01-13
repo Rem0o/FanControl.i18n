@@ -41,9 +41,11 @@ function Format-Json {
 
         # Powershell 5.10 doesn't handle some chars well
         # Replace escapped "\u0027" with "'"
-        # Replace escapped "\u0026" with "&"
         $line = $line -replace "\\u0027", "'"
+        # Replace escapped "\u0026" with "&"
         $line = $line -replace "\\u0026", "&"
+        # Replace Json Formatting weird double space https://github.com/PowerShell/PowerShell/issues/8604
+        $line = $line -replace  """:  ", """: "
 
         $line
     }
