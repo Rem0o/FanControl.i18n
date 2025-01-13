@@ -20,7 +20,7 @@
   "EnableDisableSoftwareControl": "Softwaresteuerung aktivieren",
   "ForceApply": "Anwenden erzwingen",
   "ForceApplyEnabled": "Anwenden erzwingen ist aktiviert.",
-  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
+  "ForceApplyToolTip": "Gewünschten Steuerungswert jedes Mal, wenn eine Diskrepanz entdeckt wird, erneut anwenden.",
   "InvalidCalibrationError": "Die Steuerung {0} hat keine gültige Kalibrierung, und die Lüfterkurve {1} befindet sich im RPM-Modus.",
   "ManualControl": "Manuelle Steuerung",
   "ManualFanCalibration": "Manuelle Lüfterkalibrierung",
