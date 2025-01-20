@@ -8,13 +8,6 @@ $charD = [System.Convert]::ToChar(0xD)
 $charA = [System.Convert]::ToChar(0xA)
 $CRLF = "`r`n"
 
-# default case Windows
-$splitChar = $CRLF;
-# else Unix
-if ($PSVersionTable.Platform -eq "Unix") {
-    $splitChar = $charA
-}
-
 function Format-Json {
     Param(
         [Parameter(Mandatory = $true, Position = 0, ValueFromPipeline = $true)]
@@ -62,9 +55,7 @@ function Format-Json {
         $line
     }
 
-    # use [String]::Join()
-    $res = [String]::Join($CRLF, $result)
-    #$res = ($result -Join $CRLF)
+    $res = ($result -Join $CRLF)
 
     return $res
 }
@@ -136,12 +127,12 @@ $exitCode = 0
 $problem = ""
 
 foreach ($baseFile in $baseFiles) {
-    $baseJson = [IO.File]::ReadAllText($baseFile.FullName, [System.Text.Encoding]::UTF8)
+    $baseJson = Get-Content $baseFile.FullName -Raw
     $baseDictionary = $baseJson | ConvertFrom-Json | ConvertTo-OrderedDictionary
     $translationFiles = $translationFiles = Get-ChildItem -Path $baseFile.DirectoryName -Filter "$($baseFile.BaseName).*.json"
 
     foreach ($translationFile in $translationFiles) {
-        $translationJson =[IO.File]::ReadAllText($translationFile.FullName, [System.Text.Encoding]::UTF8);
+        $translationJson = Get-Content $translationFile.FullName -Raw
         $translation = $translationJson  | ConvertFrom-Json | ConvertTo-OrderedDictionary
         $comparison = Compare-Json -Base $baseDictionary -Translation $translation
 
@@ -170,8 +161,7 @@ foreach ($baseFile in $baseFiles) {
         }
         else {
             $formattedTranslationJson = ConvertTo-OrderedDictionaryFromArray($translation.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
-            $newLineChar = [System.Convert]::ToString([System.Convert]::ToInt32($formattedTranslationJson[1]), 16)
-            Write-Output $newLineChar
+            
             if ($formattedTranslationJson -ne $translationJson) {
                 $exitCode = -1
                 $problem += "Formatting for [$translationFile] is wrong" + $newline
