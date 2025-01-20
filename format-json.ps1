@@ -62,7 +62,9 @@ function Format-Json {
         $line
     }
 
-    $res = ($result -Join $CRLF)
+    # use [String]::Join()
+    $res = [String]::Join($CRLF, $result)
+    #$res = ($result -Join $CRLF)
 
     return $res
 }
@@ -168,9 +170,12 @@ foreach ($baseFile in $baseFiles) {
         }
         else {
             $formattedTranslationJson = ConvertTo-OrderedDictionaryFromArray($translation.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
+            $newLineChar = [System.Convert]::ToString([System.Convert]::ToInt32($formattedTranslationJson[1]), 16)
+            Write-Output $newLineChar
             if ($formattedTranslationJson -ne $translationJson) {
                 $exitCode = -1
                 $problem += "Formatting for [$translationFile] is wrong" + $newline
+
 
                 $length = [math]::Min($formattedTranslationJson.Length, $translationJson.Length)
                 for ($i = 0; $i -lt $length; $i++) {
@@ -216,7 +221,7 @@ Write-Output "$newline"
 if ($Fix -and ($exitCode -eq -1)) {
     $exitCode = 0
 }
-elseif ( $exitCode -eq -1) {
+elseif ($exitCode -eq -1) {
     Write-Output "Problems found!"
     if (-Not [String]::IsNullOrEmpty($problem) ) {
         Write-Output $problem
