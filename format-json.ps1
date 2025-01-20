@@ -47,15 +47,15 @@ function Format-Json {
         # Replace Json Formatting weird double space https://github.com/PowerShell/PowerShell/issues/8604
         $line = $line -replace  """:  ", """: "
 
+        #Remove any end of line character at the beginning of the line or at the end of the line
+        $line = $line.Trim($CRLF)
+        $line = $line.Trim($charD)
+        $line = $line.Trim($charA)
+
         $line
     }
 
     $res = ($result -Join $CRLF)
-
-    # if the first char is a 0xd or 0xa, remove it
-    if ($res[0] -eq $charD -or $res[0] -eq $charA) {
-        $res = $res.Substring(1)
-    }
 
     return $res
 }
