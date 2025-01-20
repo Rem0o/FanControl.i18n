@@ -6,15 +6,7 @@ param (
 $newline = [Environment]::NewLine
 $charD = [System.Convert]::ToChar(0xD)
 $charA = [System.Convert]::ToChar(0xA)
-$CRLF = "`r`n"
-$newLineChar = $CRLF;
-
-$isUnix = [System.Environment]::OSVersion.Platform -eq "Unix"
-$isWSL = $isUnix -and (Get-Command -Name "wsl.exe" -ErrorAction SilentlyContinue)
-
-if ($isUnix -and -not $isWSL) {
-    $newLineChar = $charA;
-}
+$CRLF = "$charD$charA"
 
 function Format-Json {
     Param(
@@ -26,7 +18,7 @@ function Format-Json {
     $indent = 0
     $regexUnlessQuoted = '(?=([^"]*"[^"]*")*[^"]*$)'
 
-    $result = $Json -split { $_ -eq $CRLF -or $_ -eq $charA } |
+    $result = $Json -split $CRLF |
     ForEach-Object {
         # If the line contains a ] or } character, 
         # we need to decrement the indentation level, unless:
@@ -55,15 +47,10 @@ function Format-Json {
         # Replace Json Formatting weird double space https://github.com/PowerShell/PowerShell/issues/8604
         $line = $line -replace  """:  ", """: "
 
-        #Remove any end of line character at the beginning of the line or at the end of the line
-        $line = $line.Trim($CRLF)
-        $line = $line.Trim($charD)
-        $line = $line.Trim($charA)
-
         $line
     }
 
-    $res = ($result -Join $newLineChar) -replace "(\r\n|\r|\n)\s*(\r\n|\r|\n)", $newLineChar
+    $res = ($result -Join $CRLF)
 
     return $res
 }
@@ -123,9 +110,6 @@ function ConvertTo-OrderedDictionaryFromArray {
 }
 
 $fullPath = $Path | Resolve-Path
-
-#Write the current powershell version
-Write-Output "PowerShell Version: $($PSVersionTable.PSVersion)"
 Write-Output "Scanning $fullPath"
 Write-Output "$newline"
 
@@ -135,12 +119,12 @@ $exitCode = 0
 $problem = ""
 
 foreach ($baseFile in $baseFiles) {
-    $baseJson = [System.IO.File]::ReadAllText($baseFile.FullName)
+    $baseJson = [IO.File]::ReadAllText($baseFile.FullName, [System.Text.Encoding]::UTF8)
     $baseDictionary = $baseJson | ConvertFrom-Json | ConvertTo-OrderedDictionary
     $translationFiles = $translationFiles = Get-ChildItem -Path $baseFile.DirectoryName -Filter "$($baseFile.BaseName).*.json"
 
     foreach ($translationFile in $translationFiles) {
-        $translationJson = [System.IO.File]::ReadAllText($translationFile.FullName)
+        $translationJson =[IO.File]::ReadAllText($translationFile.FullName, [System.Text.Encoding]::UTF8);
         $translation = $translationJson  | ConvertFrom-Json | ConvertTo-OrderedDictionary
         $comparison = Compare-Json -Base $baseDictionary -Translation $translation
 
@@ -169,7 +153,6 @@ foreach ($baseFile in $baseFiles) {
         }
         else {
             $formattedTranslationJson = ConvertTo-OrderedDictionaryFromArray($translation.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
-            
             if ($formattedTranslationJson -ne $translationJson) {
                 $exitCode = -1
                 $problem += "Formatting for [$translationFile] is wrong" + $newline
@@ -179,7 +162,7 @@ foreach ($baseFile in $baseFiles) {
                     if ($formattedTranslationJson[$i] -ne $translationJson[$i]) {
                         $hex1 = [System.Convert]::ToString([System.Convert]::ToInt32($formattedTranslationJson[$i]), 16)
                         $hex2 = [System.Convert]::ToString([System.Convert]::ToInt32($translationJson[$i]), 16)
-                        $problem += "Difference at position {$i}: (0x$hex2) should be (0x$hex1)" + $newline
+                        $problem += "Difference at position {$i}: (0x$hex1) vs (0x$hex2)" + $newline
                         break;
                     }
                 }
@@ -195,14 +178,14 @@ foreach ($baseFile in $baseFiles) {
     $formattedBaseJson = ConvertTo-OrderedDictionaryFromArray( $baseDictionary.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
     if ($formattedBaseJson -ne $baseJson) {
         $exitCode = -1;
-        $problem += "Formatting for default english file [$baseFile] is wrong" + $newline
+        $problem += "Formatting for [$baseFile] is wrong" + $newline
 
         $length = [math]::Min($formattedBaseJson.Length, $baseJson.Length)
         for ($i = 0; $i -lt $length; $i++) {
             if ($formattedBaseJson[$i] -ne $baseJson[$i]) {
                 $hex1 = [System.Convert]::ToString([System.Convert]::ToInt32($formattedBaseJson[$i]), 16)
                 $hex2 = [System.Convert]::ToString([System.Convert]::ToInt32($baseJson[$i]), 16)
-                $problem += "Difference at position {$i}: (0x$hex2) should be (0x$hex1)" + $newline
+                $problem += "Difference at position {$i}: (0x$hex1) vs (0x$hex2)" + $newline
                 break;
             }
         }
@@ -218,7 +201,7 @@ Write-Output "$newline"
 if ($Fix -and ($exitCode -eq -1)) {
     $exitCode = 0
 }
-elseif ($exitCode -eq -1) {
+elseif ( $exitCode -eq -1) {
     Write-Output "Problems found!"
     if (-Not [String]::IsNullOrEmpty($problem) ) {
         Write-Output $problem
