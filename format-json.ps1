@@ -7,6 +7,14 @@ $newline = [Environment]::NewLine
 $charD = [System.Convert]::ToChar(0xD)
 $charA = [System.Convert]::ToChar(0xA)
 $CRLF = "`r`n"
+$newLineChar = $CRLF;
+
+$isUnix = [System.Environment]::OSVersion.Platform -eq "Unix"
+$isWSL = $isUnix -and (Get-Command -Name "wsl.exe" -ErrorAction SilentlyContinue)
+
+if ($isUnix -and -not $isWSL) {
+    $newLineChar = $charA;
+}
 
 function Format-Json {
     Param(
@@ -55,7 +63,7 @@ function Format-Json {
         $line
     }
 
-    $res = ($result -Join $CRLF)
+    $res = ($result -Join $newLineChar)
 
     return $res
 }
@@ -127,12 +135,12 @@ $exitCode = 0
 $problem = ""
 
 foreach ($baseFile in $baseFiles) {
-    $baseJson = Get-Content $baseFile.FullName -Raw
+    $baseJson = [System.IO.File]::ReadAllText($baseFile.FullName)
     $baseDictionary = $baseJson | ConvertFrom-Json | ConvertTo-OrderedDictionary
     $translationFiles = $translationFiles = Get-ChildItem -Path $baseFile.DirectoryName -Filter "$($baseFile.BaseName).*.json"
 
     foreach ($translationFile in $translationFiles) {
-        $translationJson = Get-Content $translationFile.FullName -Raw
+        $translationJson = [System.IO.File]::ReadAllText($translationFile.FullName)
         $translation = $translationJson  | ConvertFrom-Json | ConvertTo-OrderedDictionary
         $comparison = Compare-Json -Base $baseDictionary -Translation $translation
 
@@ -165,7 +173,6 @@ foreach ($baseFile in $baseFiles) {
             if ($formattedTranslationJson -ne $translationJson) {
                 $exitCode = -1
                 $problem += "Formatting for [$translationFile] is wrong" + $newline
-
 
                 $length = [math]::Min($formattedTranslationJson.Length, $translationJson.Length)
                 for ($i = 0; $i -lt $length; $i++) {
