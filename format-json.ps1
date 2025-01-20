@@ -63,7 +63,7 @@ function Format-Json {
         $line
     }
 
-    $res = ($result -Join $newLineChar)
+    $res = ($result -Join $newLineChar) -replace "(\r\n|\r|\n)\s*(\r\n|\r|\n)", $newLineChar
 
     return $res
 }
