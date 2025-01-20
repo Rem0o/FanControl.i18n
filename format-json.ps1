@@ -3,6 +3,7 @@ param (
     [switch]$Fix = $false
 )
 
+$newline = [Environment]::NewLine
 $charD = [System.Convert]::ToChar(0xD)
 $charA = [System.Convert]::ToChar(0xA)
 $CRLF = "$charD$charA"
@@ -121,6 +122,9 @@ function ConvertTo-OrderedDictionaryFromArray {
 }
 
 $fullPath = $Path | Resolve-Path
+
+#Write the current powershell version
+Write-Output "PowerShell Version: $($PSVersionTable.PSVersion)"
 Write-Output "Scanning $fullPath"
 Write-Output "$newline"
 
