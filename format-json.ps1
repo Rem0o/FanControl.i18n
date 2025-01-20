@@ -3,10 +3,16 @@ param (
     [switch]$Fix = $false
 )
 
-$newline = [Environment]::NewLine
 $charD = [System.Convert]::ToChar(0xD)
 $charA = [System.Convert]::ToChar(0xA)
 $CRLF = "$charD$charA"
+
+# default case Windows
+$splitChar = $CRLF;
+# else Unix
+if ($PSVersionTable.Platform -eq "Unix") {
+    $splitChar = $charA
+}
 
 function Format-Json {
     Param(
@@ -18,7 +24,7 @@ function Format-Json {
     $indent = 0
     $regexUnlessQuoted = '(?=([^"]*"[^"]*")*[^"]*$)'
 
-    $result = $Json -split $CRLF |
+    $result = $Json -split $splitChar |
     ForEach-Object {
         # If the line contains a ] or } character, 
         # we need to decrement the indentation level, unless:
@@ -167,7 +173,7 @@ foreach ($baseFile in $baseFiles) {
                     if ($formattedTranslationJson[$i] -ne $translationJson[$i]) {
                         $hex1 = [System.Convert]::ToString([System.Convert]::ToInt32($formattedTranslationJson[$i]), 16)
                         $hex2 = [System.Convert]::ToString([System.Convert]::ToInt32($translationJson[$i]), 16)
-                        $problem += "Difference at position {$i}: (0x$hex2) should be (0x$hex1)" + $newline
+                        $problem += "Difference at position {$i}: ${formattedTranslationJson[$i]} (0x$hex2) should be ${translationJson[$i]} (0x$hex1)" + $newline
                         break;
                     }
                 }
