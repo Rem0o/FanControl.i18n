@@ -6,7 +6,7 @@ param (
 $newline = [Environment]::NewLine
 $charD = [System.Convert]::ToChar(0xD)
 $charA = [System.Convert]::ToChar(0xA)
-$CRLF = "$charD$charA"
+$CRLF = "`r`n"
 
 # default case Windows
 $splitChar = $CRLF;
