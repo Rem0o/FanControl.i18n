@@ -52,6 +52,11 @@ function Format-Json {
 
     $res = ($result -Join $CRLF)
 
+    # if the first char is a 0xd or 0xa, remove it
+    if ($res[0] -eq $charD -or $res[0] -eq $charA) {
+        $res = $res.Substring(1)
+    }
+
     return $res
 }
 
@@ -162,7 +167,7 @@ foreach ($baseFile in $baseFiles) {
                     if ($formattedTranslationJson[$i] -ne $translationJson[$i]) {
                         $hex1 = [System.Convert]::ToString([System.Convert]::ToInt32($formattedTranslationJson[$i]), 16)
                         $hex2 = [System.Convert]::ToString([System.Convert]::ToInt32($translationJson[$i]), 16)
-                        $problem += "Difference at position {$i}: (0x$hex1) vs (0x$hex2)" + $newline
+                        $problem += "Difference at position {$i}: (0x$hex2) should be (0x$hex1)" + $newline
                         break;
                     }
                 }
@@ -178,14 +183,14 @@ foreach ($baseFile in $baseFiles) {
     $formattedBaseJson = ConvertTo-OrderedDictionaryFromArray( $baseDictionary.GetEnumerator() | Sort-Object -Property Name) | ConvertTo-Json -Depth 100 | Format-Json -Indentation 2
     if ($formattedBaseJson -ne $baseJson) {
         $exitCode = -1;
-        $problem += "Formatting for [$baseFile] is wrong" + $newline
+        $problem += "Formatting for default english file [$baseFile] is wrong" + $newline
 
         $length = [math]::Min($formattedBaseJson.Length, $baseJson.Length)
         for ($i = 0; $i -lt $length; $i++) {
             if ($formattedBaseJson[$i] -ne $baseJson[$i]) {
                 $hex1 = [System.Convert]::ToString([System.Convert]::ToInt32($formattedBaseJson[$i]), 16)
                 $hex2 = [System.Convert]::ToString([System.Convert]::ToInt32($baseJson[$i]), 16)
-                $problem += "Difference at position {$i}: (0x$hex1) vs (0x$hex2)" + $newline
+                $problem += "Difference at position {$i}: (0x$hex2) should be (0x$hex1)" + $newline
                 break;
             }
         }
