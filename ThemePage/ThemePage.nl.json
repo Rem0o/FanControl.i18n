@@ -1,1 +1,9 @@
-
+{
+  "Input": "Invoer",
+  "Previews": "Voorvertoningen",
+  "Primary": "Primair",
+  "SampleText": "Voorbeeldtekst",
+  "Secondary": "Secundair",
+  "SyncThemeWindows": "Thema synchroniseren met Windows",
+  "Theme": "Thema"
+}
