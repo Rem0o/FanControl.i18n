@@ -1,1 +1,7 @@
-
+﻿{
+  "AddTrayIconSpeed": "Voeg ventilatorsnelheid toe aan systeemvakpictogram (%)",
+  "AddTrayIconTemp": "Voeg temperatuurpictogram in het systeemvak toe",
+  "DefaultTrayIconColor": Standaardkleur van het pictogram in het systeemvak",
+  "MissingTrayIconSensor": "Ontbrekende systeemvakpictogramsensor",
+  "SyncIconColor": "Synchroniseer pictogramkleur met Windows"
+}
