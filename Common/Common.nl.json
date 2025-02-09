@@ -1,1 +1,23 @@
-
+﻿{
+  "Add": "Toevoegen",
+  "Cancel": "Annuleren",
+  "Clear": "Verwijderen",
+  "Close": "Sluiten",
+  "Configurations": "Configuraties",
+  "Continue": "Doorgaan",
+  "Delete": "Wissen",
+  "Discard": "Weggooien",
+  "Edit": "Bewerken",
+  "Exit": "Sluiten",
+  "Hide": "Verbergen",
+  "Load": "Laden",
+  "No": "Nee",
+  "Ok": "Ok",
+  "Open": "Openen",
+  "Refresh": "Opnieuw laden",
+  "Refreshing": "Wordt opnieuw geladen …",
+  "Reset": "Opnieuw instellen",
+  "Save": "Opslaan",
+  "SecondUnit": "Sec.",
+  "Yes": "Ja"
+}
