@@ -1,1 +1,27 @@
-
+﻿{
+  "Cancel": "Annuleren",
+  "ConfigChangedQuestion": "Uw huidige configuratie is gewijzigd. Wilt u deze wijzigingen opslaan of verwijderen?",
+  "ConfigCouldNotBeSaved": "Configuratie kon niet worden opgeslagen. Zie foutlogboek voor details.",
+  "ConfigName": "Configuratienaam:",
+  "ConfigRestoreError": "Deze fouten zijn opgetreden tijdens het herstellen van de configuratie:",
+  "ConfigSavedAs": "Configuratie opgeslagen als {0}",
+  "ConfigurationLoaded": "Configuratie geladen",
+  "CouldNotLoadConfiguration": "Kon de configuratie niet laden. Er is een onverwachte fout opgetreden en deze is toegevoegd aan het logbestand.",
+  "Create": "Creëren",
+  "CustomSensors": "Aangepaste sensoren",
+  "DeselectAll": "Alles deselecteren",
+  "FanCurves": "Ventilator curven",
+  "Import": "Importeren",
+  "ImportDialogText": "Selecteer de aangepaste sensoren en ventilatorcurven die u wilt importeren {0}",
+  "Loading": "Laden",
+  "Location": "Locatie: {0}",
+  "MissingControlSensor": "Ontbrekende regelsensor",
+  "MissingSpeedSensor": "Snelheidssensor ontbreekt",
+  "MissingTemperatureSensor": "Temperatuursensor ontbreekt",
+  "NameConflicts": "De volgende items hebben een naamconflict met uw huidige configuratie:",
+  "NothingToImportIn": "Er zijn geen ventilatorcurven of aangepaste sensoren om te importeren {0}.",
+  "RestoreErrorIncreaseDelay": "Als deze fout optreedt bij het opstarten, probeer dan de opstartvertraging te vergroten.",
+  "RetryFailed": "Initialisatie opnieuw proberen mislukt.",
+  "SelectAll": "Selecteer alles",
+  "SelectConfigFile": "Selecteer een configuratiebestand"
+}
