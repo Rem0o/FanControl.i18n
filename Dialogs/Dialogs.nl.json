@@ -41,7 +41,7 @@
   "SpeedHelpPart3": "Het wordt aanbevolen dat u elke sensor in deze sectie \"koppelt\" aan de bijbehorende regelingskaart. Gebruik hiervoor de menuoptie met drie stippen van een regelingskaart en selecteer handmatig of automatisch koppelen.",
   "SpeedHelpPart4": "Once a speed sensor is paired, you can hide it for a cleaner look.",
   "TwoPointsRequired": "Minstens 2 punten vereist",
-  "UnexpectedErrorOccurred": Er is een onverwachte fout opgetreden en deze is toegevoegd aan het logbestand.",
+  "UnexpectedErrorOccurred": "Er is een onverwachte fout opgetreden en deze is toegevoegd aan het logbestand.",
   "UnexpectedErrorSeeLog": "Er is een onverwachte fout opgetreden. Zie het logbestand voor meer informatie.",
   "WelcomeFanControl": "Welkom bij Fan Control! 👋"
 }
