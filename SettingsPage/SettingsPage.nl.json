@@ -1,0 +1,23 @@
+﻿{
+  "CultureText": "Taal",
+  "Delay": "Vertraging",
+  "EditSources": "Bronnen bewerken...",
+  "General": "Algemeen",
+  "InstallPlugin": "Plug-in installeren...",
+  "LoadedPlugins": "Geladen plug-ins",
+  "Nicknames": "Bijnamen",
+  "NoPlugins": "Geen plug-ins geladen",
+  "NoPluginSensorsHelpText": "Geen sensoren van plug-in gedetecteerd. Controleer of de plug-in is ingeschakeld in het sensorbronnenvenster en of er een verversing is uitgevoerd.",
+  "NotifyForUpdate": "Melding voor update bij opstarten",
+  "OriginalName": "Oorspronkelijke naam: {0}",
+  "Plugins": "Plug-ins",
+  "PluginSensors": "plug-in sensoren",
+  "SecondUnit": "sec",
+  "SelectSensorNickname": "Selecteer een sensor om een ​​bijnaam te geven",
+  "SensorNickname": "Sensorbijnaam (bewerkbaar)",
+  "Sensors": "Sensoren",
+  "StartMinimized": "Start geminimaliseerd",
+  "StartUserLogon": "start bij gebruikersaanmelding",
+  "Symbol": "Symbool",
+  "TaskSchedulerAdminRequired": "Kan het programma niet instellen om te starten met Windows in de taakplanner. Admin-gebruiker vereist."
+}
