@@ -1,0 +1,9 @@
+﻿{
+  "CurrentVersionUpToDate": "Uw huidige versie ({0}) is de meest recente!",
+  "DisableUpdatePopupStartup": "Schakel deze pop-up uit bij het opstarten.",
+  "DownloadingUpdater": "Updater downloaden...",
+  "NewVersion": "Er is een nieuwe versie beschikbaar: {0} (huidige versie is {1})",
+  "UpdateAvailable": "Er is een update beschikbaar",
+  "UpdateText": "Update",
+  "VersionInfoError": "Kon de versie-informatie niet van de server ophalen."
+}
