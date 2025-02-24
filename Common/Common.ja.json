@@ -1,0 +1,23 @@
+﻿{
+  "Add": "追加",
+  "Cancel": "中断",
+  "Clear": "破棄",
+  "Close": "閉じる",
+  "Configurations": "設定",
+  "Continue": "続ける",
+  "Delete": "削除",
+  "Discard": "破棄",
+  "Edit": "編集",
+  "Exit": "終了",
+  "Hide": "隠す",
+  "Load": "読み込み",
+  "No": "いいえ",
+  "Ok": "Ok",
+  "Open": "開く",
+  "Refresh": "再読込",
+  "Refreshing": "読込中...",
+  "Reset": "初期化",
+  "Save": "保存",
+  "SecondUnit": "秒",
+  "Yes": "はい"
+}
