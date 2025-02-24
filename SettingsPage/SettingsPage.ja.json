@@ -1,0 +1,23 @@
+﻿{
+  "CultureText": "言語",
+  "Delay": "遅延",
+  "EditSources": "ソースの編集...",
+  "General": "一般",
+  "InstallPlugin": "プラグインをインストール...",
+  "LoadedPlugins": "読み込まれたプラグイン",
+  "Nicknames": "ニックネーム",
+  "NoPlugins": "プラグインは読み込まれていません",
+  "NoPluginSensorsHelpText": "プラグインからセンサーが検出されませんでした。センサーソースウィンドウでプラグインが有効になっていることを確認し、更新を実行してください。",
+  "NotifyForUpdate": "起動時に更新を通知する",
+  "OriginalName": "元の名前: {0}",
+  "Plugins": "プラグイン",
+  "PluginSensors": "プラグインセンサー",
+  "SecondUnit": "秒",
+  "SelectSensorNickname": "センサーにニックネームを付けるセンサーを選択",
+  "SensorNickname": "センサーのニックネーム（編集可能）",
+  "Sensors": "センサー",
+  "StartMinimized": "最小化して開始",
+  "StartUserLogon": "ユーザーのログオン時に開始",
+  "Symbol": "記号",
+  "TaskSchedulerAdminRequired": "タスクスケジューラでプログラムをWindowsと共に起動する設定ができませんでした。管理者権限が必要です。"
+}
