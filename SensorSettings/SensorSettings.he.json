@@ -26,6 +26,8 @@
   "SensorSettingsText": "הגדרות חיישנים",
   "Storage": "אחסון",
   "WantToContinue": "האם ברצונך להמשיך?",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "חלק מכרטיסי Nvidia מגבילים את השליטה במהירות המאווררים כך שתוכנות צד שלישי כמו Fan Control לא יכולות להגדיר מהירות מאוורר מתחת לאחוז מסוים, בדרך כלל 30%.",
   "ZeroRPMOverrideHelpPart2": "זה מונע את השימוש בתכונת 0 סל\"ד בכרטיסים נבחרים.",
   "ZeroRPMOverrideHelpPart3": "תיבת סימון זו \"תשבית\" את כל השליטה של Nvidia כאשר המהירות מגיעה ל-0%. זה יאפשר לחזור לעקומת המאוורר המובנית, שעשויה לתמוך ב-0 סל\"ד.",

@@ -26,6 +26,8 @@
   "SensorSettingsText": "Sensoreinstellungen",
   "Storage": "Massenspeicher",
   "WantToContinue": "Fortfahren?",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "Einige Nvidia-Karten haben festgelegte Lüftersteuerungslimits, bei denen Drittanbieter-Software wie Fan Control die Lüfterdrehzahl nicht unter einen bestimmten %-Wert einstellen kann, am häufigsten 30 %.",
   "ZeroRPMOverrideHelpPart2": "Das verhindert die Nutzung der 0-RPM-Funktion bei ausgewählten Karten.",
   "ZeroRPMOverrideHelpPart3": "Dieses Kontrollkästchen \"deaktiviert\" bei Erreichen von 0 % alle Nvidia-Steuerungen. Dadurch übernimmt wieder die standardmäßige, \"integrierte\" Lüfterkurve, die ggf. 0 RPM unterstützt.",

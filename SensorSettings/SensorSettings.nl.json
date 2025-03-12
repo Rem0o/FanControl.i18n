@@ -26,6 +26,8 @@
   "SensorSettingsText": "Sensorinstellingen",
   "Storage": "Opslag",
   "WantToContinue": "Wilt u doorgaan?",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "Sommige Nvidia-kaarten hebben ingestelde limieten voor de ventilatorregeling, waarbij software van derden zoals Fan Control de ventilatorsnelheid niet onder een bepaald percentage kan instellen. Meestal is dat 30%.",
   "ZeroRPMOverrideHelpPart2": "Hiermee wordt voorkomen dat de 0 RPM-functie van geselecteerde kaarten wordt gebruikt.",
   "ZeroRPMOverrideHelpPart3": "Dit selectievakje schakelt alle Nvidia-besturingselementen uit wanneer het 0% bereikt. Hiermee gaat het terug naar de standaard \"ingebouwde\" ventilatorcurve, die 0 RPM ondersteunt.",

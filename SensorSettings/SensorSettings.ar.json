@@ -26,6 +26,8 @@
   "SensorSettingsText": "إعدادات المستشعر",
   "Storage": "التخزين",
   "WantToContinue": "هل ترغب في المتابعة؟",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "لقد وضعت بعض بطاقات Nvidia حدودًا للتحكم في المروحة حيث لا يمكن لبرامج الطرف الثالث مثل Fan Control ضبط سرعة المروحة على أقل من نسبة مئوية محددة، وهي في الغالب 30%.",
   "ZeroRPMOverrideHelpPart2": "هذا يمنع من استخدام ميزة 0 RPM للبطاقات المحددة.",
   "ZeroRPMOverrideHelpPart3": "ستؤدي خانة الاختيار هذه إلى \"تعطيل\" جميع عناصر تحكم Nvidia عندما تصل إلى 0٪. سيؤدي ذلك إلى السماح لها بالعودة إلى منحنى المروحة الافتراضي \"المدمج\"، والذي قد يدعم 0 دورة في الدقيقة.",

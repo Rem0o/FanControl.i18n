@@ -26,6 +26,8 @@
   "SensorSettingsText": "Sensör ayarları",
   "Storage": "Depolama",
   "WantToContinue": "Devam etmek istiyor musunuz?",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "Bazı Nvidia kartlarının, Fan Control gibi üçüncü taraf yazılımlarının fan hızını belirli bir %'nin (çoğunlukla %30) altına ayarlayamadığı fan kontrol sınırları vardır.",
   "ZeroRPMOverrideHelpPart2": "Bu, seçilen kartların 0 RPM özelliğinin kullanılmasını engeller.",
   "ZeroRPMOverrideHelpPart3": "Bu onay kutusu, %0'a ulaştığında tüm Nvidia kontrollerini \"devre dışı bırakacaktır\". Bu, varsayılan \"dahili\" fan eğrisine geri dönecektir; bu, 0 RPM'yi destekleyebilir.",

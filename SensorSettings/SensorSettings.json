@@ -26,6 +26,8 @@
   "SensorSettingsText": "Sensor settings",
   "Storage": "Storage",
   "WantToContinue": "Do you wish to continue?",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "Some Nvidia cards have set fan control limits where third party software like Fan Control can't set the fan speed below a specific %, most commonly 30%.",
   "ZeroRPMOverrideHelpPart2": "This prevent from using the 0 RPM feature of selected cards.",
   "ZeroRPMOverrideHelpPart3": "This checkbox will \"disable\" all Nvidia controls when it hits 0%. This will let it go back to its default \"built-in\" fan curve, which may support 0 RPM.",
