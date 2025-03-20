@@ -5,5 +5,5 @@
   "NewVersion": "Une nouvelle version est disponible : {0} (la version actuelle est {1})",
   "UpdateAvailable": "Une mise à jour est disponible",
   "UpdateText": "Mettre à jour",
-  "VersionInfoError": "Impossible d'obtenir les informations de version à partir serveur."
+  "VersionInfoError": "Impossible d'obtenir les informations de version du serveur."
 }

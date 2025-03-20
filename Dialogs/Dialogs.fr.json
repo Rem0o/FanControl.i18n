@@ -35,7 +35,7 @@
   "PaypalDialogPart7": "Merci d'utiliser Fan Control ! 🙏",
   "PlatformNotSupported": "Votre plateforme n'est pas supportée. Windows 10 ou une version ultérieure est requise.",
   "ReadEULA": "Prenez une minute pour lire le contrat de licence utilisateur final. Il est court, je vous le promets. Vous pouvez toujours le lire plus tard dans la section À propos.",
-  "RefreshingAfterSleep": "Fan Control se rafraîchit après la reprise du sommeil",
+  "RefreshingAfterSleep": "Fan Control s'actualise après la sortie de veille",
   "SpeedHelpPart1": "La section \"Vitesses\" montre chaque capteur RPM disponible qui est détecté.",
   "SpeedHelpPart2": "Notez que chaque tuile de contrôle peut ou non avoir une tuile RPM correspondante en raison de problèmes de compatibilité.",
   "SpeedHelpPart3": "Il est recommandé d'\"associer\" chaque capteur de cette section à sa tuile de contrôle correspondante. Utilisez l'option du menu à trois points d'une tuile de contrôle pour le faire, et sélectionnez soit l'association manuelle, soit l'association automatique.",

@@ -7,7 +7,7 @@
   "ControlSpeedCalibration": "Calibration contrôle/vitesse",
   "ControlSpeedPairing": "Association des capteurs de vitesse avec les contrôles",
   "Done": "Terminé!",
-  "ExceptionDuringSetup": "Une exception s'est produite pendant le processus de configuration assistée. Consultez le journal des erreurs pour plus de détails.",
+  "ExceptionDuringSetup": "Une exception s'est produite pendant le processus de configuration assistée. Consultez le journal d'erreurs pour plus de détails.",
   "FullSpeed": "Réglage du ventilateur à 100%",
   "IdentificationDescription": "Identifiez et nommez vos ventilateurs",
   "IdentificationInstructions": "Ces contrôles sont ceux qui ont répondu à Fan Control. Regardez à l'intérieur de votre ordinateur ou utilisez un logiciel alternatif tout en utilisant les curseurs pour les nommer en conséquence",
