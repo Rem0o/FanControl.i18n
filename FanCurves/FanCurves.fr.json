@@ -31,5 +31,5 @@
   "TriggerDescription": "La courbe déclencheur maintiendra sa vitesse jusqu'à ce que l'un des deux points de changement soit déclenché.",
   "TriggerIdleDescription": "En dessous de la température de repos, la vitesse de ventilateur de repos est appliquée jusqu'à ce que la température remonte à la température de charge.",
   "TriggerLoadDescription": "Au-dessus de la température de charge, la vitesse de ventilateur de charge est appliquée jusqu'à ce que la température redescende à la température de repos.",
-  "TypeFanCurveMissingSensor": "La courbe {0} nommée \"{1}\" manque de capteur avec l'identifiant : {2}"
+  "TypeFanCurveMissingSensor": "La courbe {0} nommée \"{1}\" manque du capteur avec l'identifiant : {2}"
 }

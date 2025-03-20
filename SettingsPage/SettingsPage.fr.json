@@ -7,7 +7,7 @@
   "LoadedPlugins": "Plugins installés",
   "Nicknames": "Surnoms",
   "NoPlugins": "Aucun plugin installé",
-  "NoPluginSensorsHelpText": "Aucun capteur du plugin détecté. Assurez-vous que le plugin est activé dans la fenêtre des sources de capteurs et qu'un rafraîchissement a été effectué.",
+  "NoPluginSensorsHelpText": "Aucun capteur du plugin détecté. Assurez-vous que le plugin est activé dans la fenêtre des sources de capteurs et qu'une actualisation a été effectué.",
   "NotifyForUpdate": "Notifier pour la mise à jour au démarrage",
   "OriginalName": "Nom original : {0}",
   "Plugins": "Plugins",
