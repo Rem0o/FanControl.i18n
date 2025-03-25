@@ -1,4 +1,5 @@
 ﻿{
+  "Calibrate": "Calibrate",
   "CalibrateAuto": "対となる制御の自動較正...",
   "Calibrated": "較正済み",
   "ControlNotRespond": "この制御は現在の指令に正しく応答しません",

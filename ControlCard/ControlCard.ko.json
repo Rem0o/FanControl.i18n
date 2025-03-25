@@ -1,4 +1,5 @@
 ﻿{
+  "Calibrate": "Calibrate",
   "CalibrateAuto": "연결된 제어를 자동으로 보정...",
   "Calibrated": "보정됨",
   "ControlNotRespond": "이 제어가 현재 명령에 적절하게 응답하지 않습니다.",
