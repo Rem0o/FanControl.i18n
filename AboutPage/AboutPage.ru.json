@@ -1,9 +1,9 @@
 ﻿{
   "Credit": "Авторы",
   "Donate": "Пожертвовать",
-  "Email": "Электронная почта",
+  "Email": "Email",
   "EULALicenses": "EULA",
-  "OfficialWebsite": "Официальный сайт",
+  "OfficialWebsite": "Офф. сайт",
   "Sponsor": "Спонсор",
   "VersionStringFormat": "Версия: {0}"
 }

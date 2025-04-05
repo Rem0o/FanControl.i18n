@@ -17,7 +17,7 @@
   "Memory": "Память",
   "MissingSensorWillThrow": "Отсутствие любого датчика в текущей конфигурации вызовет ошибку при восстановлении конфигурации.",
   "Motherboard": "Материнская плата",
-  "NoPluginsLoaded": "Нет загруженных плагинов",
+  "NoPluginsLoaded": "Плагины не загружены",
   "NvAPIWrapper": "NvApiWrapper (ГП Nvidia)",
   "NvdiaZeroRPMOverride": "Переопределение аппаратной кривой Nvidia 0% RPM",
   "PluginInstalledSuccess": "Плагин {0} успешно установлен",
