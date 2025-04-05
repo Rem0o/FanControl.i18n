@@ -1,5 +1,5 @@
 ﻿{
-  "Calibrate": "Calibrate",
+  "Calibrate": "Калибровать",
   "CalibrateAuto": "Автоматически откалибровать связанный элемент управления...",
   "Calibrated": "Откалибровано",
   "ControlNotRespond": "Этот элемент управления неправильно реагирует на текущую команду.",
@@ -21,7 +21,7 @@
   "EnableDisableSoftwareControl": "Включить программное управление",
   "ForceApply": "Применить принудительно",
   "ForceApplyEnabled": "Принудительное применение включено.",
-  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
+  "ForceApplyToolTip": "Повторно применять заданное значение управления каждый раз при обнаружении расхождения.",
   "InvalidCalibrationError": "Элемент управления {0} не имеет действительной калибровки, а кривая вентилятора {1} находится в режиме оборотов.",
   "ManualControl": "Ручное управление",
   "ManualFanCalibration": "Ручная калибровка вентилятора",
