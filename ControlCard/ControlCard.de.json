@@ -1,4 +1,5 @@
 ﻿{
+  "Auto": "Auto",
   "Calibrate": "Kalibrieren",
   "CalibrateAuto": "Gekoppelte Steuerung automatisch kalibrieren …",
   "Calibrated": "Kalibriert",
@@ -23,6 +24,7 @@
   "ForceApplyEnabled": "Anwenden erzwingen ist aktiviert.",
   "ForceApplyToolTip": "Gewünschten Steuerungswert jedes Mal, wenn eine Diskrepanz entdeckt wird, erneut anwenden.",
   "InvalidCalibrationError": "Die Steuerung {0} hat keine gültige Kalibrierung, und die Lüfterkurve {1} befindet sich im RPM-Modus.",
+  "Manual": "Manual",
   "ManualControl": "Manuelle Steuerung",
   "ManualFanCalibration": "Manuelle Lüfterkalibrierung",
   "ManualPairSingleFanDescription": "Steuerung mit einem Drehzahlsensor koppeln",

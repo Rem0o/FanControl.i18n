@@ -1,4 +1,5 @@
 ﻿{
+  "Auto": "Auto",
   "Calibrate": "Calibrate",
   "CalibrateAuto": "Kalibreer de gekoppelde regeling automatisch...",
   "Calibrated": "Gekalibreerd",
@@ -23,6 +24,7 @@
   "ForceApplyEnabled": "Toepassen forceren is ingeschakeld.",
   "ForceApplyToolTip": "Pas de gewenste regelwaarde opnieuw toe telkens wanneer een afwijking wordt gedetecteerd.",
   "InvalidCalibrationError": "Control {0} has no valid calibration and fan curve {1} is in RPM mode.",
+  "Manual": "Manual",
   "ManualControl": "Handmatige regeling",
   "ManualFanCalibration": "Handmatige ventilatorkalibratie",
   "ManualPairSingleFanDescription": "Koppel de regeling aan een snelheidssensor",

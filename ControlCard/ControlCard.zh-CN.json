@@ -1,4 +1,5 @@
 ﻿{
+  "Auto": "Auto",
   "Calibrate": "Calibrate",
   "CalibrateAuto": "自动校准控制器配对...",
   "Calibrated": "已校准",
@@ -23,6 +24,7 @@
   "ForceApplyEnabled": "强制应用已启用。",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "控制器 {0} 没有有效的校准，风扇曲线 {1} 处于 RPM 模式。",
+  "Manual": "Manual",
   "ManualControl": "手动控制",
   "ManualFanCalibration": "手动风扇校准",
   "ManualPairSingleFanDescription": "将控制器与速度传感器配对",

@@ -1,4 +1,5 @@
 ﻿{
+  "Auto": "Auto",
   "Calibrate": "Calibrate",
   "CalibrateAuto": "Αυτόματη ρύθμιση ζευγοποιημένων ελεγκτών...",
   "Calibrated": "Ρυθμίστηκε",
@@ -23,6 +24,7 @@
   "ForceApplyEnabled": "Η αναγκαστική εφαρμογή είναι ενεργοποιημένη.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Ο ελεγκτής {0} δεν έχει έγκυρη ρύθμιση και η καμπύλη ανεμιστήρα {1} βρίσκεται σε λειτουργία RPM.",
+  "Manual": "Manual",
   "ManualControl": "Χειροκίνητη λειτουργία",
   "ManualFanCalibration": "Χειροκίνητη ρύθμιση ανεμιστήρα",
   "ManualPairSingleFanDescription": "Ζευγάριασμα ελεγκτή με αισθητήρα ταχύτητας",

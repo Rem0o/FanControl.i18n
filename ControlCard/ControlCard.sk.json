@@ -1,4 +1,5 @@
 ﻿{
+  "Auto": "Auto",
   "Calibrate": "Calibrate",
   "CalibrateAuto": "Automatická kalibrácia spárovaného ovládania...",
   "Calibrated": "Kalibrované",
@@ -23,6 +24,7 @@
   "ForceApplyEnabled": "Vynútenie je zapnuté",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Regulátor {0} nemá platnú kalibráciu a krivka ventilátora {1} je v režime otáčok.",
+  "Manual": "Manual",
   "ManualControl": "Manuálne ovládanie",
   "ManualFanCalibration": "Manuálna kalibrácia ventilátora",
   "ManualPairSingleFanDescription": "Párovanie ovládania so snímačom rýchlosti",

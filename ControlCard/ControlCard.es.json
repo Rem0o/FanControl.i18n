@@ -1,4 +1,5 @@
 ﻿{
+  "Auto": "Auto",
   "Calibrate": "Calibrate",
   "CalibrateAuto": "Calibrar los controles emparejados automáticamente...",
   "Calibrated": "Calibrado",
@@ -23,6 +24,7 @@
   "ForceApplyEnabled": "Aplicación forzosa está activada.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "El controlador {0} no tiene una calibración válida y la curva del ventilador {1} está en modo RPM.",
+  "Manual": "Manual",
   "ManualControl": "Control manual",
   "ManualFanCalibration": "Calibración manual",
   "ManualPairSingleFanDescription": "Emparejar controlador a un sensor de velocidad",

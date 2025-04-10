@@ -1,4 +1,5 @@
 ﻿{
+  "Auto": "Auto",
   "Calibrate": "Calibrate",
   "CalibrateAuto": "Calibra automaticamente il controllo abbinato...",
   "Calibrated": "Calibrato",
@@ -23,6 +24,7 @@
   "ForceApplyEnabled": "L’applicazione forzata è abilitata.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Il controllo {0} non ha una calibrazione valida e la curva della ventola {1} è in modalità RPM.",
+  "Manual": "Manual",
   "ManualControl": "Controllo manuale",
   "ManualFanCalibration": "Calibrazione manuale della ventola",
   "ManualPairSingleFanDescription": "Abbina il controllo a un sensore di velocità",

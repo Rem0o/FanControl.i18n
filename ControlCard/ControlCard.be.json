@@ -1,4 +1,5 @@
 ﻿{
+  "Auto": "Auto",
   "Calibrate": "Calibrate",
   "CalibrateAuto": "Аўтаматычна адкалібраваць звязаны элемент кіравання...",
   "Calibrated": "Адкалібравана",
@@ -23,6 +24,7 @@
   "ForceApplyEnabled": "Прымусовае прымяненне ўключана.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Элемент кіравання {0} не мае сапраўднай каліброўкі, а крывая вентылятара {1} знаходзіцца ў рэжыме абаротаў.",
+  "Manual": "Manual",
   "ManualControl": "Ручное кіраванне",
   "ManualFanCalibration": "Ручная каліброўка вентылятара",
   "ManualPairSingleFanDescription": "Звязаць элемент кіравання з датчыкам хуткасці",
