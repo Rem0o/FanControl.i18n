@@ -8,8 +8,10 @@
   "Delete": "Wissen",
   "Discard": "Verwijderen",
   "Edit": "Bewerken",
+  "Error": "Error",
   "Exit": "Afsluiten",
   "Hide": "Verbergen",
+  "Info": "Info",
   "Load": "Laden",
   "No": "Nee",
   "Ok": "Ok",
@@ -19,5 +21,7 @@
   "Reset": "Opnieuw instellen",
   "Save": "Opslaan",
   "SecondUnit": "Sec.",
+  "Success": "Success",
+  "Warning": "Warning",
   "Yes": "Ja"
 }

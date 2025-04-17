@@ -8,8 +8,10 @@
   "Delete": "Выдаліць",
   "Discard": "Скасаваць",
   "Edit": "Рэдагаваць",
+  "Error": "Error",
   "Exit": "Выхад",
   "Hide": "Схаваць",
+  "Info": "Info",
   "Load": "Загрузіць",
   "No": "Не",
   "Ok": "Ок",
@@ -19,5 +21,7 @@
   "Reset": "Скінуць",
   "Save": "Захаваць",
   "SecondUnit": "сек",
+  "Success": "Success",
+  "Warning": "Warning",
   "Yes": "Так"
 }

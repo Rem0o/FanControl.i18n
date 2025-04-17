@@ -8,8 +8,10 @@
   "Delete": "삭제",
   "Discard": "저장안함",
   "Edit": "편집",
+  "Error": "Error",
   "Exit": "종료",
   "Hide": "숨기기",
+  "Info": "Info",
   "Load": "불러오기",
   "No": "아니오",
   "Ok": "확인",
@@ -19,5 +21,7 @@
   "Reset": "초기화",
   "Save": "저장",
   "SecondUnit": "초",
+  "Success": "Success",
+  "Warning": "Warning",
   "Yes": "예"
 }

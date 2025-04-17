@@ -8,8 +8,10 @@
   "Delete": "מחק",
   "Discard": "התעלם",
   "Edit": "ערוך",
+  "Error": "Error",
   "Exit": "צא",
   "Hide": "הסתר",
+  "Info": "Info",
   "Load": "טען",
   "No": "לא",
   "Ok": "בסדר",
@@ -19,5 +21,7 @@
   "Reset": "איפוס",
   "Save": "שמור",
   "SecondUnit": "שניה",
+  "Success": "Success",
+  "Warning": "Warning",
   "Yes": "כן"
 }

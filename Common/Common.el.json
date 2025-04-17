@@ -8,8 +8,10 @@
   "Delete": "Διαγραφή",
   "Discard": "Κατάργηση",
   "Edit": "Επεξεργασία",
+  "Error": "Error",
   "Exit": "Έξοδος",
   "Hide": "Απόκρυψη",
+  "Info": "Info",
   "Load": "Φόρτωση",
   "No": "Όχι",
   "Ok": "Oκ",
@@ -19,5 +21,7 @@
   "Reset": "Επαναφορά",
   "Save": "Αποθήκευση",
   "SecondUnit": "δευτ.",
+  "Success": "Success",
+  "Warning": "Warning",
   "Yes": "Ναι"
 }
