@@ -3,5 +3,5 @@
   "AddTrayIconTemp": "트레이 아이콘에 온도 표시",
   "DefaultTrayIconColor": "기본 트레이 아이콘 색상",
   "MissingTrayIconSensor": "트레이 아이콘 센서 없음",
-  "SyncIconColor": "아이콘 색상을 Windows 테마 컬러에 맞추기"
+  "SyncIconColor": "아이콘 색상을 Windows와 동기화"
 }
