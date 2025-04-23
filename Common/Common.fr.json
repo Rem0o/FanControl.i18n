@@ -8,7 +8,7 @@
   "Delete": "Supprimer",
   "Discard": "Abandonner",
   "Edit": "Éditer",
-  "Error": "Error",
+  "Error": "Erreur",
   "Exit": "Quitter",
   "Hide": "Cacher",
   "Info": "Info",
@@ -21,7 +21,7 @@
   "Reset": "Réinitialiser",
   "Save": "Enregistrer",
   "SecondUnit": "sec",
-  "Success": "Success",
-  "Warning": "Warning",
+  "Success": "Succès",
+  "Warning": "Avertissement",
   "Yes": "Oui"
 }
