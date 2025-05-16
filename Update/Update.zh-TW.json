@@ -1,0 +1,9 @@
+{
+  "CurrentVersionUpToDate": "您目前的版本 ({0}) 已是最新！",
+  "DisableUpdatePopupStartup": "停用啟動時顯示此彈出視窗。",
+  "DownloadingUpdater": "正在下載更新...",
+  "NewVersion": "有新版本可用：{0} (目前版本：{1})",
+  "UpdateAvailable": "有可用的更新",
+  "UpdateText": "更新",
+  "VersionInfoError": "無法從伺服器取得版本資訊。"
+}

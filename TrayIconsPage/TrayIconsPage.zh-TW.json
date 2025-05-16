@@ -1,0 +1,7 @@
+{
+  "AddTrayIconSpeed": "在系統匣圖示中增加風扇轉速 (%)",
+  "AddTrayIconTemp": "在系統匣圖示中增加溫度",
+  "DefaultTrayIconColor": "預設系統匣圖示顏色",
+  "MissingTrayIconSensor": "缺少系統匣圖示所需的感測器",
+  "SyncIconColor": "與 Windows 同步圖示顏色"
+}

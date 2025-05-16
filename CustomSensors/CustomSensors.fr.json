@@ -10,7 +10,7 @@
   "LoopDetected": "\"{0}\" ne peut pas être utilisé comme capteur source. Une boucle a été détectée.",
   "MissingSensor": "Capteur manquant",
   "MissingSensorsForMix": "Capteurs manquants pour le capteur mix nommé \"{0}\": [{1}]",
-  "MissingSensorsForOffset": "Capteur manquant pour le capteur décalage nommé {0}: {1}",
+  "MissingSensorsForOffset": "Capteur manquant pour le décalage nommé {0}: {1}",
   "MissingSensorsForTimeAverage": "Capteur manquant pour le capteur de moyenne temporelle nommé {0}: {1}",
   "Mix": "Mix",
   "MixDescription": "Le capteur personnalisé de mix applique une fonction aux capteurs de température sélectionnés.",

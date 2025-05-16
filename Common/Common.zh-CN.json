@@ -8,8 +8,10 @@
   "Delete": "删除",
   "Discard": "丢弃",
   "Edit": "编辑",
+  "Error": "Error",
   "Exit": "退出",
   "Hide": "隐藏",
+  "Info": "Info",
   "Load": "加载",
   "No": "否",
   "Ok": "确定",
@@ -19,5 +21,7 @@
   "Reset": "重置",
   "Save": "保存",
   "SecondUnit": "秒",
+  "Success": "Success",
+  "Warning": "Warning",
   "Yes": "是"
 }

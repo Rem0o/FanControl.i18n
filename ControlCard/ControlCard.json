@@ -1,4 +1,6 @@
 ﻿{
+  "Auto": "Auto",
+  "Calibrate": "Calibrate",
   "CalibrateAuto": "Calibrate paired control automatically...",
   "Calibrated": "Calibrated",
   "ControlNotRespond": "This control does not respond properly to the current command.",
@@ -22,6 +24,7 @@
   "ForceApplyEnabled": "Force apply is enabled.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Control {0} has no valid calibration and fan curve {1} is in RPM mode.",
+  "Manual": "Manual",
   "ManualControl": "Manual control",
   "ManualFanCalibration": "Manual Fan Calibration",
   "ManualPairSingleFanDescription": "Pair control to a speed sensor",

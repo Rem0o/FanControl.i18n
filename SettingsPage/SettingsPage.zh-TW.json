@@ -1,0 +1,23 @@
+{
+  "CultureText": "語言",
+  "Delay": "延遲",
+  "EditSources": "編輯來源...",
+  "General": "一般",
+  "InstallPlugin": "安裝插件...",
+  "LoadedPlugins": "已載入的插件",
+  "Nicknames": "暱稱",
+  "NoPlugins": "未載入插件",
+  "NoPluginSensorsHelpText": "未偵測到來自插件提供的感測器。請確保已在感測器來源視窗中啟用此插件，並執行重新整理。",
+  "NotifyForUpdate": "啟動時通知軟體更新",
+  "OriginalName": "原始名稱：{0}",
+  "Plugins": "插件",
+  "PluginSensors": "插件提供的感測器",
+  "SecondUnit": "秒",
+  "SelectSensorNickname": "選擇要設定暱稱的感測器",
+  "SensorNickname": "感測器暱稱 (可編輯)",
+  "Sensors": "感測器",
+  "StartMinimized": "啟動時最小化",
+  "StartUserLogon": "使用者登入時啟動",
+  "Symbol": "符號",
+  "TaskSchedulerAdminRequired": "無法在工作排程器中設定此程式隨 Windows 啟動。需要系統管理員權限。"
+}

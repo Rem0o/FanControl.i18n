@@ -8,8 +8,10 @@
   "Delete": "Sil",
   "Discard": "At",
   "Edit": "Düzenle",
+  "Error": "Error",
   "Exit": "Çıkış",
   "Hide": "Gizle",
+  "Info": "Info",
   "Load": "Yükle",
   "No": "Hayır",
   "Ok": "Tamam",
@@ -19,5 +21,7 @@
   "Reset": "Sıfırla",
   "Save": "Kaydet",
   "SecondUnit": "sn",
+  "Success": "Success",
+  "Warning": "Warning",
   "Yes": "Evet"
 }

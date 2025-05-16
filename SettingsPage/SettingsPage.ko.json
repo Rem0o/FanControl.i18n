@@ -1,9 +1,9 @@
 ﻿{
   "CultureText": "언어",
   "Delay": "지연",
-  "EditSources": "소스 편집",
+  "EditSources": "소스 편집...",
   "General": "일반",
-  "InstallPlugin": "플러그인 설치",
+  "InstallPlugin": "플러그인 설치...",
   "LoadedPlugins": "설치된 플러그인",
   "Nicknames": "별칭",
   "NoPlugins": "설치된 플러그인 없음",
@@ -19,5 +19,5 @@
   "StartMinimized": "최소화된 상태로 시작",
   "StartUserLogon": "윈도우 시작 시 자동 실행",
   "Symbol": "식별자",
-  "TaskSchedulerAdminRequired": "작업 스케줄러에서 프로그램을 Windows 시작 시 실행하도록 설정할 수 없습니다. 관리자 권한이 필요합니다."
+  "TaskSchedulerAdminRequired": "작업 스케줄러에서 프로그램을 Windows 시작 시 실행하도록 설정하려면 관리자 권한이 필요합니다."
 }

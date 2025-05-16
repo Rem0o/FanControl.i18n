@@ -26,6 +26,8 @@
   "SensorSettingsText": "Ρυθμίσεις αισθητήρα",
   "Storage": "Αποθηκευτικός χώρος",
   "WantToContinue": "Θα θέλατε να συνεχίσετε;",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "Ορισμένες κάρτες Nvidia έχουν θέσει όρια στον ελέγχου των ανεμιστήρων όπου το λογισμικό τρίτων, όπως το Fan Control, δεν μπορεί να ρυθμίσει την ταχύτητα του ανεμιστήρα κάτω από ένα συγκεκριμένο %, συνήθως 30%.",
   "ZeroRPMOverrideHelpPart2": "Αυτό εμποδίζει τη χρήση της λειτουργίας 0 RPM των επιλεγμένων καρτών.",
   "ZeroRPMOverrideHelpPart3": "Αυτό το κουτί θα \"απενεργοποιήσει\" όλα τα στοιχεία ελέγχου της Nvidia όταν φτάσει στο 0%. Αυτό θα επιτρέψει να γυρίσει στην προεπιλεγμένη καμπύλη \"ενσωματωμένη\" ανεμιστήρα, η οποία μπορεί να υποστηρίζει 0 RPM.",

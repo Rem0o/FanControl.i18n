@@ -26,6 +26,8 @@
   "SensorSettingsText": "Ustawienia czujników",
   "Storage": "Pamięć masowa",
   "WantToContinue": "Czy chcesz kontynuować?",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "Niektóre karty graficzne Nvidia mają ograniczenia sterowania wentylatorem przez oprogramowanie zewnętrzne (takie jak Fan Control), powodujące, że nie można ustawić niższej prędkości niż określony % (najczęściej 30%).",
   "ZeroRPMOverrideHelpPart2": "To uniemożliwia korzystanie z funkcji 0 RPM dla wybranych kart.",
   "ZeroRPMOverrideHelpPart3": "Ta opcja \"wyłączy\" wszystkie kontrolery Nvidia po osiągnięciu 0%. Spowoduje to powrót do domyślnej \"wbudowanej\" krzywej wentylatora, która może obsługiwać 0 RPM.",

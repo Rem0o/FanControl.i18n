@@ -1,4 +1,6 @@
 ﻿{
+  "Auto": "Auto",
+  "Calibrate": "Calibrate",
   "CalibrateAuto": "Calibrar controlo emparelhado automaticamente...",
   "Calibrated": "Calibrado",
   "ControlNotRespond": "Este controlo não responde adequadamente ao comando atual.",
@@ -22,6 +24,7 @@
   "ForceApplyEnabled": "Aplicação forçada está ativada.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "O controlo {0} não tem uma calibração válida e a curva da ventoinha {1} está no modo RPM.",
+  "Manual": "Manual",
   "ManualControl": "Controlo manual",
   "ManualFanCalibration": "Calibração manual da ventoinha",
   "ManualPairSingleFanDescription": "Emparelhar controlo com um sensor de velocidade",

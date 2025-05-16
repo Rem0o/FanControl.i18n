@@ -26,6 +26,8 @@
   "SensorSettingsText": "Configurações de sensor",
   "Storage": "Armazenamento",
   "WantToContinue": "Queres continuar?",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "Algumas placas Nvidia possuem limites de controlo de ventoinha que impedem softwares de terceiros, como o Fan Control, de definirem a velocidade abaixo de um percentual específico, geralmente 30%.",
   "ZeroRPMOverrideHelpPart2": "Isso impede o uso do recurso Zero RPM em algumas placas.",
   "ZeroRPMOverrideHelpPart3": "Esta caixa irá \"desativar\" todos os controles da Nvidia quando atingir a velocidade de 0%. Isso fará com que a curva da ventoinha padrão \"integrada\" suporte o Zero RPM.",

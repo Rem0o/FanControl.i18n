@@ -26,6 +26,8 @@
   "SensorSettingsText": "Налаштування датчиків",
   "Storage": "Накопичувачі",
   "WantToContinue": "Бажаєте продовжити?",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "Деякі відеокарти Nvidia мають встановлені ліміти керування вентиляторами, коли стороннє програмне забезпечення, таке як Fan Control, не може встановити швидкість вентилятора нижче певного %, найчастіше 30%.",
   "ZeroRPMOverrideHelpPart2": "Це не дозволяє встановлювати швидкість у 0 обертів на хвилину на вибраних картах.",
   "ZeroRPMOverrideHelpPart3": "Цей чекбокс \"вимкне\" всі елементи керування Nvidia, коли значення досягне 0%. Це дозволить повернутися до \"вбудованої\" кривої вентиляторів за замовчуванням, яка може підтримувати 0 об/хв.",

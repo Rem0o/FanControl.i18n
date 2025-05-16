@@ -26,9 +26,11 @@
   "SensorSettingsText": "Paramètres du capteur",
   "Storage": "Stockage",
   "WantToContinue": "Souhaitez-vous continuer ?",
+  "Warning": "Attention",
+  "WinRing0Warning": "LibreHardwareMonitor utilise le driver kernel WinRing0 qui est potentiellement vulnérable, utilisez-le à vos propres risques.",
   "ZeroRPMOverrideHelpPart1": "Certaines cartes Nvidia ont des limites de contrôle de ventilateur où les logiciels tiers comme Fan Control ne peuvent pas régler la vitesse du ventilateur en dessous d'un certain %, le plus souvent 30%.",
   "ZeroRPMOverrideHelpPart2": "Cela empêche d'utiliser la fonction 0 RPM des cartes sélectionnées.",
-  "ZeroRPMOverrideHelpPart3": "Cette case à cocher \"désactivera\" tous les contrôles Nvidia lorsqu'elle atteint 0%. Cela permettra de revenir à sa courbe de ventilateur \"intégrée\" par défaut, qui peut prendre en charge 0 RPM.",
+  "ZeroRPMOverrideHelpPart3": "Cette case à cocher \"désactivera\" tous les contrôles Nvidia lorsqu'ils atteindront 0%. Cela permettra de revenir à sa courbe de ventilateur \"intégrée\" par défaut, qui peut prendre en charge 0 RPM.",
   "ZeroRPMOverrideHelpPart4": "Soyez conscient que vous devez configurer avec la température à laquelle votre carte atteindra 0 RPM en usine.",
   "ZeroRPMOverrideHelpPart5": "Vous ne pourrez pas atteindre 0 RPM au-dessus de cette température.",
   "ZeroRPMOverrideHelpPart6": "Pour utiliser correctement cette fonctionnalité, réglez les contrôles Nvidia à 30% pour le % de démarrage et d'arrêt, de sorte que tout % réglé en dessous de ce seuil passera à 0%."

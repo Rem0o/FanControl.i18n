@@ -26,6 +26,8 @@
   "SensorSettingsText": "Nastavení senzoru",
   "Storage": "Úložiště",
   "WantToContinue": "Přejete si pokračovat?",
+  "Warning": "Warning",
+  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
   "ZeroRPMOverrideHelpPart1": "Některé karty Nvidia mají nastavené limity ovládání ventilátoru, kde software třetích stran jako Fan Control nemůže nastavit rychlost ventilátoru pod určité procento, nejčastěji 30 %.",
   "ZeroRPMOverrideHelpPart2": "To brání použití funkce 0 RPM u vybraných karet.",
   "ZeroRPMOverrideHelpPart3": "Tato volba \"zakáže\" všechna ovládání Nvidia při dosažení 0 %. Tím se karta vrátí k výchozí \"přednastavené\" křivce ventilátoru, která může podporovat 0 RPM.",

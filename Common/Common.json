@@ -8,8 +8,10 @@
   "Delete": "Delete",
   "Discard": "Discard",
   "Edit": "Edit",
+  "Error": "Error",
   "Exit": "Exit",
   "Hide": "Hide",
+  "Info": "Info",
   "Load": "Load",
   "No": "No",
   "Ok": "Ok",
@@ -19,5 +21,7 @@
   "Reset": "Reset",
   "Save": "Save",
   "SecondUnit": "sec",
+  "Success": "Success",
+  "Warning": "Warning",
   "Yes": "Yes"
 }

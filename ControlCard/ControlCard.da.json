@@ -1,4 +1,6 @@
 ﻿{
+  "Auto": "Auto",
+  "Calibrate": "Calibrate",
   "CalibrateAuto": "Kalibrer parret kontrol automatisk...",
   "Calibrated": "Kalibreret",
   "ControlNotRespond": "Denne kontrol reagerer ikke korrekt på den aktuelle kommando.",
@@ -22,6 +24,7 @@
   "ForceApplyEnabled": "Tving anvendelse er aktiveret.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Kontrol {0} har ingen gyldig kalibrering, og blæserkurve {1} er i RPM-tilstand.",
+  "Manual": "Manual",
   "ManualControl": "Manuel kontrol",
   "ManualFanCalibration": "Manuel blæserkalibrering",
   "ManualPairSingleFanDescription": "Par kontrol med en hastighedssensor",

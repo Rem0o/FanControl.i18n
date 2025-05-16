@@ -1,0 +1,9 @@
+﻿{
+  "CurrentVersionUpToDate": "現在のバージョン({0})は最新です",
+  "DisableUpdatePopupStartup": "起動時のポップアップ表示を無効化",
+  "DownloadingUpdater": "更新をダウンロード中...",
+  "NewVersion": "新しいバージョンが利用可能です: {0} (現在: {1})",
+  "UpdateAvailable": "更新が利用可能です",
+  "UpdateText": "更新",
+  "VersionInfoError": "サーバーからバージョン情報を取得できません"
+}
