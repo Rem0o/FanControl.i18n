@@ -1,4 +1,4 @@
-﻿{
+{
   "Add": "Дадаць",
   "Cancel": "Адмяніць",
   "Clear": "Ачысціць",
@@ -8,10 +8,10 @@
   "Delete": "Выдаліць",
   "Discard": "Скасаваць",
   "Edit": "Рэдагаваць",
-  "Error": "Error",
+  "Error": "Памылка",
   "Exit": "Выхад",
   "Hide": "Схаваць",
-  "Info": "Info",
+  "Info": "Інфа",
   "Load": "Загрузіць",
   "No": "Не",
   "Ok": "Ок",
@@ -21,7 +21,7 @@
   "Reset": "Скінуць",
   "Save": "Захаваць",
   "SecondUnit": "сек",
-  "Success": "Success",
-  "Warning": "Warning",
+  "Success": "Поспех",
+  "Warning": "Папярэджанне",
   "Yes": "Так"
 }
