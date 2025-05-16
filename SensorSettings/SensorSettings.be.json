@@ -1,4 +1,4 @@
-﻿{
+{
   "ADLX": "ADLXWrapper (AMD RDNA GPU)",
   "ApplicationWillRefresh": "Праграма будзе абноўлена.",
   "BeforeRefreshingConfigurationChanged": "Перад абнаўленнем канфігурацыя была зменена. Вы жадаеце захаваць змены?",
@@ -26,8 +26,8 @@
   "SensorSettingsText": "Налады датчыкаў",
   "Storage": "Назапашвальнік",
   "WantToContinue": "Жадаеце працягнуць?",
-  "Warning": "Warning",
-  "WinRing0Warning": "LibreHardwareMonitor uses the WinRing0 kernel driver which has known vulnerabilities, use at your own risks.",
+  "Warning": "Папярэджанне",
+  "WinRing0Warning": "LibreHardwareMonitor выкарыстоўвае драйвер ядра WinRing0, які мае вядомыя ўразлівасці, выкарыстоўвайце на свой страх і рызыку.",
   "ZeroRPMOverrideHelpPart1": "Некаторыя карты Nvidia маюць абмежаванні на кіраванне вентылятарамі, пры якіх староннія праграмы, такія як Fan Control, не могуць усталяваць хуткасць вентылятара ніжэй за пэўны працэнт, звычайна 30%.",
   "ZeroRPMOverrideHelpPart2": "Гэта перашкаджае выкарыстанню функцыі 0 RPM на выбраных картах.",
   "ZeroRPMOverrideHelpPart3": "Гэты сцяжок \"адключыць\" усе элементы кіравання Nvidia, калі будзе дасягнута 0%. Гэта дазволіць вярнуць убудаваную крывую вентылятара, якая можа падтрымліваць 0 RPM.",
