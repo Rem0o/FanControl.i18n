@@ -1,10 +1,11 @@
-{
+﻿{
   "AddFanCurve": "新增風扇曲線",
   "AddSensor": "新增感測器",
   "AdvancedHysteresis": "進階遲滯",
   "Average": "平均",
   "Deadband": "死區",
   "DeadbandDescription": "低於負載溫度的範圍時，曲線不會變化，除非溫度正在上升。",
+  "Down": "下",
   "FanSpeed": "風扇轉速",
   "FileName": "檔案名稱",
   "Function": "函式",
@@ -39,9 +40,12 @@
   "StepDescription": "指定反應時間後數值變化的速率。下降時，步階為一半。",
   "Subtract": "減去",
   "Sum": "總和",
+  "Symmetric": "對稱",
   "Temp": "溫度",
   "TemperatureSource": "溫度來源",
   "Time": "時間",
   "TimeDescription": "所選溫度來源的平均週期。",
-  "TwiceOnTheWayDown": "下降時，時間為兩倍。"
+  "TwiceOnTheWayDown": "下降時，時間為兩倍。",
+  "Up": "上",
+  "UpDown": "上/下"
 }

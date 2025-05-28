@@ -5,6 +5,7 @@
   "Average": "平均",
   "Deadband": "死区",
   "DeadbandDescription": "负载温度之下的曲线不产生改变的范围，直至温度上升。",
+  "Down": "下",
   "FanSpeed": "风扇速度",
   "FileName": "文件名",
   "Function": "函数",
@@ -39,9 +40,12 @@
   "StepDescription": "指定响应时间后值变化的速度。下降时为步长的一半。",
   "Subtract": "减去",
   "Sum": "总和",
+  "Symmetric": "对称",
   "Temp": "温度",
   "TemperatureSource": "温度源",
   "Time": "时间",
   "TimeDescription": "选定温度源的平均周期。",
-  "TwiceOnTheWayDown": "下降时时间翻倍。"
+  "TwiceOnTheWayDown": "下降时时间翻倍。",
+  "Up": "上",
+  "UpDown": "上/下"
 }

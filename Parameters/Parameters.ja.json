@@ -5,6 +5,7 @@
   "Average": "平均",
   "Deadband": "デッドバンド",
   "DeadbandDescription": "負荷温度以下の範囲では、温度が上昇傾向にない限り、曲線が変化しません",
+  "Down": "下",
   "FanSpeed": "ファン速度",
   "FileName": "ファイル名",
   "Function": "関数",
@@ -39,9 +40,12 @@
   "StepDescription": "指定した応答時間後に値が変化する割合下降時のステップは半分",
   "Subtract": "減算",
   "Sum": "加算",
+  "Symmetric": "対称",
   "Temp": "温度",
   "TemperatureSource": "温度の取得元",
   "Time": "時間",
   "TimeDescription": "選択した温度取得元の平均化期間",
-  "TwiceOnTheWayDown": "下降時は時間が2倍になる"
+  "TwiceOnTheWayDown": "下降時は時間が2倍になる",
+  "Up": "上",
+  "UpDown": "上/下"
 }

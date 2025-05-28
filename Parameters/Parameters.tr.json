@@ -5,6 +5,7 @@
   "Average": "Ortalama",
   "Deadband": "Ölü bant",
   "DeadbandDescription": "Yük sıcaklığının altında, eğrinin değişmeyeceği aralık, sıcaklık yükselişte değilse.",
+  "Down": "Aşağı",
   "FanSpeed": "Fan hızı",
   "FileName": "Dosya adı",
   "Function": "Fonksiyon",
@@ -39,9 +40,12 @@
   "StepDescription": "Verilen yanıt süresinden sonra değerin değişim oranı. Adım aşağı doğru yarıya iniyor.",
   "Subtract": "Çıkar",
   "Sum": "Topla",
+  "Symmetric": "Simetrik",
   "Temp": "Sıcaklık",
   "TemperatureSource": "Sıcaklık kaynağı",
   "Time": "Zaman",
   "TimeDescription": "Seçilen sıcaklık kaynağının ortalama süresi.",
-  "TwiceOnTheWayDown": "Zaman aşağı doğru iki katına çıkıyor."
+  "TwiceOnTheWayDown": "Zaman aşağı doğru iki katına çıkıyor.",
+  "Up": "Yukarı",
+  "UpDown": "Yukarı/Aşağı"
 }

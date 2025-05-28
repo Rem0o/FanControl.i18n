@@ -5,6 +5,7 @@
   "Average": "Gemiddeld",
   "Deadband": "Dode band",
   "DeadbandDescription": "Bereik onder de belastingtemperatuur waarbij de curve niet verandert, tenzij de temperatuur een stijgende trend vertoont.",
+  "Down": "Omlaag",
   "FanSpeed": "Ventilatorsnelheid",
   "FileName": "Bestandsnaam",
   "Function": "Functie",
@@ -39,9 +40,12 @@
   "StepDescription": "Snelheid waarmee de waarde verandert na de gegeven responstijd. Stap is half op weg naar beneden.",
   "Subtract": "Aftrekken",
   "Sum": "Som",
+  "Symmetric": "Symmetrisch",
   "Temp": "Temp",
   "TemperatureSource": "Temperatuurbron",
   "Time": "Tijd",
   "TimeDescription": "Gemiddelde periode van de geselecteerde temperatuurbron.",
-  "TwiceOnTheWayDown": "De tijd is twee keer onderweg naar beneden."
+  "TwiceOnTheWayDown": "De tijd is twee keer onderweg naar beneden.",
+  "Up": "Omhoog",
+  "UpDown": "Omhoog/Omlaag"
 }

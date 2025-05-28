@@ -5,6 +5,7 @@
   "Average": "Média",
   "Deadband": "Zona neutra",
   "DeadbandDescription": "Intervalo abaixo da \"Temperatura de atividade\" onde a curva não mudará, a menos que a temperatura esteja a subir.",
+  "Down": "Baixo",
   "FanSpeed": "Velocidade da ventoinha",
   "FileName": "Nome do ficheiro",
   "Function": "Função",
@@ -39,9 +40,12 @@
   "StepDescription": "Taxa em que o valor mudará após o tempo de resposta dado. O passo é a metade na descida.",
   "Subtract": "Subtrair",
   "Sum": "Somar",
+  "Symmetric": "Simétrico",
   "Temp": "Temp",
   "TemperatureSource": "Fonte de temperatura",
   "Time": "Tempo",
   "TimeDescription": "Período de média da fonte de temperatura selecionada.",
-  "TwiceOnTheWayDown": "O tempo é o dobro na descida."
+  "TwiceOnTheWayDown": "O tempo é o dobro na descida.",
+  "Up": "Cima",
+  "UpDown": "Cima/Baixo"
 }

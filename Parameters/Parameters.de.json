@@ -5,6 +5,7 @@
   "Average": "Durchschnitt",
   "Deadband": "Totzone",
   "DeadbandDescription": "Bereich unterhalb der Lasttemperatur, in dem sich die Kurve nur ändert, wenn die Temperatur ansteigt.",
+  "Down": "Runter",
   "FanSpeed": "Lüfterdrehzahl",
   "FileName": "Dateiname",
   "Function": "Funktion",
@@ -39,9 +40,12 @@
   "StepDescription": "Rate, mit der sich der Wert nach der angegebenen Antwortzeit ändern wird. Beim Abstieg wird der Parameter halbiert.",
   "Subtract": "Subtrahieren",
   "Sum": "Summe",
+  "Symmetric": "Symmetrisch",
   "Temp": "Temp.",
   "TemperatureSource": "Temperaturquelle",
   "Time": "Zeit",
   "TimeDescription": "Mittelwertsperiode der ausgewählten Temperaturquelle.",
-  "TwiceOnTheWayDown": "Beim Abstieg wird die Zeit verdoppelt."
+  "TwiceOnTheWayDown": "Beim Abstieg wird die Zeit verdoppelt.",
+  "Up": "Hoch",
+  "UpDown": "Hoch/Runter"
 }

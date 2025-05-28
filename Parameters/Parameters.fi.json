@@ -5,6 +5,7 @@
   "Average": "Keskiarvo",
   "Deadband": "Kuollut alue",
   "DeadbandDescription": "Kuormituslämpötilan sisällä oleva alue, jolla käyrä ei muutu ellei lämpötila ole kohoamassa.",
+  "Down": "Alas",
   "FanSpeed": "Tuulettimen nopeus",
   "FileName": "Tiedostonimi",
   "Function": "Toiminto",
@@ -39,9 +40,12 @@
   "StepDescription": "Arvon muutosnopeus määritetyn vasteajan kuluttua. Askel puolittuu alentuessa.",
   "Subtract": "Vähennä",
   "Sum": "Summa",
+  "Symmetric": "Symmetrinen",
   "Temp": "Lämpö",
   "TemperatureSource": "Lämpötilalähde",
   "Time": "Aika",
   "TimeDescription": "Valitun lämpötilalähteen keskiarvojakso.",
-  "TwiceOnTheWayDown": "Aika tuplaantuu alentuessa."
+  "TwiceOnTheWayDown": "Aika tuplaantuu alentuessa.",
+  "Up": "Ylös",
+  "UpDown": "Ylös/Alas"
 }

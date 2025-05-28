@@ -5,6 +5,7 @@
   "Average": "평균",
   "Deadband": "데드밴드",
   "DeadbandDescription": "곡선이 변경되지 않는 부하 온도 아래의 범위이며, 온도가 상승 추세를 보이지 않는 한 유지됩니다.",
+  "Down": "아래",
   "FanSpeed": "팬 속도",
   "FileName": "파일 이름",
   "Function": "함수",
@@ -39,9 +40,12 @@
   "StepDescription": "주어진 응답 시간 이후 값이 변경되는 비율입니다. 온도가 내려갈 때는 변화율이 절반으로 적용됩니다.",
   "Subtract": "빼기",
   "Sum": "합",
+  "Symmetric": "대칭",
   "Temp": "온도",
   "TemperatureSource": "온도 출처",
   "Time": "시간",
   "TimeDescription": "선택된 온도 출처의 평균화 기간.",
-  "TwiceOnTheWayDown": "하강 시 시간이 두 배로 적용됩니다."
+  "TwiceOnTheWayDown": "하강 시 시간이 두 배로 적용됩니다.",
+  "Up": "위",
+  "UpDown": "위/아래"
 }

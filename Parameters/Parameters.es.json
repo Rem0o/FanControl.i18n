@@ -5,6 +5,7 @@
   "Average": "Media",
   "Deadband": "Zona muerta",
   "DeadbandDescription": "Rango por debajo de la temperatura de carga en el que la curva no cambiará, a menos que la temperatura tienda al alza.",
+  "Down": "Abajo",
   "FanSpeed": "Velocidad del ventilador",
   "FileName": "Nombre del archivo",
   "Function": "Función",
@@ -39,9 +40,12 @@
   "StepDescription": "Velocidad a la que cambiará el valor pasado el tiempo de respuesta. Es la mitad al bajar.",
   "Subtract": "Restar",
   "Sum": "Sumar",
+  "Symmetric": "Simétrico",
   "Temp": "Temp.",
   "TemperatureSource": "Origen de la temperatura",
   "Time": "Tiempo",
   "TimeDescription": " Periodo de media del origen de temperatura.",
-  "TwiceOnTheWayDown": "El tiempo se duplica al bajar."
+  "TwiceOnTheWayDown": "El tiempo se duplica al bajar.",
+  "Up": "Arriba",
+  "UpDown": "Arriba/Abajo"
 }

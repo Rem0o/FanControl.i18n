@@ -5,6 +5,7 @@
   "Average": "Átlagos",
   "Deadband": "Holtsáv",
   "DeadbandDescription": "A terhelési hőmérséklet alatti tartomány, ahol a görbe nem változik, kivéve, ha a hőmérséklet emelkedik.",
+  "Down": "Le",
   "FanSpeed": "Ventilátor sebessége",
   "FileName": "Fájlnév",
   "Function": "Funkció",
@@ -39,9 +40,12 @@
   "StepDescription": "Az érték változásának sebessége a megadott válaszidő után. Lefelé a lépések fele akkorák.",
   "Subtract": "Kivonás",
   "Sum": "Összeg",
+  "Symmetric": "Szimmetrikus",
   "Temp": "Hőmérséklet",
   "TemperatureSource": "Hőmérséklet forrás",
   "Time": "Idő",
   "TimeDescription": "A kiválasztott hőmérsékletforrás átlagolási periódusa.",
-  "TwiceOnTheWayDown": "Az idő lefelé haladva dupla."
+  "TwiceOnTheWayDown": "Az idő lefelé haladva dupla.",
+  "Up": "Fel",
+  "UpDown": "Fel/Le"
 }

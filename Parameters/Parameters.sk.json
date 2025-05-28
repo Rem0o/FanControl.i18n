@@ -5,6 +5,7 @@
   "Average": "Priemer",
   "Deadband": "Pásmo nečinnosti",
   "DeadbandDescription": "Rozsah pod teplotou zaťaženia, kde sa krivka nemení, ak teplota nestúpa.",
+  "Down": "Dole",
   "FanSpeed": "Rýchlosť ventilátora",
   "FileName": "Názov súboru",
   "Function": "Funkcia",
@@ -39,9 +40,12 @@
   "StepDescription": "Rýchlosť, akou sa hodnota mení po zadanom čase odozvy. Krok je pri poklese polovičný.",
   "Subtract": "Odčítanie",
   "Sum": "Súčet",
+  "Symmetric": "Symetrický",
   "Temp": "Teplota",
   "TemperatureSource": "Zdroj teploty",
   "Time": "Čas",
   "TimeDescription": "Doba průměrování vybraného zdroje teploty.",
-  "TwiceOnTheWayDown": "Čas je pri poklese dvojnásobný."
+  "TwiceOnTheWayDown": "Čas je pri poklese dvojnásobný.",
+  "Up": "Hore",
+  "UpDown": "Hore/Dole"
 }

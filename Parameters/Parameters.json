@@ -5,6 +5,7 @@
   "Average": "Average",
   "Deadband": "Deadband",
   "DeadbandDescription": "Range under the load temperature where the curve won't change, unless the temperature is trending up.",
+  "Down": "Down",
   "FanSpeed": "Fan speed",
   "FileName": "File name",
   "Function": "Function",
@@ -39,9 +40,12 @@
   "StepDescription": "Rate at which the value will change after the given response time. Step is half on the way down.",
   "Subtract": "Subtract",
   "Sum": "Sum",
+  "Symmetric": "Symmetric",
   "Temp": "Temp",
   "TemperatureSource": "Temperature source",
   "Time": "Time",
   "TimeDescription": "Averaging period of the selected temperature source.",
-  "TwiceOnTheWayDown": "Time is twice on the way down."
+  "TwiceOnTheWayDown": "Time is twice on the way down.",
+  "Up": "Up",
+  "UpDown": "Up/Down"
 }

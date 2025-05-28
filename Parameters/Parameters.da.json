@@ -5,6 +5,7 @@
   "Average": "Gennemsnit",
   "Deadband": "Dødbånd",
   "DeadbandDescription": "Interval under belastningstemperaturen, hvor kurven ikke ændres, medmindre temperaturen stiger.",
+  "Down": "Ned",
   "FanSpeed": "Blæserhastighed",
   "FileName": "Filnavn",
   "Function": "Funktion",
@@ -39,9 +40,12 @@
   "StepDescription": "Hastigheden hvormed værdien ændres efter den angivne responstid. Trinnet er halvt ved faldende temperatur.",
   "Subtract": "Træk fra",
   "Sum": "Sum",
+  "Symmetric": "Symmetrisk",
   "Temp": "Temp.",
   "TemperatureSource": "Temperaturkilde",
   "Time": "Tid",
   "TimeDescription": "Gennemsnitligt interval for den valgte temperaturkilde.",
-  "TwiceOnTheWayDown": "Tiden er fordoblet ved faldende temperatur."
+  "TwiceOnTheWayDown": "Tiden er fordoblet ved faldende temperatur.",
+  "Up": "Op",
+  "UpDown": "Op/Ned"
 }

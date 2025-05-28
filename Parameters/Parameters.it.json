@@ -5,6 +5,7 @@
   "Average": "Media",
   "Deadband": "Zona morta",
   "DeadbandDescription": "Intervallo sotto la temperatura di carico in cui la curva non cambierà, a meno che la temperatura non stia aumentando.",
+  "Down": "Giù",
   "FanSpeed": "Velocità della ventola",
   "FileName": "Nome del file",
   "Function": "Funzione",
@@ -39,9 +40,12 @@
   "StepDescription": "Velocità con cui il valore cambierà dopo il tempo di risposta dato. Il passo è dimezzato in discesa.",
   "Subtract": "Sottrai",
   "Sum": "Somma",
+  "Symmetric": "Simmetrico",
   "Temp": "Temp.",
   "TemperatureSource": "Fonte di temperatura",
   "Time": "Tempo",
   "TimeDescription": "Periodo di media della fonte di temperatura selezionata.",
-  "TwiceOnTheWayDown": "Il tempo è dimezzato."
+  "TwiceOnTheWayDown": "Il tempo è dimezzato.",
+  "Up": "Su",
+  "UpDown": "Su/Giù"
 }

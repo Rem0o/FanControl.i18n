@@ -5,6 +5,7 @@
   "Average": "Moyenne",
   "Deadband": "Zone morte",
   "DeadbandDescription": "Plage sous la température de charge où la courbe ne changera pas, sauf si la température augmente.",
+  "Down": "Bas",
   "FanSpeed": "Vitesse du ventilateur",
   "FileName": "Nom du fichier",
   "Function": "Fonction",
@@ -36,12 +37,15 @@
   "SelectedControl": "Contrôle sélectionné",
   "SelectedControlDescription": "Le contrôle à synchroniser",
   "Step": "Étape",
-  "StepDescription": "Taux auquel la valeur changera après le temps de réponse donné. Ce paramètre est divisée par deux à la baisse.",
+  "StepDescription": "Taux auquel la valeur changera après le temps de réponse donné. Ce paramètre est divisé par deux à la baisse.",
   "Subtract": "Soustraire",
   "Sum": "Somme",
+  "Symmetric": "Symétrique",
   "Temp": "Temp",
   "TemperatureSource": "Source de température",
   "Time": "Temps",
   "TimeDescription": "Période de moyenne de la source de température sélectionnée.",
-  "TwiceOnTheWayDown": "Le temps est doublé à la baisse."
+  "TwiceOnTheWayDown": "Le temps est doublé à la baisse.",
+  "Up": "Haut",
+  "UpDown": "Haut/Bas"
 }

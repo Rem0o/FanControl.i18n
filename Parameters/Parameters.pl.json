@@ -5,6 +5,7 @@
   "Average": "Średnia",
   "Deadband": "Martwa strefa",
   "DeadbandDescription": "Zakres poniżej temperatury obciążenia, w którym krzywa nie ulegnie zmianie, chyba że temperatura będzie rosła.",
+  "Down": "Dół",
   "FanSpeed": "Prędkość wentylatora",
   "FileName": "Nazwa pliku",
   "Function": "Funkcja",
@@ -39,9 +40,12 @@
   "StepDescription": "Szybkość, z jaką wartość będzie się zmieniać po danym czasie reakcji. Krok w dół jest o połowę mniejszy.",
   "Subtract": "Odejmij",
   "Sum": "Suma",
+  "Symmetric": "Symetryczny",
   "Temp": "Temperatura",
   "TemperatureSource": "Źródło temperatury",
   "Time": "Czas",
   "TimeDescription": "Okres uśredniania wybranego źródła temperatury.",
-  "TwiceOnTheWayDown": "Czas jest dwukrotnie dłuższy przy spadku temperatury."
+  "TwiceOnTheWayDown": "Czas jest dwukrotnie dłuższy przy spadku temperatury.",
+  "Up": "Góra",
+  "UpDown": "Góra/Dół"
 }
