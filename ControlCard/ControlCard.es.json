@@ -1,6 +1,7 @@
 ﻿{
   "Auto": "Automático",
   "Calibrate": "Calibrar",
+  "CalibrateAuto": "Calibrar control emparejado automáticamente...",
   "Calibrated": "Calibrado",
   "ControlNotRespond": "Este controlador no responde correctamente al comando actual.",
   "Curve": "Curva",
