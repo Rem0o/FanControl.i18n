@@ -1,6 +1,6 @@
 ﻿{
-  "Auto": "Auto",
-  "Calibrate": "Calibrate",
+  "Auto": "Otomatik",
+  "Calibrate": "Kalibre Et",
   "CalibrateAuto": "Eşleştirilmiş kontrolü otomatik olarak kalibre et...",
   "Calibrated": "Kalibre edildi",
   "ControlNotRespond": "Bu kontrol, geçerli komuta doğru şekilde yanıt vermiyor.",
@@ -24,7 +24,7 @@
   "ForceApplyEnabled": "Zorla uygulama etkinleştirildi.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Kontrol {0}'ın geçerli bir kalibrasyonu yok ve {1} fan eğrisi RPM modundadır.",
-  "Manual": "Manual",
+  "Manual": "Manuel",
   "ManualControl": "Manuel kontrol",
   "ManualFanCalibration": "Manuel Fan Kalibrasyonu",
   "ManualPairSingleFanDescription": "Kontrolü hız sensörüne eşleştir",

@@ -1,6 +1,6 @@
 ﻿{
-  "Auto": "Auto",
-  "Calibrate": "Calibrate",
+  "Auto": "Automático",
+  "Calibrate": "Calibrar",
   "CalibrateAuto": "Calibrar controle emparelhado automaticamente...",
   "Calibrated": "Calibrado",
   "ControlNotRespond": "Este controle não responde adequadamente ao comando atual.",
@@ -22,7 +22,7 @@
   "EnableDisableSoftwareControl": "Ativar controle por software",
   "ForceApply": "Forçar aplicação",
   "ForceApplyEnabled": "Aplicação forçada está ativada.",
-  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
+  "ForceApplyToolTip": "Reaplica o valor de controle desejado sempre que uma discrepância for detectada.",
   "InvalidCalibrationError": "O controle {0} não tem uma calibração válida e a curva da ventoinha {1} está no modo RPM.",
   "Manual": "Manual",
   "ManualControl": "Controle manual",

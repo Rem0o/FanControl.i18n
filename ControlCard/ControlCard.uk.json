@@ -1,6 +1,6 @@
 ﻿{
-  "Auto": "Auto",
-  "Calibrate": "Calibrate",
+  "Auto": "Авто",
+  "Calibrate": "Калібрувати",
   "CalibrateAuto": "Автоматичне калібрування приєднаного елемента керування...",
   "Calibrated": "Відкалібровано",
   "ControlNotRespond": "Цей елемент керування не реагує на поточну команду.",
@@ -24,7 +24,7 @@
   "ForceApplyEnabled": "Примусове застосування увімкнено.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Елемент керування {0} не має коректного калібрування, натомість крива вентилятора {1} перебуває в режимі обертів на хвилину.",
-  "Manual": "Manual",
+  "Manual": "Ручний",
   "ManualControl": "Ручне керування",
   "ManualFanCalibration": "Ручне калібрування вентилятора",
   "ManualPairSingleFanDescription": "Приєднати елемент керування до датчика обертів",

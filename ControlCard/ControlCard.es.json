@@ -1,7 +1,6 @@
 ﻿{
-  "Auto": "Auto",
-  "Calibrate": "Calibrate",
-  "CalibrateAuto": "Calibrar los controles emparejados automáticamente...",
+  "Auto": "Automático",
+  "Calibrate": "Calibrar",
   "Calibrated": "Calibrado",
   "ControlNotRespond": "Este controlador no responde correctamente al comando actual.",
   "Curve": "Curva",
@@ -22,7 +21,7 @@
   "EnableDisableSoftwareControl": "Habilitar controlador de software",
   "ForceApply": "Forzar aplicación",
   "ForceApplyEnabled": "Aplicación forzosa está activada.",
-  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
+  "ForceApplyToolTip": "Vuelve a aplicar el valor de control deseado cada vez que se detecte una discrepancia.",
   "InvalidCalibrationError": "El controlador {0} no tiene una calibración válida y la curva del ventilador {1} está en modo RPM.",
   "Manual": "Manual",
   "ManualControl": "Control manual",

@@ -1,6 +1,6 @@
 ﻿{
-  "Auto": "Auto",
-  "Calibrate": "Calibrate",
+  "Auto": "Automatikus",
+  "Calibrate": "Kalibrálás",
   "CalibrateAuto": "A párosított vezérlő automatikus kalibrálása...",
   "Calibrated": "Kalibrálva",
   "ControlNotRespond": "Ez a vezérlő nem reagál megfelelően az aktuális parancsra.",
@@ -24,7 +24,7 @@
   "ForceApplyEnabled": "A kényszeralkalmazás engedélyezve van.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "A {0} vezérlőnek nincs érvényes kalibrációja, és a ventilátor-görbe {1} fordulatszám üzemmódban van.",
-  "Manual": "Manual",
+  "Manual": "Kézi",
   "ManualControl": "Kézi vezérlés",
   "ManualFanCalibration": "Manuális ventilátor kalibrálás",
   "ManualPairSingleFanDescription": "Párosítsa a vezérlőt egy sebesség-érzékelőhöz!",

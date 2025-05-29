@@ -1,6 +1,6 @@
 ﻿{
-  "Auto": "Auto",
-  "Calibrate": "Calibrate",
+  "Auto": "Automaattinen",
+  "Calibrate": "Kalibroi",
   "CalibrateAuto": "Kalibroi paritettu ohjain automaattisesti...",
   "Calibrated": "Kalibroitu",
   "ControlNotRespond": "Ohjain ei vastaa nykyiseen komentoon oikein.",
@@ -24,7 +24,7 @@
   "ForceApplyEnabled": "Arvojen pakkoasetus on käytössä.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Ohjaimella \"{0}\" ei ole kelvollista kalibrointia ja tuuletinkäyrä \"{1}\" on RPM-tilassa.",
-  "Manual": "Manual",
+  "Manual": "Manuaalinen",
   "ManualControl": "Manuaalinen ohjaus",
   "ManualFanCalibration": "Manuaalinen tuuletinkalibrointi",
   "ManualPairSingleFanDescription": "Parita ohjaus nopeusanturiin",

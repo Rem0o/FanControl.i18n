@@ -8,10 +8,10 @@
   "Delete": "Törlés",
   "Discard": "Elvetés",
   "Edit": "Szerkesztés",
-  "Error": "Error",
+  "Error": "Hiba",
   "Exit": "Kilépés",
   "Hide": "Eltüntetés",
-  "Info": "Info",
+  "Info": "Információ",
   "Load": "Betöltés",
   "No": "Nem",
   "Ok": "Oké",
@@ -21,7 +21,7 @@
   "Reset": "Visszaállítás",
   "Save": "Mentés",
   "SecondUnit": "mp",
-  "Success": "Success",
-  "Warning": "Warning",
+  "Success": "Siker",
+  "Warning": "Figyelmeztetés",
   "Yes": "Igen"
 }

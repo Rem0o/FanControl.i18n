@@ -8,10 +8,10 @@
   "Delete": "削除",
   "Discard": "破棄",
   "Edit": "編集",
-  "Error": "Error",
+  "Error": "エラー",
   "Exit": "終了",
   "Hide": "隠す",
-  "Info": "Info",
+  "Info": "情報",
   "Load": "読み込み",
   "No": "いいえ",
   "Ok": "Ok",
@@ -21,7 +21,7 @@
   "Reset": "初期化",
   "Save": "保存",
   "SecondUnit": "秒",
-  "Success": "Success",
-  "Warning": "Warning",
+  "Success": "成功",
+  "Warning": "警告",
   "Yes": "はい"
 }

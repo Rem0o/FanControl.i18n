@@ -8,10 +8,10 @@
   "Delete": "Smazat",
   "Discard": "Zahodit",
   "Edit": "Upravit",
-  "Error": "Error",
+  "Error": "Chyba",
   "Exit": "Ukončit",
   "Hide": "Skrýt",
-  "Info": "Info",
+  "Info": "Informace",
   "Load": "Načíst",
   "No": "Ne",
   "Ok": "Ok",
@@ -21,7 +21,7 @@
   "Reset": "Resetovat",
   "Save": "Uložit",
   "SecondUnit": "sek",
-  "Success": "Success",
-  "Warning": "Warning",
+  "Success": "Úspěch",
+  "Warning": "Varování",
   "Yes": "Ano"
 }

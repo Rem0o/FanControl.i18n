@@ -1,6 +1,6 @@
 ﻿{
-  "Auto": "Auto",
-  "Calibrate": "Calibrate",
+  "Auto": "自動",
+  "Calibrate": "較正",
   "CalibrateAuto": "対となる制御の自動較正...",
   "Calibrated": "較正済み",
   "ControlNotRespond": "この制御は現在の指令に正しく応答しません",
@@ -24,7 +24,7 @@
   "ForceApplyEnabled": "強制適用が有効化されています",
   "ForceApplyToolTip": "不一致が検出されるたびに設定値を再適用します",
   "InvalidCalibrationError": "制御 {0} には有効な較正がなく、ファン特性曲線 {1} は RPM モードになっています",
-  "Manual": "Manual",
+  "Manual": "手動",
   "ManualControl": "手動制御",
   "ManualFanCalibration": "手動ファン較正",
   "ManualPairSingleFanDescription": "制御と回転数センサーをペアリング",

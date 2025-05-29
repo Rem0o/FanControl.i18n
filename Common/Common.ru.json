@@ -8,10 +8,10 @@
   "Delete": "Удалить",
   "Discard": "Отказаться",
   "Edit": "Редактировать",
-  "Error": "Error",
+  "Error": "Ошибка",
   "Exit": "Выход",
   "Hide": "Скрыть",
-  "Info": "Info",
+  "Info": "Информация",
   "Load": "Загрузить",
   "No": "Нет",
   "Ok": "OK",
@@ -21,7 +21,7 @@
   "Reset": "Сброс",
   "Save": "Сохранить",
   "SecondUnit": "сек",
-  "Success": "Success",
-  "Warning": "Warning",
+  "Success": "Успех",
+  "Warning": "Предупреждение",
   "Yes": "Да"
 }

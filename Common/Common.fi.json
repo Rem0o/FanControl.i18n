@@ -8,7 +8,7 @@
   "Delete": "Poista",
   "Discard": "Hylkää",
   "Edit": "Muokkaa",
-  "Error": "Error",
+  "Error": "Virhe",
   "Exit": "Sulje",
   "Hide": "Piilota",
   "Info": "Info",
@@ -21,7 +21,7 @@
   "Reset": "Palauta",
   "Save": "Tallenna",
   "SecondUnit": "sekuntia",
-  "Success": "Success",
-  "Warning": "Warning",
+  "Success": "Onnistui",
+  "Warning": "Varoitus",
   "Yes": "Kyllä"
 }

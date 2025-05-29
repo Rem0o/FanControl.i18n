@@ -8,10 +8,10 @@
   "Delete": "Excluir",
   "Discard": "Descartar",
   "Edit": "Editar",
-  "Error": "Error",
+  "Error": "Erro",
   "Exit": "Sair",
   "Hide": "Ocultar",
-  "Info": "Info",
+  "Info": "Informação",
   "Load": "Carregar",
   "No": "Não",
   "Ok": "Ok",
@@ -21,7 +21,7 @@
   "Reset": "Redefinir",
   "Save": "Guardar",
   "SecondUnit": "s",
-  "Success": "Success",
-  "Warning": "Warning",
+  "Success": "Sucesso",
+  "Warning": "Aviso",
   "Yes": "Sim"
 }

@@ -8,7 +8,7 @@
   "Delete": "Slet",
   "Discard": "Kassér",
   "Edit": "Rediger",
-  "Error": "Error",
+  "Error": "Fejl",
   "Exit": "Afslut",
   "Hide": "Skjul",
   "Info": "Info",
@@ -21,7 +21,7 @@
   "Reset": "Nulstil",
   "Save": "Gem",
   "SecondUnit": "sek",
-  "Success": "Success",
-  "Warning": "Warning",
+  "Success": "Succes",
+  "Warning": "Advarsel",
   "Yes": "Ja"
 }

@@ -1,6 +1,6 @@
 ﻿{
-  "Auto": "Auto",
-  "Calibrate": "Calibrate",
+  "Auto": "אוטומטי",
+  "Calibrate": "כיול",
   "CalibrateAuto": "כייל את רכיב הבקרה המשויך באופן אוטומטי...",
   "Calibrated": "מכויל",
   "ControlNotRespond": "רכיב בקרה זה אינו מגיב כראוי לפקודה הנוכחית.",
@@ -24,7 +24,7 @@
   "ForceApplyEnabled": "החל בכוח מופעל.",
   "ForceApplyToolTip": "החל מחדש את ערך הבקרה הרצוי בכל פעם שמתגלה אי התאמה.",
   "InvalidCalibrationError": "לרכיב הבקרה {0} אין כיול תקף ועקומת המאוורר {1} נמצאת במצב סל\"ד.",
-  "Manual": "Manual",
+  "Manual": "ידני",
   "ManualControl": "שליטה ידנית",
   "ManualFanCalibration": "כיול מאוורר ידני",
   "ManualPairSingleFanDescription": "זיווג רכיב בקרה לחיישן מהירות",

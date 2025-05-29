@@ -1,6 +1,6 @@
 ﻿{
-  "Auto": "Auto",
-  "Calibrate": "Calibrate",
+  "Auto": "Automatyczny",
+  "Calibrate": "Kalibruj",
   "CalibrateAuto": "Kalibruj sparowany kontroler automatycznie ...",
   "Calibrated": "Skalibrowany",
   "ControlNotRespond": "Ten kontroler nie reaguje poprawnie na bieżące polecenie.",
@@ -24,7 +24,7 @@
   "ForceApplyEnabled": "Wymuszanie zastosowania jest włączone.",
   "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
   "InvalidCalibrationError": "Kontroler {0} nie ma prawidłowej kalibracji, a krzywa wentylatora {1} jest w trybie RPM.",
-  "Manual": "Manual",
+  "Manual": "Ręczny",
   "ManualControl": "Sterowanie ręczne",
   "ManualFanCalibration": "Ręczna kalibracja wentylatora",
   "ManualPairSingleFanDescription": "Sparuj kontroler z czujnikiem prędkości",
