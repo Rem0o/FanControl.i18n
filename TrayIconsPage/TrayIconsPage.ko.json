@@ -1,7 +1,7 @@
 ﻿{
-  "AddTrayIconSpeed": "트레이 아이콘에 팬 속도 표시(%)",
-  "AddTrayIconTemp": "트레이 아이콘에 온도 표시",
+  "AddTrayIconSpeed": "트레이 아이콘 팬 속도 추가 (%)",
+  "AddTrayIconTemp": "트레이 아이콘 온도 추가",
   "DefaultTrayIconColor": "기본 트레이 아이콘 색상",
   "MissingTrayIconSensor": "트레이 아이콘 센서 없음",
-  "SyncIconColor": "아이콘 색상을 Windows와 동기화"
+  "SyncIconColor": "Windows와 아이콘 색상 동기화"
 }
