@@ -1,7 +1,8 @@
 ﻿{
+  "AllowMissingSensor": "Salli puuttuva anturi",
   "File": "Tiedosto",
   "FileDescription": "Mukautettu \"Tiedosto\"-anturi seuraa määritetyn tiedoston tietoja.",
-  "AllowMissingSensor": "Salli puuttuva anturi",
+  "FileSensorNotExists": "Sijainnin \"{0}\" tiedostoa ei löydy.",
   "FunctionAverage": "Kaikkien valittujen lämpötila-antureiden keskiarvo",
   "FunctionMax": "Kaikkien valittujen lämpötila-antureiden enimmäisarvo",
   "FunctionMin": "Kaikkien valittujen lämpötila-antureiden vähimmäisarvo",

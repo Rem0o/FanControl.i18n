@@ -1,8 +1,8 @@
 ﻿{
+  "AllowMissingSensor": "Eksik sensöre izin ver",
   "File": "Dosya",
   "FileDescription": "Dosya özel sensörü, verileri belirli bir dosyadan okur.",
   "FileSensorNotExists": "\" {0} \" yolunda dosya sensörü yok.",
-  "AllowMissingSensor": "Eksik sensöre izin ver",
   "FunctionAverage": "Seçilen tüm sıcaklık sensörlerinin ortalaması",
   "FunctionMax": "Seçilen tüm sıcaklık sensörlerinin maksimum değeri",
   "FunctionMin": "Seçilen tüm sıcaklık sensörlerinin minimum değeri",

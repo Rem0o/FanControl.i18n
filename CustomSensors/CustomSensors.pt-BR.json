@@ -1,7 +1,8 @@
 ﻿{
+  "AllowMissingSensor": "Permitir sensor ausente",
   "File": "Arquivo",
   "FileDescription": "O sensor personalizado irá ler os dados de um determinado arquivo",
-  "AllowMissingSensor": "Permitir sensor ausente",
+  "FileSensorNotExists": "O arquivo localizado em \"{0}\" não existe.",
   "FunctionAverage": "Média de todos os sensores de temperatura selecionados",
   "FunctionMax": "Máximo de todos os sensores de temperatura selecionados",
   "FunctionMin": "Mínimo de todos os sensores de temperatura selecionados",

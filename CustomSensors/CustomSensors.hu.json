@@ -1,7 +1,8 @@
 ﻿{
+  "AllowMissingSensor": "Hiányzó szenzor engedélyezése",
   "File": "Fájl",
   "FileDescription": "A Fájl-érzékelő adatokat olvas ki egy adott fájlból.",
-  "AllowMissingSensor": "Hiányzó szenzor engedélyezése",
+  "FileSensorNotExists": "A(z) \"{0}\" elérési úttal rendelkező Fájl-érzékelő nem létezik.",
   "FunctionAverage": "Az összes kiválasztott hőmérséklet-érzékelő átlaga",
   "FunctionMax": "Az összes kiválasztott hőmérséklet-érzékelő maximuma",
   "FunctionMin": "Az összes kiválasztott hőmérséklet-érzékelő minimuma",

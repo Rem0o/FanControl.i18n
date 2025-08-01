@@ -1,6 +1,6 @@
 ﻿{
-  "File": "ファイル",
   "AllowMissingSensor": "センサーの欠落を許可",
+  "File": "ファイル",
   "FileDescription": "ファイルカスタムセンサは、指定されたファイルからデータを取得します",
   "FileSensorNotExists": "パス \"{0}\" のファイルセンサが存在しません",
   "FunctionAverage": "選択された温度センサの平均値",

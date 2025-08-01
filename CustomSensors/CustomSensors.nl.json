@@ -1,7 +1,7 @@
 ﻿{
+  "AllowMissingSensor": "Ontbrekende sensor toestaan",
   "File": "File",
   "FileDescription": "De aangepaste bestandssensor leest gegevens uit een bepaald bestand.",
-  "AllowMissingSensor": "Ontbrekende sensor toestaan",
   "FileSensorNotExists": "Bestandssensor met pad \"{0}\" bestaat niet.",
   "FunctionAverage": "Gemiddelde van alle geselecteerde temperatuursensoren",
   "FunctionMax": "Maximum van alle geselecteerde temperatuursensoren",

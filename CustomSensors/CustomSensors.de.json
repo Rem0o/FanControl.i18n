@@ -1,6 +1,6 @@
 ﻿{
-  "File": "Datei",
   "AllowMissingSensor": "Fehlenden Sensor erlauben",
+  "File": "Datei",
   "FileDescription": "Der benutzerdefinierte Dateisensor liest Daten aus einer angegebenen Datei.",
   "FileSensorNotExists": "Dateisensor mit dem Pfad \"{0}\" existiert nicht.",
   "FunctionAverage": "Durchschnitt aller ausgewählten Temperatursensoren",
