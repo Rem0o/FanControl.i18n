@@ -1,6 +1,7 @@
 ﻿{
   "File": "Ficheiro",
   "FileDescription": "O sensor personalizado irá ler os dados de um determinado ficheiro",
+  "AllowMissingSensor": "Permitir sensor em falta",
   "FileSensorNotExists": "O ficheiro localizado em \"{0}\" não existe.",
   "FunctionAverage": "Média de todos os sensores de temperatura selecionados",
   "FunctionMax": "Máximo de todos os sensores de temperatura selecionados",

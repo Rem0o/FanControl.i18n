@@ -1,6 +1,8 @@
 ﻿{
   "File": "Fil",
+  "AllowMissingSensor": "Tillad manglende sensor",
   "FileDescription": "Den brugerdefinerede filsensor læser data fra en given fil.",
+  "AllowMissingSensor": "Tillad manglende sensor",
   "FileSensorNotExists": "Filsensor med stien \"{0}\" eksisterer ikke.",
   "FunctionAverage": "Gennemsnit af alle de valgte temperatursensorer",
   "FunctionMax": "Maksimum af alle de valgte temperatursensorer",

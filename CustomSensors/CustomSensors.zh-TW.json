@@ -18,7 +18,7 @@
   "NameAlreadyTaken": "自訂感測器名稱“{0}”已被使用",
   "Offset": "偏移",
   "OffsetDescription": "偏移自訂感測器允許偏移現有的感測器。",
-  "SaveSensorFileDialogTitle": "儲存感測器檔案",
+  "AllowMissingSensor": "允許缺少的感測器",
   "TimeAverage": "時間平均",
   "TimeAverageDescription": "時間平均自訂感測器計算一段時間內的感測器平均值。"
 }

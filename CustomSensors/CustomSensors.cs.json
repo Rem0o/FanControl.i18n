@@ -1,5 +1,6 @@
 ﻿{
   "File": "Soubor",
+  "AllowMissingSensor": "Povolit chybějící senzor",
   "FileDescription": "Vlastní snímač souboru čte data z daného souboru.",
   "FileSensorNotExists": "Senzor souboru s cestou \"{0}\" neexistuje.",
   "FunctionAverage": "Průměr všech vybraných teplotních senzorů",

@@ -1,5 +1,6 @@
 ﻿{
   "File": "קובץ",
+  "AllowMissingSensor": "אפשר חיישן חסר",
   "FileDescription": "הקובץ חיישן מותאם אישית קורא נתונים מקובץ נתון.",
   "FileSensorNotExists": "קובץ חיישן עם הנתיב \"{0}\" לא קיים.",
   "FunctionAverage": "ממוצע של כל חיישני הטמפרטורה שנבחרו",

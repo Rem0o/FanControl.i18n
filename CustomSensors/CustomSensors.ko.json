@@ -1,5 +1,6 @@
 ﻿{
   "File": "파일",
+  "AllowMissingSensor": "센서 누락 허용",
   "FileDescription": "파일 센서는 주어진 파일에서 데이터를 받습니다.",
   "FileSensorNotExists": "경로 \"{0}\"에 파일 센서가 존재하지 않습니다.",
   "FunctionAverage": "선택된 온도 센서 값의 평균",
