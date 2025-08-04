@@ -1,9 +1,9 @@
-﻿{
-  "CurrentVersionUpToDate": "현재 설치된 {0}은(는) 최신 버전입니다!",
-  "DisableUpdatePopupStartup": "시작 시 이 팝업 비활성화",
-  "DownloadingUpdater": "업데이터 다운로드 중...",
-  "NewVersion": "새로운 버전이 있습니다: {0} (현재 버전 {1})",
-  "UpdateAvailable": "새로운 업데이트가 있습니다",
+{
+  "CurrentVersionUpToDate": "현재 버전({0})이 가장 최신 버전입니다!",
+  "DisableUpdatePopupStartup": "시작할 때 이 팝업을 비활성화합니다.",
+  "DownloadingUpdater": "업데이트 프로그램을 다운로드하는 중...",
+  "NewVersion": "새 버전을 사용할 수 있습니다: {0} (현재 버전 {1})",
+  "UpdateAvailable": "업데이트를 사용할 수 있습니다",
   "UpdateText": "업데이트",
   "VersionInfoError": "서버에서 버전 정보를 가져올 수 없습니다."
 }
