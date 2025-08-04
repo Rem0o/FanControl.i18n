@@ -1,9 +1,9 @@
-﻿{
+{
   "Credit": "제작",
   "Documentation": "문서",
   "Donate": "기부",
   "Email": "이메일",
-  "EULALicenses": "EULA",
+  "EULALicenses": "EULA/라이선스",
   "OfficialWebsite": "공식 웹사이트",
   "Sponsor": "후원",
   "VersionStringFormat": "버전: {0}"

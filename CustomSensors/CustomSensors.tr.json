@@ -1,4 +1,5 @@
 ﻿{
+  "AllowMissingSensor": "Eksik sensöre izin ver",
   "File": "Dosya",
   "FileDescription": "Dosya özel sensörü, verileri belirli bir dosyadan okur.",
   "FileSensorNotExists": "\" {0} \" yolunda dosya sensörü yok.",

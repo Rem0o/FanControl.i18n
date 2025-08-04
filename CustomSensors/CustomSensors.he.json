@@ -1,4 +1,5 @@
 ﻿{
+  "AllowMissingSensor": "אפשר חיישן חסר",
   "File": "קובץ",
   "FileDescription": "הקובץ חיישן מותאם אישית קורא נתונים מקובץ נתון.",
   "FileSensorNotExists": "קובץ חיישן עם הנתיב \"{0}\" לא קיים.",

@@ -1,4 +1,5 @@
 ﻿{
+  "AllowMissingSensor": "Permitir sensor em falta",
   "File": "Ficheiro",
   "FileDescription": "O sensor personalizado irá ler os dados de um determinado ficheiro",
   "FileSensorNotExists": "O ficheiro localizado em \"{0}\" não existe.",

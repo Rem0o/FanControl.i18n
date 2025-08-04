@@ -1,4 +1,5 @@
 ﻿{
+  "AllowMissingSensor": "允许缺失的传感器",
   "File": "文件",
   "FileDescription": "文件型自定义传感器是从指定的文件读取数据。",
   "FileSensorNotExists": "路径为“{0}”的文件传感器不存在。",

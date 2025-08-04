@@ -1,4 +1,5 @@
-{
+﻿{
+  "AllowMissingSensor": "允許缺少的感測器",
   "File": "檔案",
   "FileDescription": "檔案自訂感測器從指定的檔案讀取資料。",
   "FileSensorNotExists": "路徑為“{0}”的檔案感測器不存在。",

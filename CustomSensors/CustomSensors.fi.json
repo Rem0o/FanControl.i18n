@@ -1,4 +1,5 @@
 ﻿{
+  "AllowMissingSensor": "Salli puuttuva anturi",
   "File": "Tiedosto",
   "FileDescription": "Mukautettu \"Tiedosto\"-anturi seuraa määritetyn tiedoston tietoja.",
   "FileSensorNotExists": "Sijainnin \"{0}\" tiedostoa ei löydy.",

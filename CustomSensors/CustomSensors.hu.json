@@ -1,4 +1,5 @@
 ﻿{
+  "AllowMissingSensor": "Hiányzó szenzor engedélyezése",
   "File": "Fájl",
   "FileDescription": "A Fájl-érzékelő adatokat olvas ki egy adott fájlból.",
   "FileSensorNotExists": "A(z) \"{0}\" elérési úttal rendelkező Fájl-érzékelő nem létezik.",

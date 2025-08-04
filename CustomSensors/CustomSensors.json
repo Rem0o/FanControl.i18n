@@ -1,4 +1,5 @@
 ﻿{
+  "AllowMissingSensor": "Allow missing sensor",
   "File": "File",
   "FileDescription": "The file custom sensor reads data from a given file.",
   "FileSensorNotExists": "File sensor with path \"{0}\" does not exists.",
