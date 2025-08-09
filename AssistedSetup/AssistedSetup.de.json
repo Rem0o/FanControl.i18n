@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Keine der Steuerungen ist mit einem Drehzahlsensor verknüpft.",
   "AssistedSetupDescription": "Das ist der Einrichtungsassistent. Er wird dich mit den folgenden Schritten bei der Ersteinrichtung deiner Lüfter unterstützen:",
+  "AvoidRunningOtherPrograms": "Bitte vermeiden Sie das Ausführen ressourcenintensiver Programme oder Lüfter-Utilities während der Assistenten-Einrichtung.",
   "Calibrating": "Kalibrieren",
   "CalibrationTitle": "Automatische Lüfterkalibrierung",
   "ControlSensorPairsWithSpeedSensor": "Steuerungssensor \"{0}\" ist gekoppelt an Drehzahlsensor \"{1}\"",

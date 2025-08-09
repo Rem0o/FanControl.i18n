@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Nenhum controlador tem um sensor de velocidade da ventoinha emparelhado.",
   "AssistedSetupDescription": "A Configuração Assistida vai guiar-te na configuração das ventoinhas pela primeira vez:",
+  "AvoidRunningOtherPrograms": "Evite executar programas intensivos em recursos ou utilitários de ventoinha durante a configuração assistida.",
   "Calibrating": "A Calibrar",
   "CalibrationTitle": "Calibração Automática das Ventoinhas",
   "ControlSensorPairsWithSpeedSensor": "O controlador \"{0}\" emparelhou com o sensor de velocidade \"{1}\"",

@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "לא קיים רכיב בקרה מזווג לחיישן מהירות מאוורר.",
   "AssistedSetupDescription": "זהו מנגנון סיוע בהתקנה. הוא יעזור לך להגדיר את המאווררים שלך בפעם הראשונה עם השלבים הבאים:",
+  "AvoidRunningOtherPrograms": "נא להימנע מהרצת תוכנות עתירות משאבים או כלי מאוורר בזמן ההגדרה המודרכת.",
   "Calibrating": "מכייל",
   "CalibrationTitle": "כיול מאוורר אוטומטי",
   "ControlSensorPairsWithSpeedSensor": "חיישן רכיב הבקרה \"{0}\" מזווג לחיישן המהירות \"{1}\"",

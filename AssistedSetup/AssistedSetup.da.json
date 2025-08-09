@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Ingen kontrol har en parret blæserhastighedssensor.",
   "AssistedSetupDescription": "Dette er den assisterede opsætning. Den vil hjælpe dig med at konfigurere dine blæsere for første gang med følgende trin:",
+  "AvoidRunningOtherPrograms": "Undgå venligst at køre ressourcekrævende programmer eller fan-værktøjer, mens den assisterede opsætning kører.",
   "Calibrating": "Kalibrerer",
   "CalibrationTitle": "Automatisk blæserkalibrering",
   "ControlSensorPairsWithSpeedSensor": "Kontrolsensor \"{0}\" parres med hastighedssensor \"{1}\"",

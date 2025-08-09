@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Hiçbir kontrol cihazının eşleştirilmiş fan hızı sensörü yok.",
   "AssistedSetupDescription": "Bu, destekli kurulumdur. Fanlarınızı ilk kez aşağıdaki adımlarla yapılandırmanıza yardımcı olacaktır:",
+  "AvoidRunningOtherPrograms": "Yardımlı kurulum sırasında kaynak yoğun programları veya fan yardımcı programlarını çalıştırmaktan kaçının.",
   "Calibrating": "Kalibre ediliyor",
   "CalibrationTitle": "Otomatik Fan Kalibrasyonu",
   "ControlSensorPairsWithSpeedSensor": "Kontrol sensörü \"{0}\", hız sensörü \"{1}\" ile eşleşiyor",

@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Egyetlen vezérlő sem rendelkezik párosított sebesség-érzékelővel.",
   "AssistedSetupDescription": "Ez a támogatott beállítás. Ez segít a ventilátorok első alkalommal történő konfigurálásában a következő lépésekkel:",
+  "AvoidRunningOtherPrograms": "Kérjük, kerülje az erőforrásigényes programok vagy ventilátor segédprogramok futtatását az asszisztált beállítás közben.",
   "Calibrating": "Kalibrálás",
   "CalibrationTitle": "Automatikus Ventilátor Kalibráció",
   "ControlSensorPairsWithSpeedSensor": "A \"{0}\" vezérlő párosul a \"{1}\" sebesség-érzékelővel.",

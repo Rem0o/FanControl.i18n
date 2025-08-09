@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Ningún controlador tiene un sensor de velocidad emparejado.",
   "AssistedSetupDescription": "Esto es la configuración asistida. Te ayudará a configurar tus ventiladores por primera vez con los siguientes pasos:",
+  "AvoidRunningOtherPrograms": "Por favor, evite ejecutar cualquier programa intensivo en recursos o utilidad de ventilador mientras se ejecuta la configuración asistida.",
   "Calibrating": "Calibrando",
   "CalibrationTitle": "Calibrando ventiladores automáticamente...",
   "ControlSensorPairsWithSpeedSensor": "Sensor de controlador \"{0}\" emparejado con sensor de velocidad \"{1}\"",

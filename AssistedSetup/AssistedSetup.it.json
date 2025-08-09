@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Nessun controllo ha un sensore di velocità abbinato.",
   "AssistedSetupDescription": "Questa è la configurazione assistita. Ti aiuterà a configurare le tue ventole per la prima volta con i seguenti passaggi:",
+  "AvoidRunningOtherPrograms": "Si prega di evitare di eseguire programmi ad alto consumo di risorse o utility per ventole durante la configurazione assistita.",
   "Calibrating": "Calibrazione",
   "CalibrationTitle": "Autocalibrazione ventola",
   "ControlSensorPairsWithSpeedSensor": "il sensore di controllo \"{0}\" viene abbinato al sensore di velocità \"{1}\"",

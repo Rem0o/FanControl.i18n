@@ -1,6 +1,7 @@
-{
+﻿{
   "AllControlsNoSensors": "所有控制器都沒有配對的風扇轉速感測器。",
   "AssistedSetupDescription": "這是輔助設定。它可以協助您完成風扇的初始設定：",
+  "AvoidRunningOtherPrograms": "請避免在輔助設定運行期間執行任何資源密集的程式或風扇工具。",
   "Calibrating": "校準中",
   "CalibrationTitle": "自動風扇校準",
   "ControlSensorPairsWithSpeedSensor": "控制器感測器“{0}”與轉速感測器“{1}”配對",

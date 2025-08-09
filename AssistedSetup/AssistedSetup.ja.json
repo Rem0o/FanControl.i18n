@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "どのコントロールにもペアリングされたファン速度センサーがありません",
   "AssistedSetupDescription": "これはアシスト設定です以下の手順で初めてファンを設定するのを助けます：",
+  "AvoidRunningOtherPrograms": "アシストセットアップ中は、リソースを大量に消費するプログラムやファンユーティリティの実行を避けてください。",
   "Calibrating": "キャリブレーション中",
   "CalibrationTitle": "自動ファンキャリブレーション",
   "ControlSensorPairsWithSpeedSensor": "コントロールセンサー「{0}」は速度センサー「{1}」とペアリングされています",

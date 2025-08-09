@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Geen enkele regeling heeft een gekoppelde ventilatorsnelheidssensor.",
   "AssistedSetupDescription": "Dit is de installatiewizard. Het programma begeleidt u door de eerste installatie van uw ventilatoren aan de hand van de volgende stappen:",
+  "AvoidRunningOtherPrograms": "Voorkom het uitvoeren van resource-intensieve programma’s of fan-utilities tijdens de begeleide installatie.",
   "Calibrating": "Kalibreren",
   "CalibrationTitle": "Automatische ventilatorkalibratie",
   "ControlSensorPairsWithSpeedSensor": "Regelsensor \"{0}\" is gekoppeld aan snelheidssensor \"{1}\"",

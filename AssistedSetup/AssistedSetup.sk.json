@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Žiadny ovládací prvok nemá spárovaný snímač otáčok ventilátora.",
   "AssistedSetupDescription": "Toto je asistované nastavenie. Pomôže vám prvýkrát nakonfigurovať ventilátory pomocou nasledujúcich krokov:",
+  "AvoidRunningOtherPrograms": "Prosím, vyhnite sa spúšťaniu programov náročných na zdroje alebo nástrojov pre ventilátory počas asistovaného nastavenia.",
   "Calibrating": "Kalibrácia",
   "CalibrationTitle": "Automatická kalibrácia ventilátora",
   "ControlSensorPairsWithSpeedSensor": "Riadiaci senzor \"{0}\" sa spáruje so snímačom otáčok \"{1}\".",

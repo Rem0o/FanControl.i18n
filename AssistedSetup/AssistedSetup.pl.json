@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Żaden kontroler nie ma przypisanego czujnika prędkości wentylatora.",
   "AssistedSetupDescription": "Asystent konfiguracji pomoże skonfigurować wentylatory, wykonując następujące kroki:",
+  "AvoidRunningOtherPrograms": "Proszę unikać uruchamiania programów intensywnie wykorzystujących zasoby lub narzędzi do wentylatorów podczas asystowanej konfiguracji.",
   "Calibrating": "Kalibrowanie",
   "CalibrationTitle": "Automatyczna kalibracja wentylatorów",
   "ControlSensorPairsWithSpeedSensor": "Kontroler \"{0}\" jest sparowany z czujnikiem prędkości \"{1}\"",

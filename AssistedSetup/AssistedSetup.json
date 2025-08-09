@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "No control has a paired fan speed sensor.",
   "AssistedSetupDescription": "This is the assisted setup. It will help you configure your fans for the first time with the following steps:",
+  "AvoidRunningOtherPrograms": "Please avoid running any resource intensive program or fan utility while the assisted setup is running.",
   "Calibrating": "Calibrating",
   "CalibrationTitle": "Automatic Fan Calibration",
   "ControlSensorPairsWithSpeedSensor": "Control sensor \"{0}\" pairs with speed sensor \"{1}\"",

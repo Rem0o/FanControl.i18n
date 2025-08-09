@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "Ohjaimia ja nopeusantureita ei ole paritettu.",
   "AssistedSetupDescription": "Tämä määritysapuri auttaa tuulettimien vaiheittaisessa määrityksessä:",
+  "AvoidRunningOtherPrograms": "Vältä resurssia vaativien ohjelmien tai tuuletinohjelmien käyttöä avustetun asetuksen aikana.",
   "Calibrating": "Kalibroidaan",
   "CalibrationTitle": "Tuulettimien automaattinen kalibrointi",
   "ControlSensorPairsWithSpeedSensor": "Ohjain \"{0}\" paritettiin nopeusanturiin \"{1}\"",

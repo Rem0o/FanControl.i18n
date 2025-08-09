@@ -1,6 +1,7 @@
 ﻿{
   "AllControlsNoSensors": "所有控制器都没有配对的风扇速度传感器。",
   "AssistedSetupDescription": "这里是设置助手。它将帮助您完成风扇的初始配置，步骤如下：",
+  "AvoidRunningOtherPrograms": "请避免在辅助设置运行期间运行任何资源密集型程序或风扇工具。",
   "Calibrating": "校准",
   "CalibrationTitle": "自动风扇校准",
   "ControlSensorPairsWithSpeedSensor": "控制传感器“{0}”与速度传感器“{1}”配对",
