@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "Temperatur im Taskleistensymbol",
   "DefaultTrayIconColor": "Standardfarbe des Taskleistensymbols",
   "MissingTrayIconSensor": "Sensor für Taskleistensymbol fehlt",
+  "SelectColor": "Wählen Sie die Taskleistensymbolfarbe für {0}",
   "SyncIconColor": "An Windows-Design anpassen"
 }

@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "温度のアイコンを追加",
   "DefaultTrayIconColor": "規定のアイコン色",
   "MissingTrayIconSensor": "トレイアイコンに指定したセンサが見つかりません",
+  "SelectColor": "{0}のトレイアイコンの色を選択",
   "SyncIconColor": "アイコン色をWindowsと同期"
 }

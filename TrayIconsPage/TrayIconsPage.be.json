@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "Дадаць значок у трэй для тэмпературы",
   "DefaultTrayIconColor": "Колер значка ў трэі па змаўчанні",
   "MissingTrayIconSensor": "Адсутнічае датчык для значка ў трэі",
+  "SelectColor": "Выберыце колер значка ў трэі для {0}",
   "SyncIconColor": "Сінхранізаваць колер значка з Windows"
 }

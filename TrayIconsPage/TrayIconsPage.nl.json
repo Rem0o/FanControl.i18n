@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "Voeg temperatuurpictogram in het systeemvak toe",
   "DefaultTrayIconColor": "Standaardkleur van het pictogram in het systeemvak",
   "MissingTrayIconSensor": "Ontbrekende systeemvakpictogramsensor",
+  "SelectColor": "Selecteer de systeemvakpictogramkleur voor {0}",
   "SyncIconColor": "Synchroniseer pictogramkleur met Windows"
 }

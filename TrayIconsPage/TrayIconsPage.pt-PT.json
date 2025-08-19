@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "Adicionar ícone de temperatura à área de notificação",
   "DefaultTrayIconColor": "Cor padrão do ícone à área de notificação",
   "MissingTrayIconSensor": "Sensor do ícone está ausente",
+  "SelectColor": "Selecione a cor do ícone da bandeja para {0}",
   "SyncIconColor": "Sincronizar a cor do ícone com a do Windows"
 }

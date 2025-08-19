@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "Ajouter l'icône de la température à la barre d'état",
   "DefaultTrayIconColor": "Couleur par défaut de l'icône de la barre d'état",
   "MissingTrayIconSensor": "Capteur de l'icône de la barre d'état manquant",
+  "SelectColor": "Sélectionner la couleur de l'icône de la barre des tâches pour {0}",
   "SyncIconColor": "Synchroniser la couleur de l'icône avec Windows"
 }

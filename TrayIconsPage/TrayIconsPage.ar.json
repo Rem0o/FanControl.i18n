@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "إضافة درجة حرارة أيقونة الدرج",
   "DefaultTrayIconColor": "لون أيقونة الدرج الافتراضي",
   "MissingTrayIconSensor": "مستشعر أيقونة الدرج المفقود",
+  "SelectColor": "حدد لون أيقونة علبة النظام لـ {0}",
   "SyncIconColor": "مزامنة لون الأيقونة مع Windows"
 }

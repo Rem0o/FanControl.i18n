@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "Tilføj systembakkeikon for temperatur",
   "DefaultTrayIconColor": "Standardfarve for systembakkeikon",
   "MissingTrayIconSensor": "Manglende sensor til systembakkeikon",
+  "SelectColor": "Vælg farve på systembakkeikon for {0}",
   "SyncIconColor": "Synkroniser ikonfarve med Windows"
 }

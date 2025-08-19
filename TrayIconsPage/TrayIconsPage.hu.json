@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "Hőmérséklet tálcaikon hozzáadása",
   "DefaultTrayIconColor": "Alapértelmezett tálcaikon szín",
   "MissingTrayIconSensor": "Hiányzó tálcaikon érzékelő",
+  "SelectColor": "Válassza ki a tálcaikon színét ehhez: {0}",
   "SyncIconColor": "Tálcaikon színének szinkronizálása a Windows-al"
 }

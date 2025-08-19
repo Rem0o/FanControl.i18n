@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "Lisää ilmaisinalueelle lämpötilakuvake",
   "DefaultTrayIconColor": "Ilmaisinalueen kuvakkeen oletusväri",
   "MissingTrayIconSensor": "Ilmaisinalueen anturi puuttuu",
+  "SelectColor": "Valitse ilmaisinalueen kuvakkeen väri kohteelle {0}",
   "SyncIconColor": "Käytä Windowsin asetuksia vastaavaa väriä"
 }

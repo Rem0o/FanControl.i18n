@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "Pridať teplotu do oznamovacej oblasti",
   "DefaultTrayIconColor": "Predvolená farba ikony v oznamovacej oblasti",
   "MissingTrayIconSensor": "Chýbajúca ikona snímača v oznamovacej oblasti",
+  "SelectColor": "Vyberte farbu ikony v oznamovacej oblasti pre {0}",
   "SyncIconColor": "Synchronizovať farbu ikon so systémom Windows"
 }

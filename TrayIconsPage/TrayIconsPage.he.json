@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "הוסף סמל בשורת המשימות לטמפרטורה",
   "DefaultTrayIconColor": "צבע ברירת מחדל של אייקון שורת המשימות",
   "MissingTrayIconSensor": "חיישן סמל שורת המשימות חסר",
+  "SelectColor": "בחר את צבע סמל המגש עבור {0}",
   "SyncIconColor": "סנכרן את צבע הסמל עם Windows"
 }

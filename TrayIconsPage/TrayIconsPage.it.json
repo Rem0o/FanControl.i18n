@@ -3,5 +3,6 @@
   "AddTrayIconTemp": "Aggiungi temperatura alla barra delle applicazioni",
   "DefaultTrayIconColor": "Colore predefinito dell’icona nella barra delle applicazioni",
   "MissingTrayIconSensor": "Icona del sensore, nella barra delle applicazioni, mancante",
+  "SelectColor": "Seleziona il colore dell'icona nella barra delle applicazioni per {0}",
   "SyncIconColor": "Sincronizza il colore dell’icona con Windows"
 }
