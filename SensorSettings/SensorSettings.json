@@ -1,5 +1,5 @@
 ﻿{
-  "ADLX": "AMD DLX (\"ADLX\") (AMD GPUs, at least RDNA-based)",
+  "ADLX": "AMD ADLX (AMD GPUs, at least RDNA-based)",
   "ApplicationWillRefresh": "The application will be refreshed.",
   "BeforeRefreshingConfigurationChanged": "Before refreshing, your current configuration changed. Do you wish to save it?",
   "Controller": "Controller (various third parties)",
@@ -18,7 +18,7 @@
   "MissingSensorWillThrow": "Any missing sensor from your current config will throw an error when restoring your config.",
   "Motherboard": "Motherboard",
   "NoPluginsLoaded": "No plugin loaded",
-  "NvAPIWrapper": "NVIDIA API (\"NVAPI\") (NVIDIA GPUs, at least GTX-, RTX-based)",
+  "NvAPIWrapper": "NVAPI (NVIDIA GPUs, at least GTX or RTX-based)",
   "NvdiaZeroRPMOverride": "NVIDIA 0% hardware curve override",
   "PluginInstalledSuccess": "Plugin {0} installed successfully",
   "Plugins": "Plugins",
