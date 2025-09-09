@@ -20,7 +20,7 @@
   "PairingUtilityDescription": "이 유틸리티는 팬 속도 센서와 팬 제어 센서를 페어링하려고 시도합니다. 이렇게 하면 제어할 수 있는 팬을 식별할 수 있습니다. 모든 팬 제어를 {0}%로 설정 중...",
   "ProceedQuestion": "진행하시겠습니까?",
   "Settings": "설정",
-  "ShowHiddenCardsExplanation": "도우미 설정에 응답하지 않은 모든 제어는 숨겨집니다.",
+  "ShowHiddenCardsExplanation": "설정 도움에 응답하지 않은 모든 제어는 숨겨집니다.",
   "StartPercent": "시작 %",
   "Step1": "감지할 센서의 유형을 선택하세요",
   "Step2": "각 제어에 해당하는 RPM 센서를 찾습니다",
