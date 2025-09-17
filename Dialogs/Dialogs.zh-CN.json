@@ -1,5 +1,5 @@
 ﻿{
-  "AscendingRpmValues": "升序 RPM 值",
+  "AscendingRpmValues": "升序的 RPM 值",
   "CalibrationCommand": "命令 (%)",
   "CalibrationControlCardInstructions": "使用以下卡片调整风扇 % 并观察其 RPM。",
   "CalibrationPointPercent": "点 %",
@@ -25,6 +25,11 @@
   "ManualPairingInstruction": "选择下方对该控制器有反应的速度传感器。",
   "ManualPairingTip": "（提示：将滑块设置为 0% 并观察哪个风扇减速或停止）",
   "OtherInstance": "另一份 FanControl 程序正在用户“{0}”中运行。已将其关闭以启动新实例。",
+  "PawnIoInformationPart1": "为了获取传感器数据和控制风扇，FanControl 现在需要安装 PawnIO 内核驱动程序。",
+  "PawnIoInformationPart2": "此驱动程序将替代之前使用的存在安全漏洞的旧版驱动程序 WinRing0。它将在您的系统中全局安装。",
+  "PawnIoInformationPart3": "您可以在不安装此驱动程序的情况下使用 FanControl，但所有与 LibreHardwareMonitor 相关的内置传感器将无法使用。",
+  "PawnIoInformationPart4": "其他传感器提供程序（如 NvAPI、ADLX 和插件）将照常工作。",
+  "PawnIoInstallationRequired": "需要安装 PawnIO",
   "PaypalDialogPart1": "Fan Control 开发者的致信",
   "PaypalDialogPart2": "你好！我是 Rémi。",
   "PaypalDialogPart3a": "我看到你有一些风扇曲线了，这很棒！🚀🙌",

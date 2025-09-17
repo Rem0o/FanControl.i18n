@@ -1,8 +1,9 @@
-{
+﻿{
   "CultureText": "語言",
   "Delay": "延遲",
   "EditSources": "編輯來源...",
   "General": "一般",
+  "InstallPawnIo": "安裝 PawnIO 驅動程式...",
   "InstallPlugin": "安裝插件...",
   "LoadedPlugins": "已載入的插件",
   "Nicknames": "暱稱",
