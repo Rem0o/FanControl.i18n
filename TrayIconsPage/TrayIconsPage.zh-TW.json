@@ -1,8 +1,8 @@
 ﻿{
-  "AddTrayIconSpeed": "åœ¨ç³»çµ±åŒ£åœ–ç¤ºä¸­å¢žåŠ é¢¨æ‰‡è½‰é€Ÿ (%)",
-  "AddTrayIconTemp": "åœ¨ç³»çµ±åŒ£åœ–ç¤ºä¸­å¢žåŠ æº«åº¦",
-  "DefaultTrayIconColor": "é è¨­ç³»çµ±åŒ£åœ–ç¤ºé¡è‰²",
-  "MissingTrayIconSensor": "ç¼ºå°‘ç³»çµ±åŒ£åœ–ç¤ºæ‰€éœ€çš„æ„Ÿæ¸¬å™¨",
+  "AddTrayIconSpeed": "在系統匣圖示中增加風扇轉速 (%)",
+  "AddTrayIconTemp": "在系統匣圖示中增加溫度",
+  "DefaultTrayIconColor": "預設系統匣圖示顏色",
+  "MissingTrayIconSensor": "缺少系統匣圖示所需的感測器",
   "SelectColor": "選擇{0}的工具列圖示顏色",
-  "SyncIconColor": "èˆ‡ Windows åŒæ­¥åœ–ç¤ºé¡è‰²"
+  "SyncIconColor": "與 Windows 同步圖示顏色"
 }
