@@ -41,6 +41,7 @@
   "PlatformNotSupported": "Din platform understøttes ikke. Windows 10 eller nyere er påkrævet.",
   "ReadEULA": "Tag et øjeblik til at læse slutbrugerlicensaftalen. Den er kort, jeg lover. Du kan altid læse den senere i sektionen \"Om\".",
   "RefreshingAfterSleep": "Fan Control opdateres efter genoptagelse fra dvaletilstand",
+  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
   "SpeedHelpPart1": "Sektionen \"Hastigheder\" viser alle tilgængelige RPM-sensorer, der er registreret.",
   "SpeedHelpPart2": "Bemærk, at hvert kontrolkort måske eller måske ikke har et tilsvarende RPM-kort på grund af kompatibilitetsårsager.",
   "SpeedHelpPart3": "Det anbefales, at du \"parrer\" hver sensor i denne sektion til dens tilsvarende kontrolkort. Brug tre-punkts menuen på et kontrolkort til at gøre dette og vælg enten manuel eller automatisk parring.",

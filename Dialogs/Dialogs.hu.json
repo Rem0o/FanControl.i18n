@@ -41,6 +41,7 @@
   "PlatformNotSupported": "Az Ön platformja nem támogatott. Windows 10 vagy újabb szükséges.",
   "ReadEULA": "Szánjon egy percet a végfelhasználói licencszerződés elolvasására! Rövid, ígérem. Később bármikor elolvashatja a \"Névjegy\" részben.",
   "RefreshingAfterSleep": "A Fan Control frissítődik az alvó állapotból való visszatérés után",
+  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
   "SpeedHelpPart1": "A \"Sebesség\" szakasz minden elérhető fordulatszám-érzékelőt megjelenít, amelyet észlel.",
   "SpeedHelpPart2": "Ne feledje, hogy kompatibilitási okokból nem minden vezérlőkártya rendelkezik hozzátartozó RPM-kártyával.",
   "SpeedHelpPart3": "Javasoljuk, hogy ebben a részben minden érzékelőt a megfelelő vezérlőkártyához \"párosítson\". Ehhez használja a vezérlőkártya hárompontos menüopcióját, és válassza ki a kézi vagy az automatikus párosítást!",

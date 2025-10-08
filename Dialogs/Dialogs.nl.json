@@ -41,6 +41,7 @@
   "PlatformNotSupported": "Uw platform wordt niet ondersteund. Windows 10 of hoger is vereist.",
   "ReadEULA": "Neem even de tijd om de sectie met de licentieovereenkomst voor eindgebruikers te lezen. Het is kort, dat beloof ik. U kunt het later altijd nog lezen in de sectie Over.",
   "RefreshingAfterSleep": "Fan Control vernieuwd zich na het hervatten uit de slaapstand",
+  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
   "SpeedHelpPart1": "In het gedeelte \"Snelheden\" worden alle beschikbare RPM-sensoren weergegeven die zijn gedetecteerd.",
   "SpeedHelpPart2": "Houd er rekening mee dat elke regelingskaart mogelijk geen bijbehorende RPM-kaart heeft vanwege compatibiliteitsredenen.",
   "SpeedHelpPart3": "Het wordt aanbevolen dat u elke sensor in deze sectie \"koppelt\" aan de bijbehorende regelingskaart. Gebruik hiervoor de menuoptie met drie stippen van een regelingskaart en selecteer handmatig of automatisch koppelen.",

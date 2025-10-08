@@ -41,6 +41,7 @@
   "PlatformNotSupported": "La tua piattaforma non è supportata. È richiesto Windows 10 o successivo.",
   "ReadEULA": "Prenditi un minuto per leggere il contratto di licenza con l’utente finale. È breve, lo prometto. Puoi sempre leggerlo più tardi nella sezione Informazioni.",
   "RefreshingAfterSleep": "Fan Control si sta aggiornando dopo il ripristino dalla modalità sospensione",
+  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
   "SpeedHelpPart1": "La sezione \"Velocità\" mostra ogni sensore RPM disponibile rilevato.",
   "SpeedHelpPart2": "Nota che ogni scheda di controllo può o meno avere una scheda RPM corrispondente per motivi di compatibilità.",
   "SpeedHelpPart3": "Si raccomanda di \"abbinare\" ogni sensore in questa sezione alla scheda di controllo corrispondente. Per farlo, usa l’opzione dal menù a tre punti di una scheda di controllo e scegli fra abbinamento manuale o automatico.",

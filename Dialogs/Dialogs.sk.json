@@ -41,6 +41,7 @@
   "PlatformNotSupported": "Vaša platforma nie je podporovaná. Vyžaduje sa systém Windows 10 alebo novší.",
   "ReadEULA": "Chvíľu si prečítajte licenčnú zmluvu s koncovým používateľom. Je krátka, sľubujem. Vždy si ju môžete prečítať neskôr v sekcii O nás.",
   "RefreshingAfterSleep": "Fan Control sa obnovuje po prebudení zo spánku.",
+  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
   "SpeedHelpPart1": "V sekcii \"Rýchlosti\" sú zobrazené všetky dostupné snímače otáčok, ktoré sú detegované.",
   "SpeedHelpPart2": "Všimnite si, že každá ovládacia karta môže, ale nemusí mať zodpovedajúcu kartu RPM z dôvodu kompatibility.",
   "SpeedHelpPart3": "Odporúčame, aby ste každý senzor v tejto sekcii \"spárovali\" s príslušnou ovládacou kartou. Použite na to možnosť trojbodového menu ovládacej karty a vyberte buď ručné, alebo automatické párovanie.",

@@ -41,6 +41,7 @@
   "PlatformNotSupported": "您的平台不受支援。需要 Windows 10 或更新版本。",
   "ReadEULA": "請花一點時間閱讀使用者授權合約。它很短，我保證。您隨時可以在“關於”區塊中閱讀。",
   "RefreshingAfterSleep": "Fan Control 正在從睡眠狀態恢復後重新整理",
+  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
   "SpeedHelpPart1": "“轉速”區塊顯示偵測到的每個可用 RPM 感測器。",
   "SpeedHelpPart2": "請注意，由於相容性原因，每個控制卡片可能會有或沒有對應的 RPM 卡片。",
   "SpeedHelpPart3": "建議您將此區塊中的每個感測器“配對”到其對應的控制卡片。使用控制卡片的三點選單選項來執行此操作，然後選擇手動或自動配對。",

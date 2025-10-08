@@ -41,6 +41,7 @@
   "PlatformNotSupported": "Your platform is not supported. Windows 10 or later is required.",
   "ReadEULA": "Take a minute to read the end-user license agreement section. It's short, I promise. You can always read it later in the About section.",
   "RefreshingAfterSleep": "Fan Control is refreshing after resuming from sleep",
+  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
   "SpeedHelpPart1": "The \"Speeds\" section shows every available RPM sensor that is detected.",
   "SpeedHelpPart2": "Note that each control card may or may not have a corresponding RPM card due to compatibility reasons.",
   "SpeedHelpPart3": "It is recommended that you \"pair\" each sensor in this section to its corresponding control card. Use the three dot menu option of a control card to do so, and select either the manual or automatic pairing.",
