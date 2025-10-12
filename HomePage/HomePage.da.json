@@ -33,5 +33,6 @@
   "Speeds": "Hastigheder",
   "TemperatureUnitQuestion": "For at anvende ændringen af temperaturenhed vil din konfiguration blive gemt, og applikationsvinduet vil blive nulstillet. Vil du fortsætte?",
   "Theme": "Tema",
-  "TrayIcons": "Systembakke\r\nIkoner"
+  "TrayIcons": "Systembakke\r\nIkoner",
+  "ViewOptions": "Visningsindstillinger"
 }

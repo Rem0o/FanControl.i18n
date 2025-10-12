@@ -33,5 +33,6 @@
   "Speeds": "回転数",
   "TemperatureUnitQuestion": "温度単位を変更するには、現在の設定を保存し、アプリケーションを再起動する必要があります。続行しますか？",
   "Theme": "テーマ",
-  "TrayIcons": "タスクトレイ\r\nアイコン"
+  "TrayIcons": "タスクトレイ\r\nアイコン",
+  "ViewOptions": "表示オプション"
 }

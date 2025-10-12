@@ -33,5 +33,6 @@
   "Speeds": "Drehzahlen",
   "TemperatureUnitQuestion": "Um die Änderung der Temperatureinheit anzuwenden, wird die Konfiguration gespeichert und das Anwendungsfenster zurückgesetzt. Fortfahren?",
   "Theme": "Design",
-  "TrayIcons": "Tray-\r\nIcons"
+  "TrayIcons": "Tray-\r\nIcons",
+  "ViewOptions": "Optionen anzeigen"
 }

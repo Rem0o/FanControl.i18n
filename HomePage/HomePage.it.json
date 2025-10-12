@@ -33,5 +33,6 @@
   "Speeds": "Velocità",
   "TemperatureUnitQuestion": "Per applicare il cambiamento dell'unità di temperatura, la tua configurazione verrà salvata e la finestra dell'applicazione verrà reimpostata. Vuoi continuare?",
   "Theme": "Tema",
-  "TrayIcons": "Icone nella barra delle applicazioni"
+  "TrayIcons": "Icone nella barra delle applicazioni",
+  "ViewOptions": "Opzioni di visualizzazione"
 }
