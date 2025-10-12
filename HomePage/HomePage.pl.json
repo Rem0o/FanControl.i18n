@@ -33,6 +33,5 @@
   "Speeds": "Prędkości",
   "TemperatureUnitQuestion": "Zmiana jednostki temperatury wymaga zapisania konfiguracji i zresetowania okna aplikacji. Czy chcesz kontynuować?",
   "Theme": "Motyw",
-  "TrayIcons": "Ikony Tray",
-  "ViewOptions": "Opcje widoku"
+  "TrayIcons": "Ikony Tray"
 }

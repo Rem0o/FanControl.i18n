@@ -1,4 +1,4 @@
-{
+﻿{
   "About": "關於",
   "AddCustomSensor": "新增“{0}”自訂感測器",
   "AddFanCurve": "新增“{0}”風扇曲線",
@@ -33,6 +33,5 @@
   "Speeds": "轉速",
   "TemperatureUnitQuestion": "若要變更溫度單位，您的配置將會儲存，且應用程式視窗將會重置。您要繼續嗎？",
   "Theme": "主題",
-  "TrayIcons": "系統匣圖示",
-  "ViewOptions": "檢視選項"
+  "TrayIcons": "系統匣圖示"
 }
