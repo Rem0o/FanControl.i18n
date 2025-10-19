@@ -41,7 +41,7 @@
   "PlatformNotSupported": "플랫폼이 지원되지 않습니다. Windows 10 이상이 필요합니다.",
   "ReadEULA": "잠시 시간을 내어 최종 사용자 라이선스 계약 부분을 읽어보세요. 정말 짧습니다. 나중에 정보 섹션에서 언제든지 확인하실 수 있습니다.",
   "RefreshingAfterSleep": "Fan Control이 절전 모드에서 재개 후 새로 고쳐 집니다.",
-  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
+  "RefreshRequested": "이 센서 소스에서 새로 고침을 요청했습니다: {0}",
   "SpeedHelpPart1": "\"속도\" 섹션에는 감지된 모든 사용 가능한 RPM 센서가 표시됩니다.",
   "SpeedHelpPart2": "각 제어 카드는 호환성 문제로 인해 해당 RPM 카드를 가질 수도 있고 가지지 않을 수도 있습니다.",
   "SpeedHelpPart3": "이 섹션의 각 센서를 해당 제어 카드에 \"페어링\"하는 것이 좋습니다. 이를 위해 제어 카드의 세 가지 점 메뉴 옵션을 사용하고 수동 또는 자동 페어링을 선택합니다.",
