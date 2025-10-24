@@ -1,0 +1,9 @@
+{
+  "CurrentVersionUpToDate": "Phiên bản hiện tại ({0}) của bạn là mới nhất!",
+  "DisableUpdatePopupStartup": "Tắt cửa sổ này khi khởi động.",
+  "DownloadingUpdater": "Đang tải trình cập nhật...",
+  "NewVersion": "Có phiên bản mới: {0} (hiện tại là {1})",
+  "UpdateAvailable": "Có bản cập nhật mới",
+  "UpdateText": "Cập nhật",
+  "VersionInfoError": "Không thể lấy thông tin phiên bản từ máy chủ."
+}
