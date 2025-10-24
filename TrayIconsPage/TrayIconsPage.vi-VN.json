@@ -1,0 +1,8 @@
+{
+  "AddTrayIconSpeed": "Thêm biểu tượng khay hiển thị tốc độ quạt (%)",
+  "AddTrayIconTemp": "Thêm biểu tượng khay hiển thị nhiệt độ",
+  "DefaultTrayIconColor": "Màu mặc định của biểu tượng khay",
+  "MissingTrayIconSensor": "Thiếu cảm biến cho biểu tượng khay",
+  "SelectColor": "Chọn màu biểu tượng khay cho {0}",
+  "SyncIconColor": "Đồng bộ màu biểu tượng với Windows"
+}
