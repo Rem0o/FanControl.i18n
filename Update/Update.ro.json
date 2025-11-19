@@ -1,0 +1,9 @@
+﻿{
+  "CurrentVersionUpToDate": "Versiunea curentă ({0}) este cea mai recentă!",
+  "DisableUpdatePopupStartup": "Dezactivează acest popup la pornire.",
+  "DownloadingUpdater": "Se descarcă actualizatorul...",
+  "NewVersion": "O nouă versiune este disponibilă: {0} (cea actuală este {1})",
+  "UpdateAvailable": "O actualizare este disponibilă",
+  "UpdateText": "Actualizează",
+  "VersionInfoError": "Nu s-au putut obține informațiile despre versiune de pe server."
+}
