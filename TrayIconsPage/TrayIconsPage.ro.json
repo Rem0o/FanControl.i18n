@@ -1,0 +1,8 @@
+﻿{
+  "AddTrayIconSpeed": "Adaugă viteza ventilatorului în iconița din tavă (%)",
+  "AddTrayIconTemp": "Adaugă temperatura în iconița din tavă",
+  "DefaultTrayIconColor": "Culoare implicită a iconiței din tavă",
+  "MissingTrayIconSensor": "Lipsește senzorul pentru iconița din tavă",
+  "SelectColor": "Selectați culoarea iconiței din tavă pentru {0}",
+  "SyncIconColor": "Sincronizează culoarea iconiței cu Windows"
+}
