@@ -21,6 +21,5 @@
   "StartMinimized": "Запускать свёрнутым",
   "StartUserLogon": "Запускать при входе пользователя",
   "Symbol": "Символ",
-  "TaskSchedulerAdminRequired": "Не удалось настроить в Планировщике задач запуск программы при загрузке Windows. Требуются права администратора.",
-  "UpdateInterval": "Update interval"
+  "TaskSchedulerAdminRequired": "Не удалось настроить в Планировщике задач запуск программы при загрузке Windows. Требуются права администратора."
 }

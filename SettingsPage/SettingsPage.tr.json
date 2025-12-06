@@ -21,6 +21,5 @@
   "StartMinimized": "Küçültülmüş olarak başlat",
   "StartUserLogon": "Kullanıcı oturum açıldığında başlat",
   "Symbol": "Sembol",
-  "TaskSchedulerAdminRequired": "Programı Görev Zamanlayıcı'da Windows ile başlatacak şekilde ayarlayamadım. Yönetici kullanıcısı gerekli.",
-  "UpdateInterval": "Update interval"
+  "TaskSchedulerAdminRequired": "Programı Görev Zamanlayıcı'da Windows ile başlatacak şekilde ayarlayamadım. Yönetici kullanıcısı gerekli."
 }

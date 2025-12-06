@@ -21,6 +21,5 @@
   "StartMinimized": "最小化して開始",
   "StartUserLogon": "ユーザーのログオン時に開始",
   "Symbol": "記号",
-  "TaskSchedulerAdminRequired": "タスクスケジューラでプログラムをWindowsと共に起動する設定ができませんでした。管理者権限が必要です。",
-  "UpdateInterval": "Update interval"
+  "TaskSchedulerAdminRequired": "タスクスケジューラでプログラムをWindowsと共に起動する設定ができませんでした。管理者権限が必要です。"
 }

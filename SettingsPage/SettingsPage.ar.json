@@ -21,6 +21,5 @@
   "StartMinimized": "ابدأ بالتصغير",
   "StartUserLogon": "ابدأ عند تسجيل دخول المستخدم",
   "Symbol": "رمز",
-  "TaskSchedulerAdminRequired": "تعذر ضبط البرنامج ليبدأ مع Windows في برنامج جدولة المهام. مطلوب مستخدم المشرف.",
-  "UpdateInterval": "Update interval"
+  "TaskSchedulerAdminRequired": "تعذر ضبط البرنامج ليبدأ مع Windows في برنامج جدولة المهام. مطلوب مستخدم المشرف."
 }

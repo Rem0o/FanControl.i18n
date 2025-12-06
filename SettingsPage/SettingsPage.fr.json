@@ -21,6 +21,5 @@
   "StartMinimized": "Démarrer minimisé",
   "StartUserLogon": "Démarrer à l'ouverture de la session utilisateur",
   "Symbol": "Symbole",
-  "TaskSchedulerAdminRequired": "Impossible de définir le programme pour démarrer avec Windows dans le Planificateur de tâches. Utilisateur administrateur requis.",
-  "UpdateInterval": "Update interval"
+  "TaskSchedulerAdminRequired": "Impossible de définir le programme pour démarrer avec Windows dans le Planificateur de tâches. Utilisateur administrateur requis."
 }

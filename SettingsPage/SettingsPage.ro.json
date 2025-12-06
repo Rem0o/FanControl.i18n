@@ -21,6 +21,5 @@
   "StartMinimized": "Pornește minimizat",
   "StartUserLogon": "Pornește la conectarea utilizatorului",
   "Symbol": "Simbol",
-  "TaskSchedulerAdminRequired": "Nu s-a putut seta programul să pornească cu Windows în Task Scheduler. Este necesar un utilizator administrator.",
-  "UpdateInterval": "Update interval"
+  "TaskSchedulerAdminRequired": "Nu s-a putut seta programul să pornească cu Windows în Task Scheduler. Este necesar un utilizator administrator."
 }

@@ -21,6 +21,5 @@
   "StartMinimized": "啟動時最小化",
   "StartUserLogon": "使用者登入時啟動",
   "Symbol": "符號",
-  "TaskSchedulerAdminRequired": "無法在工作排程器中設定此程式隨 Windows 啟動。需要系統管理員權限。",
-  "UpdateInterval": "Update interval"
+  "TaskSchedulerAdminRequired": "無法在工作排程器中設定此程式隨 Windows 啟動。需要系統管理員權限。"
 }
