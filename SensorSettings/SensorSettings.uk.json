@@ -23,6 +23,7 @@
   "PSU": "БП (Corsair)",
   "SensorSettingsText": "Налаштування датчиків",
   "Storage": "Накопичувачі",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Бажаєте продовжити?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Деякі відеокарти Nvidia мають встановлені ліміти керування вентиляторами, коли стороннє програмне забезпечення, таке як Fan Control, не може встановити швидкість вентилятора нижче певного %, найчастіше 30%.",

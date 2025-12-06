@@ -21,5 +21,6 @@
   "StartMinimized": "Start minimeret",
   "StartUserLogon": "Start ved brugerlogon",
   "Symbol": "Symbol",
-  "TaskSchedulerAdminRequired": "Kunne ikke sætte programmet til at starte med Windows i Opgavestyring. Administratorrettigheder kræves."
+  "TaskSchedulerAdminRequired": "Kunne ikke sætte programmet til at starte med Windows i Opgavestyring. Administratorrettigheder kræves.",
+  "UpdateInterval": "Update interval"
 }

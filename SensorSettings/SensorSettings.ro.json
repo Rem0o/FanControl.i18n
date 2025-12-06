@@ -23,6 +23,7 @@
   "PSU": "Sursă (doar Corsair)",
   "SensorSettingsText": "Setări senzori",
   "Storage": "Stocare",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Doriți să continuați?",
   "Warning": "Avertisment",
   "ZeroRPMOverrideHelpPart1": "Unele plăci NVIDIA au limite de control ale ventilatorului care împiedică software-urile terțe, precum Fan Control, să seteze viteza sub un anumit procent, cel mai frecvent 30%.",

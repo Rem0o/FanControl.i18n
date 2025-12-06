@@ -21,5 +21,6 @@
   "StartMinimized": "Spustiť minimalizované",
   "StartUserLogon": "Spustiť pri prihlásení používateľa",
   "Symbol": "Symbol",
-  "TaskSchedulerAdminRequired": "Nepodarilo sa nastaviť program na spúšťanie s Windows cez Plánovač úloh. Je potrebný administrátorský účet."
+  "TaskSchedulerAdminRequired": "Nepodarilo sa nastaviť program na spúšťanie s Windows cez Plánovač úloh. Je potrebný administrátorský účet.",
+  "UpdateInterval": "Update interval"
 }

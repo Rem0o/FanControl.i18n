@@ -21,5 +21,6 @@
   "StartMinimized": "Start minimized",
   "StartUserLogon": "Start at user log on",
   "Symbol": "Symbol",
-  "TaskSchedulerAdminRequired": "Could not set the program to start with Windows in the Task Scheduler. Admin user required."
+  "TaskSchedulerAdminRequired": "Could not set the program to start with Windows in the Task Scheduler. Admin user required.",
+  "UpdateInterval": "Update interval"
 }

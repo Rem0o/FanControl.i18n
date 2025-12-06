@@ -23,6 +23,7 @@
   "PSU": "Zdroj (Corsair)",
   "SensorSettingsText": "Nastavení senzoru",
   "Storage": "Úložiště",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Přejete si pokračovat?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Některé karty Nvidia mají nastavené limity ovládání ventilátoru, kde software třetích stran jako Fan Control nemůže nastavit rychlost ventilátoru pod určité procento, nejčastěji 30 %.",

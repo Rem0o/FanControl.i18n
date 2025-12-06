@@ -23,6 +23,7 @@
   "PSU": "PSU (Corsair)",
   "SensorSettingsText": "Sensorindstillinger",
   "Storage": "Lager",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Ønsker du at fortsætte?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Nogle Nvidia-kort har begrænsninger for blæserkontrol, hvor tredjepartssoftware som Fan Control ikke kan indstille blæserhastigheden under en bestemt %, ofte 30%.",

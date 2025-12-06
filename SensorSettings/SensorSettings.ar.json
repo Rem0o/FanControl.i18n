@@ -23,6 +23,7 @@
   "PSU": "PSU (كورسير)",
   "SensorSettingsText": "إعدادات المستشعر",
   "Storage": "التخزين",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "هل ترغب في المتابعة؟",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "لقد وضعت بعض بطاقات Nvidia حدودًا للتحكم في المروحة حيث لا يمكن لبرامج الطرف الثالث مثل Fan Control ضبط سرعة المروحة على أقل من نسبة مئوية محددة، وهي في الغالب 30%.",

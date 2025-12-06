@@ -23,6 +23,7 @@
   "PSU": "PSU (Corsair)",
   "SensorSettingsText": "Sensorinstellingen",
   "Storage": "Opslag",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Wilt u doorgaan?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Sommige Nvidia-kaarten hebben ingestelde limieten voor de ventilatorregeling, waarbij software van derden zoals Fan Control de ventilatorsnelheid niet onder een bepaald percentage kan instellen. Meestal is dat 30%.",

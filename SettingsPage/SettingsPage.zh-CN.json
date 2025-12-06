@@ -21,5 +21,6 @@
   "StartMinimized": "启动时最小化",
   "StartUserLogon": "在用户登录时启动",
   "Symbol": "符号",
-  "TaskSchedulerAdminRequired": "无法在计划任务中设置本程序随 Windows 启动。需要以管理员权限运行。"
+  "TaskSchedulerAdminRequired": "无法在计划任务中设置本程序随 Windows 启动。需要以管理员权限运行。",
+  "UpdateInterval": "Update interval"
 }

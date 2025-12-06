@@ -1,4 +1,4 @@
-{
+﻿{
   "ADLX": "AMD ADLX (GPU AMD, ít nhất dòng RDNA)",
   "ApplicationWillRefresh": "Ứng dụng sẽ được làm mới.",
   "BeforeRefreshingConfigurationChanged": "Trước khi làm mới, cấu hình hiện tại đã thay đổi. Bạn có muốn lưu không?",
@@ -23,6 +23,7 @@
   "PSU": "Nguồn PSU (chỉ Corsair)",
   "SensorSettingsText": "Cài đặt cảm biến",
   "Storage": "Lưu trữ",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Bạn có muốn tiếp tục không?",
   "Warning": "Cảnh báo",
   "ZeroRPMOverrideHelpPart1": "Một số card NVIDIA giới hạn điều khiển quạt, khiến phần mềm như Fan Control không thể đặt tốc độ dưới mức nhất định (thường là 30%).",

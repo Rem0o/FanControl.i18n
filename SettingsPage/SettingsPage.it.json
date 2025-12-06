@@ -21,5 +21,6 @@
   "StartMinimized": "Avvia ridotto a icona",
   "StartUserLogon": "Avvia all'accesso dell'utente",
   "Symbol": "Simbolo",
-  "TaskSchedulerAdminRequired": "Impossibile impostare il programma per l'avvio con Windows nell’Utilità di pianificazione. È richiesto un utente amministratore."
+  "TaskSchedulerAdminRequired": "Impossibile impostare il programma per l'avvio con Windows nell’Utilità di pianificazione. È richiesto un utente amministratore.",
+  "UpdateInterval": "Update interval"
 }

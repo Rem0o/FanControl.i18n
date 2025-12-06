@@ -21,5 +21,6 @@
   "StartMinimized": "Minimiert starten",
   "StartUserLogon": "Bei Benutzeranmeldung starten",
   "Symbol": "Symbol",
-  "TaskSchedulerAdminRequired": "Das Programm konnte in der Aufgabenplanung nicht so eingestellt werden, dass es beim Start von Windows ausgeführt wird. Administratorrechte erforderlich."
+  "TaskSchedulerAdminRequired": "Das Programm konnte in der Aufgabenplanung nicht so eingestellt werden, dass es beim Start von Windows ausgeführt wird. Administratorrechte erforderlich.",
+  "UpdateInterval": "Update interval"
 }

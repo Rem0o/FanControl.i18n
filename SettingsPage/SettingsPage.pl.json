@@ -21,5 +21,6 @@
   "StartMinimized": "Uruchom zminimalizowany",
   "StartUserLogon": "Uruchom po zalogowaniu",
   "Symbol": "Symbol",
-  "TaskSchedulerAdminRequired": "Nie można ustawić uruchamiania programu z systemem Windows przy użyciu Harmonogramu zadań. Wymagany użytkownik z uprawnieniami administratora."
+  "TaskSchedulerAdminRequired": "Nie można ustawić uruchamiania programu z systemem Windows przy użyciu Harmonogramu zadań. Wymagany użytkownik z uprawnieniami administratora.",
+  "UpdateInterval": "Update interval"
 }

@@ -21,5 +21,6 @@
   "StartMinimized": "Iniciar minimizado",
   "StartUserLogon": "Iniciar no login",
   "Symbol": "Símbolo",
-  "TaskSchedulerAdminRequired": "Não foi possível configurar o programa para iniciar com o Windows no Agendador de Tarefas. É necessário um usuário administrador."
+  "TaskSchedulerAdminRequired": "Não foi possível configurar o programa para iniciar com o Windows no Agendador de Tarefas. É necessário um usuário administrador.",
+  "UpdateInterval": "Update interval"
 }

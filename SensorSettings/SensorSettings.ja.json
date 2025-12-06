@@ -23,6 +23,7 @@
   "PSU": "PSU（Corsair）",
   "SensorSettingsText": "センサー設定",
   "Storage": "ストレージ",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "続行しますか？",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "一部のNvidiaカードでは、ファン制御に制限が設定されており、サードパーティ製ソフトウェア（Fan Control）でファン速度を特定の%（最も一般的には30%）未満に設定することができません",

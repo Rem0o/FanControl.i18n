@@ -21,5 +21,6 @@
   "StartMinimized": "Indítás minimalizálva",
   "StartUserLogon": "Indítás a felhasználói bejelentkezéskor",
   "Symbol": "Szimbólum",
-  "TaskSchedulerAdminRequired": "Nem sikerült beállítani, hogy a program a Windows rendszerrel induljon a Feladatütemezőben. Adminisztrátor felhasználó szükséges."
+  "TaskSchedulerAdminRequired": "Nem sikerült beállítani, hogy a program a Windows rendszerrel induljon a Feladatütemezőben. Adminisztrátor felhasználó szükséges.",
+  "UpdateInterval": "Update interval"
 }

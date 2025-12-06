@@ -21,5 +21,6 @@
   "StartMinimized": "Käynnistä pienennettynä",
   "StartUserLogon": "Käynnistä käyttäjän kirjautuessa",
   "Symbol": "Koodi",
-  "TaskSchedulerAdminRequired": "Sovellusta ei voitu asettaa käynnistymään Windowsin Tehtävien ajoituksella. Tämä vaatii järjestelmänvalvojan oikeudet."
+  "TaskSchedulerAdminRequired": "Sovellusta ei voitu asettaa käynnistymään Windowsin Tehtävien ajoituksella. Tämä vaatii järjestelmänvalvojan oikeudet.",
+  "UpdateInterval": "Update interval"
 }

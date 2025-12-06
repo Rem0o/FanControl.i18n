@@ -23,6 +23,7 @@
   "PSU": "Fonte de Alimentação (Corsair)",
   "SensorSettingsText": "Configurações de sensor",
   "Storage": "Armazenamento",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Queres continuar?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Algumas placas Nvidia possuem limites de controlo de ventoinha que impedem softwares de terceiros, como o Fan Control, de definirem a velocidade abaixo de um percentual específico, geralmente 30%.",

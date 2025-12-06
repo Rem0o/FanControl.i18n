@@ -23,6 +23,7 @@
   "PSU": "PSU (only Corsair)",
   "SensorSettingsText": "Sensor settings",
   "Storage": "Storage",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Do you wish to continue?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Some NVIDIA cards have set fan control limits where third party software like Fan Control can't set the fan speed below a specific %, most commonly 30%.",

@@ -23,6 +23,7 @@
   "PSU": "БП (Corsair)",
   "SensorSettingsText": "Настройки датчиков",
   "Storage": "Хранилище",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Продолжить?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Некоторые карты Nvidia имеют ограничения на управление вентиляторами, из-за чего сторонние программы (включая Fan Control) не могут установить скорость ниже определённого процента, обычно 30%.",

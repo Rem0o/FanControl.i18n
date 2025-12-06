@@ -23,6 +23,7 @@
   "PSU": "Netzteil (Corsair)",
   "SensorSettingsText": "Sensoreinstellungen",
   "Storage": "Massenspeicher",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Fortfahren?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Einige Nvidia-Karten haben festgelegte Lüftersteuerungslimits, bei denen Drittanbieter-Software wie Fan Control die Lüfterdrehzahl nicht unter einen bestimmten %-Wert einstellen kann, am häufigsten 30 %.",

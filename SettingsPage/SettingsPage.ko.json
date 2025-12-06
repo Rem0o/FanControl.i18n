@@ -21,5 +21,6 @@
   "StartMinimized": "최소화 시작",
   "StartUserLogon": "사용자 로그온 시 시작",
   "Symbol": "기호",
-  "TaskSchedulerAdminRequired": "작업 스케줄러에서 Windows와 함께 시작되도록 프로그램을 설정할 수 없습니다. 관리자 권한이 필요합니다."
+  "TaskSchedulerAdminRequired": "작업 스케줄러에서 Windows와 함께 시작되도록 프로그램을 설정할 수 없습니다. 관리자 권한이 필요합니다.",
+  "UpdateInterval": "Update interval"
 }

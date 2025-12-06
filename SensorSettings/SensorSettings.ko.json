@@ -23,6 +23,7 @@
   "PSU": "파워 (Corsair)",
   "SensorSettingsText": "센서 설정",
   "Storage": "저장 장치",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "계속하시겠습니까?",
   "Warning": "경고",
   "ZeroRPMOverrideHelpPart1": "일부 Nvidia 카드에는 팬 제어와 같은 타사 소프트웨어가 팬 속도를 특정 비율 (%) 이하로 설정할 수 없는 팬 제어 한도가 설정되어 있으며, 일반적으로 30%입니다.",

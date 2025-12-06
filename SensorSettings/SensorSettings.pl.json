@@ -23,6 +23,7 @@
   "PSU": "Zasilacz (Corsair)",
   "SensorSettingsText": "Ustawienia czujników",
   "Storage": "Pamięć masowa",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Czy chcesz kontynuować?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Niektóre karty graficzne Nvidia mają ograniczenia sterowania wentylatorem przez oprogramowanie zewnętrzne (takie jak Fan Control), powodujące, że nie można ustawić niższej prędkości niż określony % (najczęściej 30%).",

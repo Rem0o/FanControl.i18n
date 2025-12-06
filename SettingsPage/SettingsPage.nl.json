@@ -21,5 +21,6 @@
   "StartMinimized": "Start geminimaliseerd",
   "StartUserLogon": "start bij gebruikersaanmelding",
   "Symbol": "Symbool",
-  "TaskSchedulerAdminRequired": "Kan het programma niet instellen om te starten met Windows in de taakplanner. Admin-gebruiker vereist."
+  "TaskSchedulerAdminRequired": "Kan het programma niet instellen om te starten met Windows in de taakplanner. Admin-gebruiker vereist.",
+  "UpdateInterval": "Update interval"
 }

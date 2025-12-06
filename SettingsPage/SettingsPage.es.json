@@ -21,5 +21,6 @@
   "StartMinimized": "Iniciar minimizado",
   "StartUserLogon": "Iniciar con el usuario",
   "Symbol": "ISO 639",
-  "TaskSchedulerAdminRequired": "No se pudo establecer el programa para iniciar con Windows en el programador de tareas. Se requieren permisos de administrador."
+  "TaskSchedulerAdminRequired": "No se pudo establecer el programa para iniciar con Windows en el programador de tareas. Se requieren permisos de administrador.",
+  "UpdateInterval": "Update interval"
 }

@@ -23,6 +23,7 @@
   "PSU": "ספק כוח (Corsair)",
   "SensorSettingsText": "הגדרות חיישנים",
   "Storage": "אחסון",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "האם ברצונך להמשיך?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "חלק מכרטיסי Nvidia מגבילים את השליטה במהירות המאווררים כך שתוכנות צד שלישי כמו Fan Control לא יכולות להגדיר מהירות מאוורר מתחת לאחוז מסוים, בדרך כלל 30%.",

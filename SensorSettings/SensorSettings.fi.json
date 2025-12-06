@@ -23,6 +23,7 @@
   "PSU": "Virtalähde (Corsair)",
   "SensorSettingsText": "Sensoriastukset",
   "Storage": "Tallennuslaitteet",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Haluatko jatkaa?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Joissakin Nvidia-korteissa tuuletinohjausta on rajoitettu siten, etteivät Fan Controlin kaltaiset kolmannen osapuolen sovellukset voi asettaa tiettyä prosenttiarvoa hitaampaa tuuletinnopeutta (yleinen rajoitus on 30 %).",

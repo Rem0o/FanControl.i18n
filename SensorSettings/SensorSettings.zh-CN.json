@@ -23,6 +23,7 @@
   "PSU": "模组电源（海盗船）",
   "SensorSettingsText": "传感器设置",
   "Storage": "存储",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "您希望继续吗？",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "某些 Nvidia 显卡设置了风扇控制限制，第三方软件如 Fan Control 无法将风扇速度设置为低于特定百分比，通常为 30%。",

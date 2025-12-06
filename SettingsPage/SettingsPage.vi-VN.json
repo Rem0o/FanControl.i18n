@@ -21,5 +21,6 @@
   "StartMinimized": "Khởi động thu nhỏ",
   "StartUserLogon": "Khởi động cùng khi đăng nhập người dùng",
   "Symbol": "Ký hiệu",
-  "TaskSchedulerAdminRequired": "Không thể đặt chương trình khởi động cùng Windows trong Task Scheduler. Cần quyền quản trị."
+  "TaskSchedulerAdminRequired": "Không thể đặt chương trình khởi động cùng Windows trong Task Scheduler. Cần quyền quản trị.",
+  "UpdateInterval": "Update interval"
 }

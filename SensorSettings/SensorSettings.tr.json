@@ -23,6 +23,7 @@
   "PSU": "PSU (Corsair)",
   "SensorSettingsText": "Sensör ayarları",
   "Storage": "Depolama",
+  "UpdateInterval": "Update interval",
   "WantToContinue": "Devam etmek istiyor musunuz?",
   "Warning": "Warning",
   "ZeroRPMOverrideHelpPart1": "Bazı Nvidia kartlarının, Fan Control gibi üçüncü taraf yazılımlarının fan hızını belirli bir %'nin (çoğunlukla %30) altına ayarlayamadığı fan kontrol sınırları vardır.",
