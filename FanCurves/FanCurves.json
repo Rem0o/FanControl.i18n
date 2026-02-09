@@ -22,7 +22,6 @@
   "MixDescription": "The mix fan curve applies a function to the selected fan curves.",
   "MixFanCurveRestoreError": "Missing sensors for mix fan curve {0}",
   "NameAlreadyTaken": "Fan curve name \"{0}\" is already taken",
-  "RemoveFromMixWarning": "Are you sure you want to remove \"{0}\" from the mix?",
   "RpmModeWarning": "Changing mode will reset this graph. Are you sure you want to continue?",
   "Sync": "Sync",
   "SyncDescription": "The sync fan curve will output the same % as the selected control.",

@@ -1,4 +1,4 @@
-{
+﻿{
   "Cancel": "Hủy",
   "ConfigChangedQuestion": "Cấu hình hiện tại đã thay đổi. Bạn muốn lưu hay bỏ qua các thay đổi này?",
   "ConfigCouldNotBeSaved": "Không thể lưu cấu hình. Xem nhật ký lỗi để biết chi tiết.",
@@ -16,6 +16,7 @@
   "Loading": "Đang tải",
   "Location": "Vị trí: {0}",
   "MissingControlSensor": "Thiếu cảm biến điều khiển",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "Thiếu cảm biến tốc độ",
   "MissingTemperatureSensor": "Thiếu cảm biến nhiệt độ",
   "NameConflicts": "Các mục sau xung đột tên với cấu hình hiện tại của bạn:",

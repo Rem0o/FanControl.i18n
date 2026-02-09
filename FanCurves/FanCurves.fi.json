@@ -22,7 +22,6 @@
   "MixDescription": "\"Sekoitus\"-tuuletinkäyrä kohdistaa mukautetun toiminnon valittuihin tuuletinkäyriin.",
   "MixFanCurveRestoreError": "Sekoituksesta \"{0}\" puuttuu antureita",
   "NameAlreadyTaken": "Tuuletinkäyrän nimi \"{0}\" on jo käytössä",
-  "RemoveFromMixWarning": "Haluatko varmasti poistaa kohteen \"{0}\" sekoituksesta?",
   "RpmModeWarning": "Tilan muutos resetoi graafin. Haluatko varmasti jatkaa?",
   "Sync": "Synkronoitu",
   "SyncDescription": "\"Synkronoitu\"-tuuletinkäyrä tuottaa valittua ohjainta vastaavan prosenttiarvon.",

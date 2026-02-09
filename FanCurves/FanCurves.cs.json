@@ -22,7 +22,6 @@
   "MixDescription": "Mix křivek ventilátorů aplikuje funkci na vybrané křivky ventilátorů.",
   "MixFanCurveRestoreError": "Chybějící senzory pro mix křivky ventilátoru {0}",
   "NameAlreadyTaken": "Název křivky ventilátoru \"{0}\" je již obsazen",
-  "RemoveFromMixWarning": "Jste si jisti, že chcete odstranit \"{0}\" z mixu?",
   "RpmModeWarning": "Změnou režimu se tento graf vynuluje. Určitě chcete pokračovat?",
   "Sync": "Synchronizace",
   "SyncDescription": "Synchronizační křivka ventilátoru bude mít stejný výstup v % jako vybraný ovládací prvek.",

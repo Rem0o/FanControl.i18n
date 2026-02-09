@@ -22,7 +22,6 @@
   "MixDescription": "混合型风扇曲线对选定的风扇曲线应用一个函数。",
   "MixFanCurveRestoreError": "混合风扇曲线 {0} 缺少传感器",
   "NameAlreadyTaken": "风扇曲线名称“{0}”已被占用",
-  "RemoveFromMixWarning": "您要从混合中移除“{0}”吗？",
   "RpmModeWarning": "更改模式将重置此图形。确定要继续吗？",
   "Sync": "同步",
   "SyncDescription": "同步型风扇曲线输出与所选控制器相同的百分比。",

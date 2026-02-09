@@ -22,7 +22,6 @@
   "MixDescription": "Łączona krzywa wentylatora stosuje funkcję do wybranych krzywych.",
   "MixFanCurveRestoreError": "Brakuje czujników dla łączonej krzywej wentylatora {0}",
   "NameAlreadyTaken": "Nazwa krzywej wentylatora \"{0}\" jest już zajęta",
-  "RemoveFromMixWarning": "Czy na pewno chcesz usunąć \"{0}\" z krzywej łączonej?",
   "RpmModeWarning": "Zmiana trybu zresetuje ten wykres. Czy na pewno kontynuować?",
   "Sync": "Synchroniczna",
   "SyncDescription": "Synchroniczna krzywa wentylatora będzie uzyskiwać ten sam procent, co wybrany kontroler.",

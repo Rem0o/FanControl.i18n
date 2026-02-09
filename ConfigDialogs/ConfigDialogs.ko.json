@@ -16,6 +16,7 @@
   "Loading": "로딩 중",
   "Location": "위치: {0}",
   "MissingControlSensor": "제어 센서 없음",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "속도 센서 없음",
   "MissingTemperatureSensor": "온도 센서 없음",
   "NameConflicts": "다음 항목의 이름이 현재 구성과 충돌합니다:",

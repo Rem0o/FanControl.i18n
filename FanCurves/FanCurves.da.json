@@ -22,7 +22,6 @@
   "MixDescription": "Mixblæserkurven anvender en funktion på de valgte blæserkurver.",
   "MixFanCurveRestoreError": "Manglende sensorer til mix-blæserkurve {0}",
   "NameAlreadyTaken": "Blæserkurvenavnet \"{0}\" er allerede taget",
-  "RemoveFromMixWarning": "Er du sikker på, at du vil fjerne \"{0}\" fra mixet?",
   "RpmModeWarning": "Ændring af tilstand nulstiller denne graf. Er du sikker på, at du vil fortsætte?",
   "Sync": "Synkroniser",
   "SyncDescription": "Synkroniseringsblæserkurven vil udsende samme % som den valgte kontrol.",

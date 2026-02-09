@@ -16,6 +16,7 @@
   "Loading": "Chargement",
   "Location": "Emplacement: {0}",
   "MissingControlSensor": "Contrôle manquant",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "Capteur de vitesse manquant",
   "MissingTemperatureSensor": "Capteur de température manquant",
   "NameConflicts": "Les objets suivants ont des conflits de nom avec la configuration actuelle:",

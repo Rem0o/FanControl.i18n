@@ -16,6 +16,7 @@
   "Loading": "Načítání",
   "Location": "Umístění: {0}",
   "MissingControlSensor": "Chybějící senzor",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "Chybějící senzor rychlosti",
   "MissingTemperatureSensor": "Chybějící teplotní senzor",
   "NameConflicts": "Následující položky jsou v konfliktu názvů s vaší aktuální konfigurací:",

@@ -22,7 +22,6 @@
   "MixDescription": "Karışım fan eğrisi, seçilen fan eğrilerine bir fonksiyon uygular.",
   "MixFanCurveRestoreError": "{0} karışım fan eğrisi için eksik sensörler",
   "NameAlreadyTaken": "\" {0} \" fan eğrisi adı zaten alınmış",
-  "RemoveFromMixWarning": "\"{0}\" öğesini karışımdan kaldırmak istediğinizden emin misiniz?",
   "RpmModeWarning": "Modu değiştirmek bu grafiği sıfırlayacaktır. Devam etmek istediğinizden emin misiniz?",
   "Sync": "Senkronizasyon",
   "SyncDescription": "Senkronizasyon fan eğrisi, seçilen kontrolle aynı %'yi üretecektir.",

@@ -1,4 +1,4 @@
-{
+﻿{
   "Auto": "自動",
   "AutoDescription": "自動風扇曲線會自動調整以符合指定的負載溫度。",
   "CantBeAddedToMix": "“{0}”無法新增至混合。",
@@ -22,7 +22,6 @@
   "MixDescription": "混合風扇曲線會對選定的風扇曲線套用函數。",
   "MixFanCurveRestoreError": "混合風扇曲線 {0} 缺少感測器",
   "NameAlreadyTaken": "風扇曲線名稱 “{0}” 已被使用",
-  "RemoveFromMixWarning": "確定要從混合中移除 “{0}” 嗎？",
   "RpmModeWarning": "變更模式將會重設此圖形。確定要繼續嗎？",
   "Sync": "同步",
   "SyncDescription": "同步風扇曲線會輸出與所選控制器相同的百分比。",

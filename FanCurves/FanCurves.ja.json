@@ -22,7 +22,6 @@
   "MixDescription": "ミックスファン曲線は、選択されたファン曲線に関数を適用します",
   "MixFanCurveRestoreError": "ミックスファン曲線 {0} に必要なセンサーが見つかりません",
   "NameAlreadyTaken": "ファン曲線名 \"{0}\" はすでに使用されています",
-  "RemoveFromMixWarning": "本当に \"{0}\" をミックスから削除しますか？",
   "RpmModeWarning": "モードを変更すると、このグラフがリセットされます。本当に続行しますか？",
   "Sync": "同期",
   "SyncDescription": "同期ファン曲線は、選択された制御対象と同じ回転率（%）を出力します",

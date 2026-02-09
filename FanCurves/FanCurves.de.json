@@ -22,7 +22,6 @@
   "MixDescription": "Die Mix-Lüfterkurve wendet eine Funktion auf die ausgewählten Lüfterkurven an.",
   "MixFanCurveRestoreError": "Fehlende Sensoren für Mix-Lüfterkurve {0}",
   "NameAlreadyTaken": "Der Name der Lüfterkurve \"{0}\" ist bereits vergeben",
-  "RemoveFromMixWarning": "Soll \"{0}\" wirklich aus dem Mix entfernt werden?",
   "RpmModeWarning": "Das Ändern des Modus wird diesen Graphen zurücksetzen. Möchtest du wirklich fortfahren?",
   "Sync": "Sync",
   "SyncDescription": "Die Sync-Lüfterkurve gibt den gleichen %-Wert wie die ausgewählte Steuerung aus.",

@@ -22,7 +22,6 @@
   "MixDescription": "Curba mix aplică o funcție asupra curbelor de ventilator selectate.",
   "MixFanCurveRestoreError": "Lipsesc senzori pentru curba mix {0}",
   "NameAlreadyTaken": "Numele curbei de ventilator \"{0}\" este deja folosit",
-  "RemoveFromMixWarning": "Sunteți sigur că doriți să eliminați \"{0}\" din mix?",
   "RpmModeWarning": "Schimbarea modului va reseta acest grafic. Sigur doriți să continuați?",
   "Sync": "Sincronizare",
   "SyncDescription": "Curba de sincronizare va afișa același % ca și controlul selectat.",

@@ -16,6 +16,7 @@
   "Loading": "Загрузка",
   "Location": "Местоположение: {0}",
   "MissingControlSensor": "Отсутствует датчик управления",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "Отсутствует датчик скорости",
   "MissingTemperatureSensor": "Отсутствует датчик температуры",
   "NameConflicts": "Эти элементы имеют конфликт имён с текущей конфигурацией:",

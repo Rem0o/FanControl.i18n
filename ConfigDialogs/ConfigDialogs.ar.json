@@ -16,6 +16,7 @@
   "Loading": "التحميل",
   "Location": "الموقع: {0}",
   "MissingControlSensor": "مستشعر التحكم المفقود",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "مستشعر السرعة المفقود",
   "MissingTemperatureSensor": "مستشعر درجة الحرارة المفقود",
   "NameConflicts": "تتعارض أسماء العناصر التالية مع تكوينك الحالي:",

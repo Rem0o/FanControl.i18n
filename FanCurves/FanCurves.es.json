@@ -22,7 +22,6 @@
   "MixDescription": "La curva mix aplica una función a las curvas seleccionadas.",
   "MixFanCurveRestoreError": "Faltan sensores para la curva mix {0}",
   "NameAlreadyTaken": "El nombre de la curva \"{0}\" ya está en uso",
-  "RemoveFromMixWarning": "Estás seguro que quieres eliminar \"{0}\" del mix?",
   "RpmModeWarning": "Cambiar el modo reestablecerá el gráfico. ¿Estás seguro que quieres continuar?",
   "Sync": "Sinc",
   "SyncDescription": "La curva sinc emitirá el mismo % del controlador seleccionado.",

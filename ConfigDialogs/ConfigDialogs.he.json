@@ -16,6 +16,7 @@
   "Loading": "טוען",
   "Location": "מיקום: {0}",
   "MissingControlSensor": "חיישן רכיב בקרה חסר",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "חיישן מהירות חסר",
   "MissingTemperatureSensor": "חיישן טמפרטורה חסר",
   "NameConflicts": "לפריטים הבאים יש התנגשות שמות עם התצורה הנוכחית שלך:",

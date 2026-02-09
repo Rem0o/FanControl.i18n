@@ -1,4 +1,4 @@
-{
+﻿{
   "Cancel": "取消",
   "ConfigChangedQuestion": "您目前的設定已變更。您要儲存還是捨棄這些變更？",
   "ConfigCouldNotBeSaved": "無法儲存設定。請查看錯誤日誌以取得詳細資訊。",
@@ -16,6 +16,7 @@
   "Loading": "載入中",
   "Location": "位置：{0}",
   "MissingControlSensor": "缺少控制感測器",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "缺少轉速感測器",
   "MissingTemperatureSensor": "缺少溫度感測器",
   "NameConflicts": "以下項目與您目前的設定有名稱衝突：",

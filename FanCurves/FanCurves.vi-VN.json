@@ -1,4 +1,4 @@
-{
+﻿{
   "Auto": "Tự động",
   "AutoDescription": "Đường cong tự động sẽ tự điều chỉnh để khớp với nhiệt độ tải đặt ra.",
   "CantBeAddedToMix": "\"{0}\" không thể thêm vào trộn.",
@@ -22,7 +22,6 @@
   "MixDescription": "Đường cong Trộn áp dụng một hàm lên các đường cong đã chọn.",
   "MixFanCurveRestoreError": "Thiếu cảm biến cho đường cong trộn {0}",
   "NameAlreadyTaken": "Tên đường cong quạt \"{0}\" đã được sử dụng",
-  "RemoveFromMixWarning": "Bạn có chắc muốn xóa \"{0}\" khỏi trộn không?",
   "RpmModeWarning": "Đổi chế độ sẽ đặt lại đồ thị này. Bạn có chắc muốn tiếp tục?",
   "Sync": "Đồng bộ",
   "SyncDescription": "Đường cong Đồng bộ sẽ xuất ra cùng tỷ lệ % như điều khiển đã chọn.",

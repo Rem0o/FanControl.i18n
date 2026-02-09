@@ -16,6 +16,7 @@
   "Loading": "Loading",
   "Location": "Location: {0}",
   "MissingControlSensor": "Missing control sensor",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "Missing speed sensor",
   "MissingTemperatureSensor": "Missing temperature sensor",
   "NameConflicts": "The following items have name conflict with your current configuration:",

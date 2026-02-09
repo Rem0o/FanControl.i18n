@@ -22,7 +22,6 @@
   "MixDescription": "Mix kriviek ventilátorov aplikuje funkciu na vybrané krivky ventilátorov.",
   "MixFanCurveRestoreError": "Chýbajúce senzory pre mix krivky ventilátora {0}",
   "NameAlreadyTaken": "Názov krivky ventilátora \"{0}\" je už obsadený",
-  "RemoveFromMixWarning": "Ste si istí, že chcete odstrániť \"{0}\" z mixu?",
   "RpmModeWarning": "Zmenou režimu sa tento graf vynuluje. Určite chcete pokračovať?",
   "Sync": "Synchronizácia",
   "SyncDescription": "Synchronizačná krivka ventilátora bude mať rovnaký výstup v % ako vybraný ovládací prvok.",

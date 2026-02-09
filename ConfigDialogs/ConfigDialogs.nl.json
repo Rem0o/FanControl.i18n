@@ -16,6 +16,7 @@
   "Loading": "Laden",
   "Location": "Locatie: {0}",
   "MissingControlSensor": "Ontbrekende regelsensor",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "Snelheidssensor ontbreekt",
   "MissingTemperatureSensor": "Temperatuursensor ontbreekt",
   "NameConflicts": "De volgende items hebben een naamconflict met uw huidige configuratie:",

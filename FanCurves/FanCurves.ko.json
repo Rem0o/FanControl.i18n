@@ -22,7 +22,6 @@
   "MixDescription": "혼합 팬 곡선은 선택한 팬 곡선에 기능을 적용합니다.",
   "MixFanCurveRestoreError": "혼합 팬 곡선 {0}에 대한 센서가 없습니다",
   "NameAlreadyTaken": "팬 곡선 이름 \"{0}\"은(는) 이미 사용 중입니다",
-  "RemoveFromMixWarning": "혼합에서 \"{0}\"을(를) 제거하시겠습니까?",
   "RpmModeWarning": "모드를 변경하면 이 그래프가 재설정됩니다. 계속하시겠습니까?",
   "Sync": "동기화",
   "SyncDescription": "동기화 팬 곡선은 선택한 제어와 동일한 %를 출력합니다.",

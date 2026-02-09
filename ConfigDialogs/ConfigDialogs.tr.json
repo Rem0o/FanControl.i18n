@@ -16,6 +16,7 @@
   "Loading": "Yükleniyor",
   "Location": "Konum: {0}",
   "MissingControlSensor": "Eksik kontrol sensörü",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "Eksik hız sensörü",
   "MissingTemperatureSensor": "Eksik sıcaklık sensörü",
   "NameConflicts": "Aşağıdaki öğelerin geçerli yapılandırmanızla ad çakışması var:",

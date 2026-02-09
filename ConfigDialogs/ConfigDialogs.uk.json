@@ -16,6 +16,7 @@
   "Loading": "Завантаження",
   "Location": "Місцезнаходження: {0}",
   "MissingControlSensor": "Відсутній датчик керування",
+  "MissingFanCurve": "Missing fan curve",
   "MissingSpeedSensor": "Відсутній датчик швидкості",
   "MissingTemperatureSensor": "Відсутній датчик температури",
   "NameConflicts": "Наступні елементи мають конфлікт назв з вашою поточною конфігурацією:",

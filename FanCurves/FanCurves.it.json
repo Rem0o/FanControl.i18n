@@ -22,7 +22,6 @@
   "MixDescription": "La curva mix applica una funzione alle curve della ventola selezionate.",
   "MixFanCurveRestoreError": "Sensori mancanti per la curva della ventola mix {0}",
   "NameAlreadyTaken": "Il nome della curva della ventola \"{0}\" è già stato usato",
-  "RemoveFromMixWarning": "Sei sicuro di voler rimuovere \"{0}\" dal mix?",
   "RpmModeWarning": "Cambiare modalità reimposterà questo grafico. Sei sicuro di voler continuare?",
   "Sync": "Sincronizza",
   "SyncDescription": "La curva sincronizzata emetterà la stessa % del controllo selezionato.",

@@ -22,7 +22,6 @@
   "MixDescription": "De mix-ventilatorcurve past een functie toe op de geselecteerde fancurven.",
   "MixFanCurveRestoreError": "Ontbrekende sensoren voor mixventilatorcurve {0}",
   "NameAlreadyTaken": "De naam van de ventilatorcurve \"{0}\" is al in gebruik",
-  "RemoveFromMixWarning": "Weet u zeker dat u \"{0}\" uit de mix wilt verwijderen?",
   "RpmModeWarning": "Als u de modus wijzigt, wordt deze grafiek gereset. Weet u zeker dat u wilt doorgaan?",
   "Sync": "Sync",
   "SyncDescription": "De sync-fancurve geeft hetzelfde percentage weer als de geselecteerde regeling.",
