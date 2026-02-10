@@ -23,7 +23,7 @@
   "PSU": "PSU (Corsair)",
   "SensorSettingsText": "Paramètres du capteur",
   "Storage": "Stockage",
-  "UpdateInterval": "Update interval",
+  "UpdateInterval": "Intervalle de mise à jour",
   "WantToContinue": "Souhaitez-vous continuer ?",
   "Warning": "Attention",
   "ZeroRPMOverrideHelpPart1": "Certaines cartes Nvidia ont des limites de contrôle de ventilateur où les logiciels tiers comme Fan Control ne peuvent pas régler la vitesse du ventilateur en dessous d'un certain %, le plus souvent 30%.",

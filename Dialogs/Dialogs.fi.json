@@ -41,7 +41,7 @@
   "PlatformNotSupported": "Alustaasi ei tueta. Windows 10 tai sitä uudempi vaaditaan.",
   "ReadEULA": "Pysähdy hetkeksi lukemaan käyttöehdot. Lupaan, että ne ovat lyhyet. Löydät ne myöhemmin \"Tietoja\"-osiosta.",
   "RefreshingAfterSleep": "Fan Control päivittyy valmiustilasta palautumisen jälkeen",
-  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
+  "RefreshRequested": "Tämän anturilähteen pyytämä päivitys: {0}",
   "SpeedHelpPart1": "\"Nopeudet\"-osio näyttää kaikki käytettävissä olevat havaitut nopeusanturit.",
   "SpeedHelpPart2": "Huomioi, että yhteensopivuudesta riippuen kaikilla ohjainkorteilla ei välttämättä ole vastaavaa kierroslukukorttia.",
   "SpeedHelpPart3": "On suositeltavaa \"parittaa\" jokainen tämän osion anturi sitä vastaavaan ohjainkorttiin. Tämä onnistuu korttikohtaisesta kolmen pisteen valikosta löytyvällä manuaalisella tai automaattisella paritustoiminnolla.",

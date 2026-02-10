@@ -22,7 +22,7 @@
   "EnableDisableSoftwareControl": "Ativar controlo por software",
   "ForceApply": "Forçar aplicação",
   "ForceApplyEnabled": "Aplicação forçada está ativada.",
-  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
+  "ForceApplyToolTip": "Reaplicar o valor de controlo desejado sempre que uma discrepância for detetada.",
   "InvalidCalibrationError": "O controlo {0} não tem uma calibração válida e a curva da ventoinha {1} está no modo RPM.",
   "Manual": "Manual",
   "ManualControl": "Controlo manual",

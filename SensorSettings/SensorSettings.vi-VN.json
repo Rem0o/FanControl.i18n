@@ -23,7 +23,7 @@
   "PSU": "Nguồn PSU (chỉ Corsair)",
   "SensorSettingsText": "Cài đặt cảm biến",
   "Storage": "Lưu trữ",
-  "UpdateInterval": "Update interval",
+  "UpdateInterval": "Khoảng thời gian cập nhật",
   "WantToContinue": "Bạn có muốn tiếp tục không?",
   "Warning": "Cảnh báo",
   "ZeroRPMOverrideHelpPart1": "Một số card NVIDIA giới hạn điều khiển quạt, khiến phần mềm như Fan Control không thể đặt tốc độ dưới mức nhất định (thường là 30%).",

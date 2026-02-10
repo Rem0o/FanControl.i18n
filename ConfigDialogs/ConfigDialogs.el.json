@@ -16,7 +16,7 @@
   "Loading": "Φόρτωση",
   "Location": "Τοποθεσία: {0}",
   "MissingControlSensor": "Λείπει αισθητήρας ελέγχου",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "Λείπει η καμπύλη του ανεμιστήρα",
   "MissingSpeedSensor": "Λείπει αισθητήρας ταχύτητας",
   "MissingTemperatureSensor": "Λείπει αισθητήρας θερμοκρασίας",
   "NameConflicts": "Τα ακόλουθα στοιχεία έχουν διένεξη ονόματος με την τρέχουσα διαμόρφωσή σας:",

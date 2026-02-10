@@ -41,7 +41,7 @@
   "PlatformNotSupported": "Dein Betriebssystem wird nicht unterstützt. Windows 10 oder höher ist erforderlich.",
   "ReadEULA": "Nimm dir einen Moment Zeit, um die Endbenutzer-Lizenzvereinbarung zu lesen. Sie ist kurz, ich verspreche es. Du kannst sie später jederzeit im Abschnitt Über nachlesen.",
   "RefreshingAfterSleep": "Fan Control neu geladen nach dem Aufwachen aus dem Ruhezustand",
-  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
+  "RefreshRequested": "Von dieser Sensorquelle wurde eine Aktualisierung angefordert: {0}",
   "SpeedHelpPart1": "Der Bereich \"Drehzahlen\" zeigt jeden erkannten verfügbaren RPM-Sensor an.",
   "SpeedHelpPart2": "Beachte, dass Steuerungskarten aufgrund von Kompatibilitätsproblemen möglicherweise keine entsprechenden RPM-Karten haben.",
   "SpeedHelpPart3": "Es wird empfohlen, jeden Sensor in diesem Bereich seiner entsprechenden Steuerungskarte zuzuordnen. Verwende dazu die Option im Drei-Punkte-Menü einer Steuerungskarte und wähle die manuelle oder automatische Kopplung.",

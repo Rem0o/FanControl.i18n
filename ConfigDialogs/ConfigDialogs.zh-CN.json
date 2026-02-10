@@ -16,7 +16,7 @@
   "Loading": "正在加载",
   "Location": "位置：{0}",
   "MissingControlSensor": "缺少控制传感器",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "缺少风扇曲线",
   "MissingSpeedSensor": "缺少速度传感器",
   "MissingTemperatureSensor": "缺少温度传感器",
   "NameConflicts": "以下项目与您的当前配置存在名称冲突：",

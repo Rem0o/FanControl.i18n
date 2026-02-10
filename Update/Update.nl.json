@@ -4,6 +4,6 @@
   "DownloadingUpdater": "Updater downloaden...",
   "NewVersion": "Er is een nieuwe versie beschikbaar: {0} (huidige versie is {1})",
   "UpdateAvailable": "Er is een update beschikbaar",
-  "UpdateText": "Update",
+  "UpdateText": "Bijwerken",
   "VersionInfoError": "Kon de versie-informatie niet van de server ophalen."
 }

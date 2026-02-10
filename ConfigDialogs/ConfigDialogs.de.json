@@ -16,7 +16,7 @@
   "Loading": "Laden",
   "Location": "Speicherort: {0}",
   "MissingControlSensor": "Fehlender Steuerungssensor",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "Fehlende Lüfterkurve",
   "MissingSpeedSensor": "Fehlender Drehzahlsensor",
   "MissingTemperatureSensor": "Fehlender Temperatursensor",
   "NameConflicts": "Folgende Elemente weisen einen Namenskonflikt mit deiner derzeitigen Konfiguration auf:",

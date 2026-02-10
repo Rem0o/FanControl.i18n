@@ -16,7 +16,7 @@
   "Loading": "Betöltés",
   "Location": "Hely: {0}",
   "MissingControlSensor": "Hiányzó vezérlő",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "Hiányzó ventilátorgörbe",
   "MissingSpeedSensor": "Hiányzó sebesség-érzékelő",
   "MissingTemperatureSensor": "Hiányzó hőmérséklet-érzékelő",
   "NameConflicts": "A következő elemek neve ütközik a jelenlegi konfigurációval:",

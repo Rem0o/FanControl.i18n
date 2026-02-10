@@ -23,7 +23,7 @@
   "PSU": "電源供應器 (海盜船)",
   "SensorSettingsText": "感測器設定",
   "Storage": "儲存裝置",
-  "UpdateInterval": "Update interval",
+  "UpdateInterval": "更新間隔",
   "WantToContinue": "您要繼續嗎？",
   "Warning": "警告",
   "ZeroRPMOverrideHelpPart1": "某些 Nvidia 顯示卡設定了風扇控制限制，導致像 Fan Control 這樣的第三方軟體無法將風扇速度設定在特定百分比以下，最常見的是 30%。",

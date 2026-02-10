@@ -16,7 +16,7 @@
   "Loading": "載入中",
   "Location": "位置：{0}",
   "MissingControlSensor": "缺少控制感測器",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "缺少風扇曲線",
   "MissingSpeedSensor": "缺少轉速感測器",
   "MissingTemperatureSensor": "缺少溫度感測器",
   "NameConflicts": "以下項目與您目前的設定有名稱衝突：",

@@ -23,7 +23,7 @@
   "ForceApply": "Toepassen forceren",
   "ForceApplyEnabled": "Toepassen forceren is ingeschakeld.",
   "ForceApplyToolTip": "Pas de gewenste regelwaarde opnieuw toe telkens wanneer een afwijking wordt gedetecteerd.",
-  "InvalidCalibrationError": "Control {0} has no valid calibration and fan curve {1} is in RPM mode.",
+  "InvalidCalibrationError": "Besturing {0} heeft geen geldige kalibratie en ventilatorcurve {1} staat in RPM-modus.",
   "Manual": "Handmatig",
   "ManualControl": "Handmatige regeling",
   "ManualFanCalibration": "Handmatige ventilatorkalibratie",

@@ -16,7 +16,7 @@
   "Loading": "Wczytywanie",
   "Location": "Lokalizacja: {0}",
   "MissingControlSensor": "Brak kontrolera",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "Brak krzywej wentylatora",
   "MissingSpeedSensor": "Brak czujnika prędkości",
   "MissingTemperatureSensor": "Brak czujnika temperatury",
   "NameConflicts": "Następujące elementy powodują konflikt nazw z bieżącą konfiguracją:",

@@ -16,7 +16,7 @@
   "Loading": "Ladataan",
   "Location": "Sijainti: {0}",
   "MissingControlSensor": "Ohjausanturi puuttuu",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "Puuttuva tuuletinkäyrä",
   "MissingSpeedSensor": "Nopeusanturi puuttuu",
   "MissingTemperatureSensor": "Lämpötila-anturi puuttuu",
   "NameConflicts": "Seuraavien kohteiden nimet ovat ristiriidassa nykyisten määritystesi kanssa:",

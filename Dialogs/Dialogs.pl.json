@@ -41,7 +41,7 @@
   "PlatformNotSupported": "Twoja platforma nie jest obsługiwana. Wymagany jest Windows 10 lub nowszy.",
   "ReadEULA": "Przeczytaj umowę licencyjną użytkownika końcowego. Jest krótka, obiecuję. Możesz ją zawsze przeczytać później w sekcji \"O programie\".",
   "RefreshingAfterSleep": "Fan Control odświeża się po wybudzeniu",
-  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
+  "RefreshRequested": "Źródło czujników zażądało odświeżenia: {0}",
   "SpeedHelpPart1": "Sekcja \"Prędkości\" pokazuje wszystkie dostępne czujniki RPM, które zostały wykryte.",
   "SpeedHelpPart2": "Pamiętaj, że każda karta kontrolera może, ale nie musi mieć odpowiadającej karty RPM z powodu kompatybilności.",
   "SpeedHelpPart3": "Zaleca się sparowanie każdego czujnika w tej sekcji z odpowiadającą kartą kontrolera. Użyj opcji z menu z trzema kropkami na karcie kontrolera, aby to zrobić i wybierz ręczne lub automatyczne parowanie.",

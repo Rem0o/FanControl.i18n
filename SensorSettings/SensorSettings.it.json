@@ -23,7 +23,7 @@
   "PSU": "PSU (Corsair)",
   "SensorSettingsText": "Impostazioni sensore",
   "Storage": "Archiviazione",
-  "UpdateInterval": "Update interval",
+  "UpdateInterval": "Intervallo di aggiornamento",
   "WantToContinue": "Vuoi continuare?",
   "Warning": "Attenzione",
   "ZeroRPMOverrideHelpPart1": "Alcune schede Nvidia hanno limiti di controllo della ventola che impediscono a software di terze parti, come Fan Control, di impostare velocità della ventola sotto una % specifica, più comunemente il 30%.",

@@ -16,7 +16,7 @@
   "Loading": "Caricamento",
   "Location": "Posizione: {0}",
   "MissingControlSensor": "Sensore di controllo mancante",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "Curva ventola mancante",
   "MissingSpeedSensor": "Sensore di velocità mancante",
   "MissingTemperatureSensor": "Sensore di temperatura mancante",
   "NameConflicts": "I seguenti elementi hanno un conflitto di nome con la configurazione corrente:",

@@ -22,7 +22,7 @@
   "EnableDisableSoftwareControl": "Aktiver softwarekontrol",
   "ForceApply": "Tving anvendelse",
   "ForceApplyEnabled": "Tving anvendelse er aktiveret.",
-  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
+  "ForceApplyToolTip": "Anvend den ønskede kontrolværdi igen, hver gang der konstateres en uoverensstemmelse.",
   "InvalidCalibrationError": "Kontrol {0} har ingen gyldig kalibrering, og blæserkurve {1} er i RPM-tilstand.",
   "Manual": "Manuel",
   "ManualControl": "Manuel kontrol",

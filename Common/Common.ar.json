@@ -8,7 +8,7 @@
   "Delete": "حذف",
   "Discard": "تجاهل",
   "Edit": "تحرير",
-  "Error": "Error",
+  "Error": "خطأ",
   "Exit": "الخروج",
   "Hide": "إخفاء",
   "Info": "معلومات",
@@ -24,7 +24,7 @@
   "Reset": "إعادة تعيين",
   "Save": "الحفظ",
   "SecondUnit": "ثانية",
-  "Success": "Success",
-  "Warning": "Warning",
+  "Success": "نجاح",
+  "Warning": "تحذير",
   "Yes": "نعم"
 }

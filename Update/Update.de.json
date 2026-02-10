@@ -4,6 +4,6 @@
   "DownloadingUpdater": "Updater wird heruntergeladen…",
   "NewVersion": "Eine neue Version ist verfügbar: {0} (derzeit genutzt: {1})",
   "UpdateAvailable": "Es ist ein Update verfügbar",
-  "UpdateText": "Update",
+  "UpdateText": "Aktualisieren",
   "VersionInfoError": "Versionsinfo konnte nicht vom Server geladen werden."
 }

@@ -16,7 +16,7 @@
   "Loading": "Se încarcă",
   "Location": "Locație: {0}",
   "MissingControlSensor": "Lipsește senzorul de control",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "Curbă de ventilator lipsă",
   "MissingSpeedSensor": "Lipsește senzorul de viteză",
   "MissingTemperatureSensor": "Lipsește senzorul de temperatură",
   "NameConflicts": "Următoarele elemente au conflicte de nume cu configurația curentă:",

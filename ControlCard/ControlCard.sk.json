@@ -22,7 +22,7 @@
   "EnableDisableSoftwareControl": "Povolenie ovládania softvérom",
   "ForceApply": "Vynútiť",
   "ForceApplyEnabled": "Vynútenie je zapnuté",
-  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
+  "ForceApplyToolTip": "Znova použiť požadovanú hodnotu riadenia vždy, keď sa zistí nesúlad.",
   "InvalidCalibrationError": "Regulátor {0} nemá platnú kalibráciu a krivka ventilátora {1} je v režime otáčok.",
   "Manual": "Manuálne",
   "ManualControl": "Manuálne ovládanie",

@@ -16,7 +16,7 @@
   "Loading": "読み込み中",
   "Location": "場所: {0}",
   "MissingControlSensor": "制御センサーが見つかりません",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "ファンカーブがありません",
   "MissingSpeedSensor": "速度センサーが見つかりません",
   "MissingTemperatureSensor": "温度センサーが見つかりません",
   "NameConflicts": "次の項目は現在の設定と名前が重複しています：",

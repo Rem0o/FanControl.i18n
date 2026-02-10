@@ -22,7 +22,7 @@
   "EnableDisableSoftwareControl": "Yazılım kontrolünü etkinleştir",
   "ForceApply": "Zorla uygula",
   "ForceApplyEnabled": "Zorla uygulama etkinleştirildi.",
-  "ForceApplyToolTip": "Reapply the desired control value everytime a discrepancy is detected.",
+  "ForceApplyToolTip": "Her tutarsızlık tespit edildiğinde istenen kontrol değerini yeniden uygula.",
   "InvalidCalibrationError": "Kontrol {0}'ın geçerli bir kalibrasyonu yok ve {1} fan eğrisi RPM modundadır.",
   "Manual": "Manuel",
   "ManualControl": "Manuel kontrol",

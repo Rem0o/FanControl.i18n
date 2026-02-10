@@ -16,7 +16,7 @@
   "Loading": "Indlæser",
   "Location": "Placering: {0}",
   "MissingControlSensor": "Manglende kontrolsensor",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "Manglende blæserkurve",
   "MissingSpeedSensor": "Manglende hastighedssensor",
   "MissingTemperatureSensor": "Manglende temperatursensor",
   "NameConflicts": "Følgende elementer har navnekonflikter med din nuværende konfiguration:",

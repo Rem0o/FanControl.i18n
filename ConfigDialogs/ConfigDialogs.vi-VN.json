@@ -16,7 +16,7 @@
   "Loading": "Đang tải",
   "Location": "Vị trí: {0}",
   "MissingControlSensor": "Thiếu cảm biến điều khiển",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "Thiếu đường cong quạt",
   "MissingSpeedSensor": "Thiếu cảm biến tốc độ",
   "MissingTemperatureSensor": "Thiếu cảm biến nhiệt độ",
   "NameConflicts": "Các mục sau xung đột tên với cấu hình hiện tại của bạn:",

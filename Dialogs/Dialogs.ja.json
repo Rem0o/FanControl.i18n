@@ -41,7 +41,7 @@
   "PlatformNotSupported": "このプラットフォームはサポートされていません。Windows 10以降が必要です",
   "ReadEULA": "エンドユーザーライセンス契約（EULA）を読んでみてください。短いので安心です。後で「About」セクションからも確認できます",
   "RefreshingAfterSleep": "スリープ復帰後にFan Controlを更新中",
-  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
+  "RefreshRequested": "このセンサーソースからリフレッシュが要求されました: {0}",
   "SpeedHelpPart1": "「回転速度」セクションには、検出されたすべてのRPMセンサーが表示されます",
   "SpeedHelpPart2": "各制御カードに対応するRPMカードがない場合もあります（互換性による）",
   "SpeedHelpPart3": "推奨される設定として、このセクションの各センサーを対応する制御カードと「ペアリング」してください。制御カードのメニュー（⋮）から、手動または自動ペアリングを選択できます",

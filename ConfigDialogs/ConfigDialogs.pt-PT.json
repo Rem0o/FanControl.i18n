@@ -16,7 +16,7 @@
   "Loading": "A carregar",
   "Location": "Localização: {0}",
   "MissingControlSensor": "Controlador não encontrado",
-  "MissingFanCurve": "Missing fan curve",
+  "MissingFanCurve": "Curva de ventoinha em falta",
   "MissingSpeedSensor": "Sensor de velocidade não encontrado",
   "MissingTemperatureSensor": "Sensor de temperatura não encontrado",
   "NameConflicts": "Os seguintes itens têm conflito de nome com a configuração atual:",

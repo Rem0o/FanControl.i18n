@@ -41,7 +41,7 @@
   "PlatformNotSupported": "Platformunuz desteklenmiyor. Windows 10 veya üzeri gerekiyor.",
   "ReadEULA": "Son kullanıcı lisans sözleşmesini okumak için bir dakika ayırın. Kısa, söz veriyorum. Her zaman Hakkında bölümünde daha sonra okuyabilirsiniz.",
   "RefreshingAfterSleep": "Fan Control, uyku modundan sonra yenileniyor",
-  "RefreshRequested": "A refresh was requested by this sensors source: {0}",
+  "RefreshRequested": "Bu sensör kaynağı tarafından yenileme istendi: {0}",
   "SpeedHelpPart1": "\"Hızlar\" bölümü, tespit edilen tüm mevcut RPM sensörlerini gösterir.",
   "SpeedHelpPart2": "Uyumluluk nedenlerinden dolayı her kontrol kartının karşılık gelen bir RPM kartı olmayabileceğini unutmayın.",
   "SpeedHelpPart3": "Bu bölümdeki her sensörü karşılık gelen kontrol kartına \"eşleştirmeniz\" önerilir. Bunu yapmak için bir kontrol kartının üç nokta menüsü seçeneğini kullanın ve manuel veya otomatik eşleştirmeyi seçin.",
