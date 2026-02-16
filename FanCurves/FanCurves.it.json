@@ -2,6 +2,7 @@
   "Auto": "Auto",
   "AutoDescription": "La curva automatica della ventola si adatterà automaticamente alla temperatura sotto carico.",
   "CantBeAddedToMix": "\"{0}\" non può essere aggiunto al mix.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Piatta",
   "FlatDescription": "La curva piatta applica una % di velocità fissa.",
   "FunctionAverage": "Media di tutte le curve della ventola selezionate",

@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "تجاوز منحنى أجهزة Nvidia 0٪ من الأجهزة",
   "PluginInstalledSuccess": "تم تثبيت المكون الإضافي {0} بنجاح",
   "Plugins": "المكونات الإضافية",
+  "PowerMonitor": "Power Monitor",
   "PSU": "PSU (كورسير)",
   "SensorSettingsText": "إعدادات المستشعر",
   "Storage": "التخزين",

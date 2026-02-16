@@ -2,6 +2,7 @@
   "Auto": "Otomatik",
   "AutoDescription": "Otomatik fan eğrisi, verilen yük sıcaklığına uyacak şekilde otomatik olarak ayarlanacaktır.",
   "CantBeAddedToMix": "\"{0}\" karışıma eklenemez.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Düz",
   "FlatDescription": "Düz fan eğrisi sabit bir % uygular.",
   "FunctionAverage": "Seçilen tüm fan eğrilerinin ortalaması",

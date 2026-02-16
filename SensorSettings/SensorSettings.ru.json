@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Переопределение аппаратной кривой Nvidia 0% RPM",
   "PluginInstalledSuccess": "Плагин {0} успешно установлен",
   "Plugins": "Плагины",
+  "PowerMonitor": "Power Monitor",
   "PSU": "БП (Corsair)",
   "SensorSettingsText": "Настройки датчиков",
   "Storage": "Хранилище",

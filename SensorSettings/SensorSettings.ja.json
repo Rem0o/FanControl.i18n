@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Nvidia 0%ハードウェア曲線の上書",
   "PluginInstalledSuccess": "プラグイン {0} が正常にインストールされました",
   "Plugins": "プラグイン",
+  "PowerMonitor": "Power Monitor",
   "PSU": "PSU（Corsair）",
   "SensorSettingsText": "センサー設定",
   "Storage": "ストレージ",

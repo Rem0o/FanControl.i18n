@@ -2,6 +2,7 @@
   "Auto": "Auto",
   "AutoDescription": "De automatische ventilatorcurve past zich automatisch aan de gegeven belastingtemperatuur aan.",
   "CantBeAddedToMix": "\"{0}\" kan niet aan de mix worden toegevoegd.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Vlak",
   "FlatDescription": "Bij de vlakke ventilatorcurve wordt een vast percentage toegepast.",
   "FunctionAverage": "Gemiddelde van alle geselecteerde ventilatorcurven",

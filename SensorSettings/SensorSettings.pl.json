@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Nadpisywwanie krzywej sprzętowej Nvidia 0% RPM",
   "PluginInstalledSuccess": "Wtyczka {0} została zainstalowana",
   "Plugins": "Wtyczki",
+  "PowerMonitor": "Power Monitor",
   "PSU": "Zasilacz (Corsair)",
   "SensorSettingsText": "Ustawienia czujników",
   "Storage": "Pamięć masowa",

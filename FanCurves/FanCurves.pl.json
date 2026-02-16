@@ -2,6 +2,7 @@
   "Auto": "Automatyczna",
   "AutoDescription": "Automatyczna krzywa wentylatora dostosowuje się samodzielnie do wskazanego obciążenia temperaturowego.",
   "CantBeAddedToMix": "\"{0}\" nie może być dodany do krzywej mieszanej.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Płaska",
   "FlatDescription": "Krzywa płaska wentylatora stosuje stały procent.",
   "FunctionAverage": "Średnia wybranych krzywych wentylatorów",

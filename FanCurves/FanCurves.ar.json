@@ -2,6 +2,7 @@
   "Auto": "السيارات",
   "AutoDescription": "سيقوم منحنى المروحة التلقائي بضبط نفسه تلقائياً لمطابقة درجة حرارة الحمل المحدد.",
   "CantBeAddedToMix": "لا يمكن إضافة \"{0}\" إلى المزيج.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "مسطحة",
   "FlatDescription": "يطبق منحنى المروحة المسطحة نسبة مئوية ثابتة.",
   "FunctionAverage": "متوسط جميع منحنيات المروحة المختارة",

@@ -2,6 +2,7 @@
   "Auto": "Auto",
   "AutoDescription": "Curba automată a ventilatorului se ajustează automat pentru a corespunde temperaturii de sarcină specificate.",
   "CantBeAddedToMix": "\"{0}\" nu poate fi adăugat în mix.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Fixă",
   "FlatDescription": "Curba fixă a ventilatorului aplică un % fix.",
   "FunctionAverage": "Media tuturor curbelor de ventilator selectate",

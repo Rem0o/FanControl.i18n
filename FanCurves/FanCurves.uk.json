@@ -2,6 +2,7 @@
   "Auto": "Авто",
   "AutoDescription": "Автоматична крива вентилятора автоматично підлаштовується під задану температуру навантаження.",
   "CantBeAddedToMix": "\"{0}\" не може бути додано до кривої \"Функція\"",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Плоска",
   "FlatDescription": "Плоска крива вентилятора встановлює фіксований % обертів.",
   "FunctionAverage": "Середнє значення всіх вибраних кривих вентилятора",

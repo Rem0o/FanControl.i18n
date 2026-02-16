@@ -2,6 +2,7 @@
   "Auto": "自動",
   "AutoDescription": "自動ファン曲線は、設定された負荷温度に応じて自動的に調整されます",
   "CantBeAddedToMix": "\"{0}\" はミックスに追加できません",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "定値",
   "FlatDescription": "定値ファン曲線は、一定の回転率（%）を適用します",
   "FunctionAverage": "選択されたファン曲線の平均値",

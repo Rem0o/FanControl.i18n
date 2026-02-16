@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Autoriser un capteur manquant",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Fichier",
   "FileDescription": "Le capteur de fichier lit les données à partir d'un fichier donné.",
   "FileSensorNotExists": "Le capteur de fichier avec le chemin \"{0}\" n'existe pas.",

@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Nvidia 0% donanım eğrisi geçersiz kılma",
   "PluginInstalledSuccess": "{0} eklentisi başarıyla yüklendi",
   "Plugins": "Eklentiler",
+  "PowerMonitor": "Power Monitor",
   "PSU": "PSU (Corsair)",
   "SensorSettingsText": "Sensör ayarları",
   "Storage": "Depolama",

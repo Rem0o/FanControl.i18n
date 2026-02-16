@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Nvidia 0% 硬件曲线覆盖",
   "PluginInstalledSuccess": "插件 {0} 安装成功",
   "Plugins": "插件",
+  "PowerMonitor": "Power Monitor",
   "PSU": "模组电源（海盗船）",
   "SensorSettingsText": "传感器设置",
   "Storage": "存储",

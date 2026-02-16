@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Nvidian 0 % laitteistokäyrän ohitus",
   "PluginInstalledSuccess": "Lisäosa {0} asennettiin",
   "Plugins": "Lisäosat",
+  "PowerMonitor": "Power Monitor",
   "PSU": "Virtalähde (Corsair)",
   "SensorSettingsText": "Sensoriastukset",
   "Storage": "Tallennuslaitteet",

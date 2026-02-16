@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Allow missing sensor",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "File",
   "FileDescription": "The file custom sensor reads data from a given file.",
   "FileSensorNotExists": "File sensor with path \"{0}\" does not exists.",

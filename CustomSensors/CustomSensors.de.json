@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Fehlenden Sensor erlauben",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Datei",
   "FileDescription": "Der benutzerdefinierte Dateisensor liest Daten aus einer angegebenen Datei.",
   "FileSensorNotExists": "Dateisensor mit dem Pfad \"{0}\" existiert nicht.",

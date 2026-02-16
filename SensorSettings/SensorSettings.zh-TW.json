@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Nvidia 0% 硬體曲線覆蓋",
   "PluginInstalledSuccess": "插件 {0} 安裝成功",
   "Plugins": "插件",
+  "PowerMonitor": "Power Monitor",
   "PSU": "電源供應器 (海盜船)",
   "SensorSettingsText": "感測器設定",
   "Storage": "儲存裝置",

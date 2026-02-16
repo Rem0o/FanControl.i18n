@@ -2,6 +2,7 @@
   "Auto": "אוטומטי",
   "AutoDescription": "עקומת המאוורר האוטומטית תתכייל אוטומטית כדי להתאים לטמפ' העומס הנתונה.",
   "CantBeAddedToMix": "\"{0}\" לא יכול להתווסף למיקס.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "שטוח",
   "FlatDescription": "עקומת המאוורר שטוחה ומחילה אחוז קבוע.",
   "FunctionAverage": "ממוצע של כל עקומות המאוורר הנבחרות",

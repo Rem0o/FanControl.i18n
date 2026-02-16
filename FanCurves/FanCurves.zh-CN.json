@@ -2,6 +2,7 @@
   "Auto": "自动",
   "AutoDescription": "自动风扇曲线会自动调整以匹配指定负载的温度。",
   "CantBeAddedToMix": "“{0}”不能添加到混合。",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "固定",
   "FlatDescription": "固定风扇曲线应用固定的百分比。",
   "FunctionAverage": "选定的所有风扇曲线的平均值",

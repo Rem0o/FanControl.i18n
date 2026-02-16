@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Дазволіць адсутнічаючы датчык",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Файл",
   "FileDescription": "Датчык 'Файл' счытвае дадзеныя з указанай файлавай сістэмы.",
   "FileSensorNotExists": "Датчык файла па шляху \"{0}\" не існуе.",

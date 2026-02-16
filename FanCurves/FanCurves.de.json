@@ -2,6 +2,7 @@
   "Auto": "Auto",
   "AutoDescription": "Die automatische Lüfterkurve passt sich automatisch an die gegebene Lasttemperatur an.",
   "CantBeAddedToMix": "\"{0}\" kann nicht zum Mix hinzugefügt werden.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Flach",
   "FlatDescription": "Die flache Lüfterkurve wendet einen festen %-Wert an.",
   "FunctionAverage": "Durchschnitt aller ausgewählten Lüfterkurven",

@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Přepsání hardwarové křivky Nvidia 0%",
   "PluginInstalledSuccess": "Plugin {0} úspěšně nainstalován",
   "Plugins": "Pluginy",
+  "PowerMonitor": "Power Monitor",
   "PSU": "Zdroj (Corsair)",
   "SensorSettingsText": "Nastavení senzoru",
   "Storage": "Úložiště",

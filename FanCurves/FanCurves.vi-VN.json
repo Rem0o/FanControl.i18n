@@ -2,6 +2,7 @@
   "Auto": "Tự động",
   "AutoDescription": "Đường cong tự động sẽ tự điều chỉnh để khớp với nhiệt độ tải đặt ra.",
   "CantBeAddedToMix": "\"{0}\" không thể thêm vào trộn.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Phẳng",
   "FlatDescription": "Đường cong Phẳng áp dụng một tỷ lệ % cố định.",
   "FunctionAverage": "Trung bình của tất cả đường cong đã chọn",

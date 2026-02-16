@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "السماح بجهاز استشعار مفقود",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "ملف",
   "FileDescription": "يقرأ المستشعر المخصص للملف البيانات من ملف معين.",
   "FileSensorNotExists": "مستشعر الملف مع المسار \"{0}\" غير موجود.",

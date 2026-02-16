@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Дозволити відсутній датчик",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Файл",
   "FileDescription": "Спеціальний датчик \"Файл\" зчитує дані з заданого файлу.",
   "FileSensorNotExists": "Спеціальний датчик \"Файл\" з шляхом \"{0}\" не існує.",

@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Sovrascrittura curva hardware Nvidia 0%",
   "PluginInstalledSuccess": "Plugin {0} installato con successo",
   "Plugins": "Plugin",
+  "PowerMonitor": "Power Monitor",
   "PSU": "PSU (Corsair)",
   "SensorSettingsText": "Impostazioni sensore",
   "Storage": "Archiviazione",

@@ -2,6 +2,7 @@
   "Auto": "Automaticky",
   "AutoDescription": "Automatická krivka ventilátora sa automaticky prispôsobí danej teplote zaťaženia.",
   "CantBeAddedToMix": "\"{0}\" nie je možné pridať do mixu.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Plochá",
   "FlatDescription": "Plochá krivka ventilátora používa pevné %.",
   "FunctionAverage": "Priemer všetkých vybraných kriviek ventilátorov",

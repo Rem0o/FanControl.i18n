@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Permitir sensor faltante",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Archivo",
   "FileDescription": "El sensor personalizado del archivo lee datos desde el archivo.",
   "FileSensorNotExists": "El sensor de archivo con ruta \"{0}\" no existe.",

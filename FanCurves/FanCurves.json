@@ -2,6 +2,7 @@
   "Auto": "Auto",
   "AutoDescription": "The auto fan curve will automatically adjust itself to match the given load temperature.",
   "CantBeAddedToMix": "\"{0}\" can't be added to the mix.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Flat",
   "FlatDescription": "The Flat fan curve applies a fixed %.",
   "FunctionAverage": "Average of all the selected fan curves",

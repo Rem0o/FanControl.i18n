@@ -2,6 +2,7 @@
   "Auto": "Auto",
   "AutoDescription": "La curva auto se ajustará automáticamente para adaptarse a la temperatura.",
   "CantBeAddedToMix": "\"{0}\" no se puede añadir al mix.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Plana",
   "FlatDescription": "La curva Plana aplica un % fijo.",
   "FunctionAverage": "Media de todas las curvas seleccionadas",

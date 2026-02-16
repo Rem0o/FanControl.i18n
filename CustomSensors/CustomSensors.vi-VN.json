@@ -1,5 +1,6 @@
-{
+﻿{
   "AllowMissingSensor": "Cho phép thiếu cảm biến",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Tệp",
   "FileDescription": "Cảm biến tệp sẽ đọc dữ liệu từ một tệp cho trước.",
   "FileSensorNotExists": "Cảm biến tệp với đường dẫn \"{0}\" không tồn tại.",

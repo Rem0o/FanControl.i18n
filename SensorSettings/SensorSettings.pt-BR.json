@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Substituição da curva de Zero RPM Nvidia",
   "PluginInstalledSuccess": "Plugin {0} instalado com sucesso",
   "Plugins": "Plugins",
+  "PowerMonitor": "Power Monitor",
   "PSU": "Fonte de Alimentação (Corsair)",
   "SensorSettingsText": "Configurações de sensor",
   "Storage": "Armazenamento",

@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "누락된 센서 허용",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "파일",
   "FileDescription": "파일 사용자 지정 센서는 주어진 파일에서 데이터를 읽습니다.",
   "FileSensorNotExists": "경로가 \"{0}\"인 파일 센서가 존재하지 않습니다.",

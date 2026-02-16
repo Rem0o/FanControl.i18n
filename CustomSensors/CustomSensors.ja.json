@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "センサーの欠落を許可",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "ファイル",
   "FileDescription": "ファイルカスタムセンサは、指定されたファイルからデータを取得します",
   "FileSensorNotExists": "パス \"{0}\" のファイルセンサが存在しません",

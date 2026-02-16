@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Suprascriere curbă hardware NVIDIA 0%",
   "PluginInstalledSuccess": "Pluginul {0} a fost instalat cu succes",
   "Plugins": "Pluginuri",
+  "PowerMonitor": "Power Monitor",
   "PSU": "Sursă (doar Corsair)",
   "SensorSettingsText": "Setări senzori",
   "Storage": "Stocare",

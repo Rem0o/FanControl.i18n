@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Ghi đè chế độ phần cứng NVIDIA 0% RPM",
   "PluginInstalledSuccess": "Đã cài đặt plugin {0} thành công",
   "Plugins": "Plugin",
+  "PowerMonitor": "Power Monitor",
   "PSU": "Nguồn PSU (chỉ Corsair)",
   "SensorSettingsText": "Cài đặt cảm biến",
   "Storage": "Lưu trữ",

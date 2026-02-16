@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Nvidia 0% 하드웨어 곡선 재정의",
   "PluginInstalledSuccess": "플러그인 {0}이(가) 설치되었습니다",
   "Plugins": "플러그인",
+  "PowerMonitor": "Power Monitor",
   "PSU": "파워 (Corsair)",
   "SensorSettingsText": "센서 설정",
   "Storage": "저장 장치",

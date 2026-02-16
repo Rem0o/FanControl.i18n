@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Zezwól na brakujący czujnik",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Plik",
   "FileDescription": "Czujnik pliku odczytuje dane ze wskazanego pliku.",
   "FileSensorNotExists": "Czujnik pliku o ścieżce \"{0}\" nie istnieje.",

@@ -2,6 +2,7 @@
   "Auto": "자동",
   "AutoDescription": "자동 팬 곡선은 주어진 부하 온도에 맞춰 자동으로 조정됩니다.",
   "CantBeAddedToMix": "\"{0}\"은(는) 혼합에 추가할 수 없습니다.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "평면",
   "FlatDescription": "평평한 팬 곡선은 고정된 %를 적용합니다.",
   "FunctionAverage": "선택된 모든 팬 곡선의 평균",

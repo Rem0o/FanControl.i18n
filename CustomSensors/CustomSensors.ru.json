@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Разрешить отсутствие датчика",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Файл",
   "FileDescription": "Пользовательский датчик 'Файл' считывает данные из указанного файла.",
   "FileSensorNotExists": "Датчик файла с путём \"{0}\" не существует.",

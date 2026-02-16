@@ -2,6 +2,7 @@
   "Auto": "Auto",
   "AutoDescription": "Den automatiske blæserkurve justerer sig automatisk for at matche den angivne belastningstemperatur.",
   "CantBeAddedToMix": "\"{0}\" kan ikke tilføjes til mixet.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Flad",
   "FlatDescription": "Den flade blæserkurve anvender en fast %.",
   "FunctionAverage": "Gennemsnit af alle de valgte blæserkurver",

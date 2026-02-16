@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Nvidia 0% hardwarekurve tilsidesættelse",
   "PluginInstalledSuccess": "Plugin {0} blev installeret med succes",
   "Plugins": "Plugins",
+  "PowerMonitor": "Power Monitor",
   "PSU": "PSU (Corsair)",
   "SensorSettingsText": "Sensorindstillinger",
   "Storage": "Lager",

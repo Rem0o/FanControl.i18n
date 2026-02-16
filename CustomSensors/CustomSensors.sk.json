@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Povoliť chýbajúci senzor",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Súbor",
   "FileDescription": "Vlastný snímač súboru číta dáta zo zadaného súboru.",
   "FileSensorNotExists": "Snímač súboru s cestou \"{0}\" neexistuje.",

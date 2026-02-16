@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Nvidia 0%-os hardvergörbe felülírása",
   "PluginInstalledSuccess": "A(z) \"{0}\" plugin sikeresen telepítve",
   "Plugins": "Pluginok",
+  "PowerMonitor": "Power Monitor",
   "PSU": "PSU (Corsair)",
   "SensorSettingsText": "Érzékelő beállítások",
   "Storage": "Tároló",

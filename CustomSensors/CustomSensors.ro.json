@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Permite senzor lipsă",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Fișier",
   "FileDescription": "Senzorul personalizat de tip fișier citește date dintr-un fișier specificat.",
   "FileSensorNotExists": "Senzorul de fișier cu calea \"{0}\" nu există.",

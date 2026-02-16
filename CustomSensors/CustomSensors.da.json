@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Tillad manglende sensor",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Fil",
   "FileDescription": "Den brugerdefinerede filsensor læser data fra en given fil.",
   "FileSensorNotExists": "Filsensor med stien \"{0}\" eksisterer ikke.",

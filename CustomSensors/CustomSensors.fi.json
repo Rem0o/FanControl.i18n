@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Salli puuttuva anturi",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Tiedosto",
   "FileDescription": "Mukautettu \"Tiedosto\"-anturi seuraa määritetyn tiedoston tietoja.",
   "FileSensorNotExists": "Sijainnin \"{0}\" tiedostoa ei löydy.",

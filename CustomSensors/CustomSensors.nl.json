@@ -1,5 +1,6 @@
 ﻿{
   "AllowMissingSensor": "Ontbrekende sensor toestaan",
+  "DuplicateIdentifiers": "The following identifiers are duplicated: {0}",
   "File": "Bestand",
   "FileDescription": "De aangepaste bestandssensor leest gegevens uit een bepaald bestand.",
   "FileSensorNotExists": "Bestandssensor met pad \"{0}\" bestaat niet.",

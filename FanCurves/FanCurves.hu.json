@@ -2,6 +2,7 @@
   "Auto": "Auto",
   "AutoDescription": "Az Auto ventilátor-görbe automatikusan az adott terhelési hőmérséklethez igazodik.",
   "CantBeAddedToMix": "\"{0}\" nem adható hozzá a Mix-hez.",
+  "DuplicateIdentifiers": "The following fan curve names are duplicated: {0}",
   "Flat": "Lapos",
   "FlatDescription": "A Lapos ventilátor-görbe fix %-ot alkalmaz.",
   "FunctionAverage": "Az összes kiválasztott ventilátor-görbe átlaga",

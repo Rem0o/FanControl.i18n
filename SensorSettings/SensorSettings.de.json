@@ -20,6 +20,7 @@
   "NvdiaZeroRPMOverride": "Überschreiben von Nvidias 0-%-Hardware-Kurve",
   "PluginInstalledSuccess": "Plugin {0} erfolgreich installiert",
   "Plugins": "Plugins",
+  "PowerMonitor": "Power Monitor",
   "PSU": "Netzteil (Corsair)",
   "SensorSettingsText": "Sensoreinstellungen",
   "Storage": "Massenspeicher",
