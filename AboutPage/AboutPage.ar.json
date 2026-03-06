@@ -5,6 +5,8 @@
   "Email": "البريد الإلكتروني",
   "EULALicenses": "اتفاقية ترخيص المستخدم النهائي/التراخيص",
   "OfficialWebsite": "الموقع الرسمي",
+  "PayPal": "PayPal",
   "Sponsor": "الراعي",
+  "Stripe": "Stripe",
   "VersionStringFormat": "الإصدار: {0}"
 }

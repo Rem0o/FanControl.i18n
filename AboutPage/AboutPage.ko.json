@@ -5,6 +5,8 @@
   "Email": "이메일",
   "EULALicenses": "EULA/라이선스",
   "OfficialWebsite": "공식 웹사이트",
+  "PayPal": "PayPal",
   "Sponsor": "후원",
+  "Stripe": "Stripe",
   "VersionStringFormat": "버전: {0}"
 }

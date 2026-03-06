@@ -5,6 +5,8 @@
   "Email": "Sähköposti",
   "EULALicenses": "Käyttöehdot",
   "OfficialWebsite": "Virallinen sivusto",
+  "PayPal": "PayPal",
   "Sponsor": "Sponsoroi",
+  "Stripe": "Stripe",
   "VersionStringFormat": "Versio: {0}"
 }

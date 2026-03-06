@@ -5,6 +5,8 @@
   "Email": "Пошта",
   "EULALicenses": "Ліцэнзія",
   "OfficialWebsite": "Афіцыйны сайт",
+  "PayPal": "PayPal",
   "Sponsor": "Спонсар",
+  "Stripe": "Stripe",
   "VersionStringFormat": "Версія: {0}"
 }

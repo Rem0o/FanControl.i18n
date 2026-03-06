@@ -5,6 +5,8 @@
   "Email": "Електронна пошта",
   "EULALicenses": "EULA",
   "OfficialWebsite": "Офіційний сайт",
+  "PayPal": "PayPal",
   "Sponsor": "Спонсорувати",
+  "Stripe": "Stripe",
   "VersionStringFormat": "Версія: {0}"
 }

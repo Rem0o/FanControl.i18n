@@ -5,6 +5,8 @@
   "Email": "電子メール",
   "EULALicenses": "利用規約",
   "OfficialWebsite": "公式ホームページ",
+  "PayPal": "PayPal",
   "Sponsor": "支援する",
+  "Stripe": "Stripe",
   "VersionStringFormat": "バージョン: {0}"
 }

@@ -5,6 +5,8 @@
   "Email": "電子郵件",
   "EULALicenses": "使用者協議/授權",
   "OfficialWebsite": "官方網站",
+  "PayPal": "PayPal",
   "Sponsor": "贊助者",
+  "Stripe": "Stripe",
   "VersionStringFormat": "版本：{0}"
 }

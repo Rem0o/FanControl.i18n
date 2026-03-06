@@ -5,6 +5,8 @@
   "Email": "Email",
   "EULALicenses": "EULA",
   "OfficialWebsite": "Hivatalos weboldal",
+  "PayPal": "PayPal",
   "Sponsor": "Támogatás",
+  "Stripe": "Stripe",
   "VersionStringFormat": "Verzió: {0}"
 }

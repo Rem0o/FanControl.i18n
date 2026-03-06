@@ -5,6 +5,8 @@
   "Email": "E-mail",
   "EULALicenses": "EULA",
   "OfficialWebsite": "Sito ufficiale",
+  "PayPal": "PayPal",
   "Sponsor": "Sponsor",
+  "Stripe": "Stripe",
   "VersionStringFormat": "Versione: {0}"
 }

@@ -5,6 +5,8 @@
   "Email": "דוא\"ל",
   "EULALicenses": "הסכם רישוי למשתמש קצה/רישויים",
   "OfficialWebsite": "אתר רשמי",
+  "PayPal": "PayPal",
   "Sponsor": "ספונסר",
+  "Stripe": "Stripe",
   "VersionStringFormat": "גרסה: {0}"
 }

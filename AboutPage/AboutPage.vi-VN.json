@@ -5,6 +5,8 @@
   "Email": "Email",
   "EULALicenses": "Thỏa thuận sử dụng / Giấy phép",
   "OfficialWebsite": "Trang web chính thức",
+  "PayPal": "PayPal",
   "Sponsor": "Nhà tài trợ",
+  "Stripe": "Stripe",
   "VersionStringFormat": "Phiên bản: {0}"
 }

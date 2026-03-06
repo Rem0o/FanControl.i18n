@@ -5,6 +5,8 @@
   "Email": "E-posta",
   "EULALicenses": "EULA",
   "OfficialWebsite": "Resmi web sitesi",
+  "PayPal": "PayPal",
   "Sponsor": "Destekçi",
+  "Stripe": "Stripe",
   "VersionStringFormat": "Sürüm: {0}"
 }

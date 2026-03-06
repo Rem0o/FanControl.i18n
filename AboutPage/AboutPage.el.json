@@ -5,6 +5,8 @@
   "Email": "Ηλ. ταχυδρομείο",
   "EULALicenses": "EULA",
   "OfficialWebsite": "Ιστοσελίδα",
+  "PayPal": "PayPal",
   "Sponsor": "Χορηγεία",
+  "Stripe": "Stripe",
   "VersionStringFormat": "Έκδοση: {0}"
 }

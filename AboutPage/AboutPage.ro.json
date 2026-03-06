@@ -1,10 +1,12 @@
-{
+﻿{
   "Credit": "Credite",
   "Documentation": "Documentație",
   "Donate": "Donează",
   "Email": "Email",
   "EULALicenses": "EULA/Licențe",
   "OfficialWebsite": "Website oficial",
+  "PayPal": "PayPal",
   "Sponsor": "Sponsor",
+  "Stripe": "Stripe",
   "VersionStringFormat": "Versiune: {0}"
 }

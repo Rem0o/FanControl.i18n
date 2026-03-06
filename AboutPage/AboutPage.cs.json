@@ -5,6 +5,8 @@
   "Email": "Email",
   "EULALicenses": "LICENČNÍ SMLOUVA EULA",
   "OfficialWebsite": "Oficiální webové stránky",
+  "PayPal": "PayPal",
   "Sponsor": "Sponzor",
+  "Stripe": "Stripe",
   "VersionStringFormat": "Verze: {0}"
 }
