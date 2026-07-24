@@ -27,10 +27,10 @@
   "UpdateInterval": "更新間隔",
   "WantToContinue": "続行してもよろしいですか？",
   "Warning": "警告",
-  "ZeroRPMOverrideHelpPart1": "Some NVIDIA cards have set fan control limits where third party software like Fan Control can't set the fan speed below a specific %, most commonly 30%.",
-  "ZeroRPMOverrideHelpPart2": "This prevent from using the 0 RPM feature of selected cards.",
-  "ZeroRPMOverrideHelpPart3": "This checkbox will \"disable\" all NVIDIA controls when it hits 0%. This will let it go back to its default \"built-in\" fan curve, which may support 0 RPM.",
-  "ZeroRPMOverrideHelpPart4": "Be aware that you need to play around the temperature at which your card will go 0 RPM from factory.",
-  "ZeroRPMOverrideHelpPart5": "You will not be able to go 0 RPM over that temperature.",
-  "ZeroRPMOverrideHelpPart6": "To make use of this feature properly, set your NVIDIA controls start% and stop% to 30%, so that any % set below that threshold will snap to 0%."
+  "ZeroRPMOverrideHelpPart1": "一部の NVIDIA 製グラフィックカードでは、Fan Control などのサードパーティー製ソフトウェアから一定の割合 (%) 未満にファン速度を設定できない制限があります。多くの場合、その下限は 30% になります。",
+  "ZeroRPMOverrideHelpPart2": "そのため、対象のグラフィックカードでは 0 RPM 機能を利用できません。",
+  "ZeroRPMOverrideHelpPart3": "このチェックボックスを有効にすると、NVIDIA コントロールが 0% に達した際に無効化されます。これにより、グラフィックカード本来の内蔵ファンカーブへ戻り、0 RPM に対応している場合はその機能を利用できます。",
+  "ZeroRPMOverrideHelpPart4": "ただし、0 RPM へ切り替わる温度はグラフィックカードごとに異なるため、適切な温度を確認と調整をしてください。",
+  "ZeroRPMOverrideHelpPart5": "その温度を超えると、0 RPM にはできません。",
+  "ZeroRPMOverrideHelpPart6": "この機能を適切に利用するには、NVIDIA コントロールの開始 % と停止 % を 30% に設定してください。これにより、その値未満では自動的に 0% として扱われます。"
 }
