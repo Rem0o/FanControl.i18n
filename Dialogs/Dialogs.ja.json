@@ -50,7 +50,7 @@
   "PaypalDialogPart7": "Fan Control をご利用とご支援いただき、ありがとうございます！🙏",
   "PlatformNotSupported": "使用しているプラットフォームには対応していません。Windows 10 またはそれ以降が必要です。",
   "ReadEULA": "エンドユーザー使用許諾契約 (EULA) の項目に少しだけ目を通してみてください。短い内容ですのでご安心ください。後から「情報」の項目でいつでも確認できます。",
-  "RefreshingAfterSleep": "スリープから復帰後に Fan Control が更新されます",
+  "RefreshingAfterSleep": "スリープから復帰後に Fan Control を更新",
   "RefreshRequested": "このセンサーソースから更新が要求されました: {0}",
   "SpeedHelpPart1": "「速度」の項目は検出された利用可能なすべての RPM センサーが表示されます。",
   "SpeedHelpPart2": "互換性の都合上、各コントロールカードに対応する RPM カードが存在する場合と存在しない場合があることにご注意ください。",
