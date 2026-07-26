@@ -1,4 +1,4 @@
-{
+﻿{
   "AllControlsNoSensors": "コントロールにペアされたファン速度センサーが見つかりません",
   "AssistedSetupDescription": "これはセットアップアシストです。初回のファン設定を、次の手順で行います:",
   "AvoidRunningOtherPrograms": "セットアップアシストの実行中は、高負荷なアプリやファン制御を実行しないでください。",
