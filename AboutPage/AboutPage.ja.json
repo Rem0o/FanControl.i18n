@@ -1,12 +1,12 @@
 ﻿{
-  "Credit": "開発者",
+  "Credit": "クレジット",
   "Documentation": "ドキュメント",
   "Donate": "寄付",
-  "Email": "電子メール",
-  "EULALicenses": "利用規約",
-  "OfficialWebsite": "公式ホームページ",
+  "Email": "メール",
+  "EULALicenses": "EULA/ライセンス",
+  "OfficialWebsite": "公式 Web サイト",
   "PayPal": "PayPal",
-  "Sponsor": "支援する",
+  "Sponsor": "スポンサー",
   "Stripe": "Stripe",
   "VersionStringFormat": "バージョン: {0}"
 }
