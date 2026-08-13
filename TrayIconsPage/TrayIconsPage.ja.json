@@ -1,10 +1,10 @@
 ﻿{
   "AddTrayIconSpeed": "ファン速度 (%) のトレイアイコンを追加",
   "AddTrayIconTemp": "温度のトレイアイコンを追加",
-  "CustomTrayIcons": "Custom tray icons",
-  "DefaultTrayIcon": "Default tray icon",
+  "CustomTrayIcons": "カスタムトレイアイコン",
+  "DefaultTrayIcon": "既定のトレイアイコン",
   "DefaultTrayIconColor": "既定のトレイアイコンの色",
   "MissingTrayIconSensor": "トレイアイコンのセンサーが見つかりません",
   "SelectColor": "「{0}」のトレイアイコンの色を選択してください",
-  "SyncIconColor": "トレイアイコンの色を Windows と同期"
+  "SyncIconColor": "アイコンの色を Windows と同期"
 }
