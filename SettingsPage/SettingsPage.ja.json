@@ -21,7 +21,7 @@
   "ServiceConfigurationAdminRequired": "Fan Control サービスの起動設定ができませんでした。Fan Control が管理者権限で実行されているか確認してください。",
   "StartMinimized": "タスクトレイに最小化して起動",
   "StartServiceOnBoot": "起動時にサービスを開始",
-  "StartUserLogon": "ユーザーのログオン時にアプリを起動",
+  "StartUserLogon": "ログオン時にアプリを起動",
   "Symbol": "シンボル",
   "TaskSchedulerAdminRequired": "タスクスケジューラーで Windows の起動時にプログラムを自動起動するように設定できます。管理者権限が必要です。"
 }
