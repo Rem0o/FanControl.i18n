@@ -40,11 +40,11 @@
   "PairManually": "回転速度センサーを手動でペア...",
   "RecalibrateAuto": "ペアされているコントロールを自動で再キャリブレーション...",
   "RemovePaired": "ペアされている回転速度センサーを解除",
-  "StartPercent": "開始 %",
+  "StartPercent": "開始する %",
   "StartPercentHelp": "ファンが回転を開始するファンカーブのしきい値 (%) です。",
   "StepDown": "ステップダウン",
   "StepHelp": "コントロールの割合を 1 秒あたりに変更できる速度 (%/秒) です。",
   "StepUp": "ステップアップ",
-  "StopPercent": "停止 %",
+  "StopPercent": "停止する %",
   "StopPercentHelp": "ファンが停止するファンカーブのしきい値 (%) です。"
 }
