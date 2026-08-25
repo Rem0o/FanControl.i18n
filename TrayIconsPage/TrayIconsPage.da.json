@@ -1,8 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "Tilføj systembakkeikon for blæserhastighed (%)",
   "AddTrayIconTemp": "Tilføj systembakkeikon for temperatur",
-  "CustomTrayIcons": "Custom tray icons",
-  "DefaultTrayIcon": "Default tray icon",
+  "CustomTrayIcons": "Brugerdefinerede systembakkeikoner",
+  "DefaultTrayIcon": "Standard systembakkeikon",
   "DefaultTrayIconColor": "Standardfarve for systembakkeikon",
   "MissingTrayIconSensor": "Manglende sensor til systembakkeikon",
   "SelectColor": "Vælg farve på systembakkeikon for {0}",
