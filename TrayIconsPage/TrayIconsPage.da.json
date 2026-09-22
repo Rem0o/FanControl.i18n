@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Standardfarve for systembakkeikon",
   "MissingTrayIconSensor": "Manglende sensor til systembakkeikon",
   "SelectColor": "Vælg farve på systembakkeikon for {0}",
-  "SyncIconColor": "Synkroniser ikonfarve med Windows"
+  "SyncIconColor": "Synkroniser ikonfarve med Windows",
+  "TrayIconOrderManagedByWindows": "Du kan ændre rækkefølgen af ikonerne ved at trække dem direkte i Windows-meddelelsesområdet."
 }

@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Predvolená farba ikony v oznamovacej oblasti",
   "MissingTrayIconSensor": "Chýbajúca ikona snímača v oznamovacej oblasti",
   "SelectColor": "Vyberte farbu ikony v oznamovacej oblasti pre {0}",
-  "SyncIconColor": "Synchronizovať farbu ikon so systémom Windows"
+  "SyncIconColor": "Synchronizovať farbu ikon so systémom Windows",
+  "TrayIconOrderManagedByWindows": "Poradie ikon zmeníte ich presunutím priamo v oblasti oznámení systému Windows."
 }

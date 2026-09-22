@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Standard systemkurvikonfarge",
   "MissingTrayIconSensor": "Manglende systemkurvikonsensor",
   "SelectColor": "Velg systemkurvikonfargen til {0}",
-  "SyncIconColor": "Synkroniser ikonfargen med Windows"
+  "SyncIconColor": "Synkroniser ikonfargen med Windows",
+  "TrayIconOrderManagedByWindows": "Endre rekkefølgen på ikonene ved å dra dem direkte i systemstatusfeltet i Windows."
 }

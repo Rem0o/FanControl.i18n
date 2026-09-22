@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Цвет значка в области уведомлений по умолчанию",
   "MissingTrayIconSensor": "Отсутствует датчик для значка в области уведомлений",
   "SelectColor": "Выберите цвет значка в трее для {0}",
-  "SyncIconColor": "Синхронизировать цвет значка с Windows"
+  "SyncIconColor": "Синхронизировать цвет значка с Windows",
+  "TrayIconOrderManagedByWindows": "Чтобы изменить порядок значков, перетащите их непосредственно в области уведомлений Windows."
 }

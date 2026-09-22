@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "צבע ברירת מחדל של אייקון שורת המשימות",
   "MissingTrayIconSensor": "חיישן סמל שורת המשימות חסר",
   "SelectColor": "בחר את צבע סמל המגש עבור {0}",
-  "SyncIconColor": "סנכרן את צבע הסמל עם Windows"
+  "SyncIconColor": "סנכרן את צבע הסמל עם Windows",
+  "TrayIconOrderManagedByWindows": "כדי לשנות את סדר הסמלים, גרור אותם ישירות באזור ההודעות של Windows."
 }

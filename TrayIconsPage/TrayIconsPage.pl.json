@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Domyślny kolor ikony w obszarze powiadomień",
   "MissingTrayIconSensor": "Brak czujnika dla ikony w obszarze powiadomień",
   "SelectColor": "Wybierz kolor ikony w zasobniku dla {0}",
-  "SyncIconColor": "Synchronizuj kolor ikony z systemem Windows"
+  "SyncIconColor": "Synchronizuj kolor ikony z systemem Windows",
+  "TrayIconOrderManagedByWindows": "Aby zmienić kolejność ikon, przeciągnij je bezpośrednio w obszarze powiadomień systemu Windows."
 }

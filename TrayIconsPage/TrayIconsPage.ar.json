@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "لون أيقونة الدرج الافتراضي",
   "MissingTrayIconSensor": "مستشعر أيقونة الدرج المفقود",
   "SelectColor": "حدد لون أيقونة علبة النظام لـ {0}",
-  "SyncIconColor": "مزامنة لون الأيقونة مع Windows"
+  "SyncIconColor": "مزامنة لون الأيقونة مع Windows",
+  "TrayIconOrderManagedByWindows": "لتغيير ترتيب أيقونات الدرج، اسحبها مباشرةً في منطقة الإعلام في Windows."
 }

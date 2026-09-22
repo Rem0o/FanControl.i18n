@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Màu mặc định của biểu tượng khay",
   "MissingTrayIconSensor": "Thiếu cảm biến cho biểu tượng khay",
   "SelectColor": "Chọn màu biểu tượng khay cho {0}",
-  "SyncIconColor": "Đồng bộ màu biểu tượng với Windows"
+  "SyncIconColor": "Đồng bộ màu biểu tượng với Windows",
+  "TrayIconOrderManagedByWindows": "Để thay đổi thứ tự biểu tượng, hãy kéo chúng trực tiếp trong khu vực thông báo của Windows."
 }

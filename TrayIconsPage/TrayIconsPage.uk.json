@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Колір піктограми в треї за замовчуванням",
   "MissingTrayIconSensor": "Відсутній датчик для піктограми в треї",
   "SelectColor": "Виберіть колір значка в треї для {0}",
-  "SyncIconColor": "Синхронізувати колір піктограми з Windows"
+  "SyncIconColor": "Синхронізувати колір піктограми з Windows",
+  "TrayIconOrderManagedByWindows": "Щоб змінити порядок піктограм, перетягніть їх безпосередньо в області сповіщень Windows."
 }

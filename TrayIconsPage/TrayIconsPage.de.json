@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Standardfarbe des Taskleistensymbols",
   "MissingTrayIconSensor": "Sensor für Taskleistensymbol fehlt",
   "SelectColor": "Wählen Sie die Taskleistensymbolfarbe für {0}",
-  "SyncIconColor": "An Windows-Design anpassen"
+  "SyncIconColor": "An Windows-Design anpassen",
+  "TrayIconOrderManagedByWindows": "Um die Reihenfolge der Taskleistensymbole zu ändern, ziehen Sie sie direkt im Windows-Infobereich an die gewünschte Position."
 }

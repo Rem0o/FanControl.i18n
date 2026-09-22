@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "既定のトレイアイコンの色",
   "MissingTrayIconSensor": "トレイアイコンのセンサーが見つかりません",
   "SelectColor": "「{0}」のトレイアイコンの色を選択してください",
-  "SyncIconColor": "色を Windows と同期"
+  "SyncIconColor": "色を Windows と同期",
+  "TrayIconOrderManagedByWindows": "アイコンの順序を変更するには、Windows の通知領域で直接ドラッグしてください。"
 }

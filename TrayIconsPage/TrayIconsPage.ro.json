@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Culoare implicită a iconiței din tavă",
   "MissingTrayIconSensor": "Lipsește senzorul pentru iconița din tavă",
   "SelectColor": "Selectați culoarea iconiței din tavă pentru {0}",
-  "SyncIconColor": "Sincronizează culoarea iconiței cu Windows"
+  "SyncIconColor": "Sincronizează culoarea iconiței cu Windows",
+  "TrayIconOrderManagedByWindows": "Pentru a schimba ordinea pictogramelor, trageți-le direct în zona de notificare Windows."
 }

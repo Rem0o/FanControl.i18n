@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Колер значка ў трэі па змаўчанні",
   "MissingTrayIconSensor": "Адсутнічае датчык для значка ў трэі",
   "SelectColor": "Выберыце колер значка ў трэі для {0}",
-  "SyncIconColor": "Сінхранізаваць колер значка з Windows"
+  "SyncIconColor": "Сінхранізаваць колер значка з Windows",
+  "TrayIconOrderManagedByWindows": "Каб змяніць парадак значкоў у вобласці апавяшчэнняў, перацягніце іх непасрэдна ў Windows."
 }

@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Color predeterminado del icono de la barra de tareas",
   "MissingTrayIconSensor": "No se encuentra el sensor de la barra de tareas",
   "SelectColor": "Seleccionar el color del icono de la bandeja para {0}",
-  "SyncIconColor": "Sincronizar color del icono con Windows"
+  "SyncIconColor": "Sincronizar color del icono con Windows",
+  "TrayIconOrderManagedByWindows": "Para cambiar el orden de los iconos, arrástrelos directamente en el área de notificación de Windows."
 }

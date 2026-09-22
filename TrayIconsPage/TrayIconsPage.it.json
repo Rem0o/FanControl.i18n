@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Colore predefinito dell’icona nella barra delle applicazioni",
   "MissingTrayIconSensor": "Icona del sensore, nella barra delle applicazioni, mancante",
   "SelectColor": "Seleziona il colore dell'icona nella barra delle applicazioni per {0}",
-  "SyncIconColor": "Sincronizza il colore dell’icona con Windows"
+  "SyncIconColor": "Sincronizza il colore dell’icona con Windows",
+  "TrayIconOrderManagedByWindows": "Per cambiare l'ordine delle icone, trascinale direttamente nell'area di notifica di Windows."
 }

@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Alapértelmezett tálcaikon szín",
   "MissingTrayIconSensor": "Hiányzó tálcaikon érzékelő",
   "SelectColor": "Válassza ki a tálcaikon színét ehhez: {0}",
-  "SyncIconColor": "Tálcaikon színének szinkronizálása a Windows-al"
+  "SyncIconColor": "Tálcaikon színének szinkronizálása a Windows-al",
+  "TrayIconOrderManagedByWindows": "Az ikonok sorrendjének módosításához húzza őket közvetlenül a Windows értesítési területén."
 }

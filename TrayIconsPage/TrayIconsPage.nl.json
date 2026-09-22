@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Standaardkleur van het pictogram in het systeemvak",
   "MissingTrayIconSensor": "Ontbrekende systeemvakpictogramsensor",
   "SelectColor": "Selecteer de systeemvakpictogramkleur voor {0}",
-  "SyncIconColor": "Synchroniseer pictogramkleur met Windows"
+  "SyncIconColor": "Synchroniseer pictogramkleur met Windows",
+  "TrayIconOrderManagedByWindows": "Sleep de pictogrammen rechtstreeks in het systeemvak van Windows om de volgorde te wijzigen."
 }

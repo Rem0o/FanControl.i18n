@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "기본 트레이 아이콘 색상",
   "MissingTrayIconSensor": "트레이 아이콘 센서 없음",
   "SelectColor": "{0}의 트레이 아이콘 색상 선택",
-  "SyncIconColor": "Windows와 아이콘 색상 동기화"
+  "SyncIconColor": "Windows와 아이콘 색상 동기화",
+  "TrayIconOrderManagedByWindows": "아이콘 순서를 변경하려면 Windows 알림 영역에서 직접 아이콘을 끌어 놓으세요."
 }

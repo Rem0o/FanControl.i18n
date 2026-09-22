@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "默认的托盘图标颜色",
   "MissingTrayIconSensor": "缺少托盘图标所要求的传感器",
   "SelectColor": "选择{0}的托盘图标颜色",
-  "SyncIconColor": "与 Windows 同步图标颜色"
+  "SyncIconColor": "与 Windows 同步图标颜色",
+  "TrayIconOrderManagedByWindows": "要更改图标顺序，请直接在 Windows 通知区域中拖动图标。"
 }

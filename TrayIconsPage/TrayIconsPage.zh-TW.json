@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "預設系統匣圖示顏色",
   "MissingTrayIconSensor": "缺少系統匣圖示所需的感測器",
   "SelectColor": "選擇{0}的工具列圖示顏色",
-  "SyncIconColor": "與 Windows 同步圖示顏色"
+  "SyncIconColor": "與 Windows 同步圖示顏色",
+  "TrayIconOrderManagedByWindows": "若要變更圖示順序，請直接在 Windows 通知區域中拖曳圖示。"
 }

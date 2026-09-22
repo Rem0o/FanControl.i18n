@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Tray Icon Color",
   "MissingTrayIconSensor": "Missing tray icon sensor",
   "SelectColor": "Select the tray icon color for {0}",
-  "SyncIconColor": "Sync icon color with Windows"
+  "SyncIconColor": "Sync icon color with Windows",
+  "TrayIconOrderManagedByWindows": "To change the order of tray icons, drag them directly in the Windows notification area."
 }

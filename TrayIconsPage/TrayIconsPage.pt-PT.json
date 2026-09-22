@@ -6,5 +6,6 @@
   "DefaultTrayIconColor": "Cor padrão do ícone à área de notificação",
   "MissingTrayIconSensor": "Sensor do ícone está ausente",
   "SelectColor": "Selecione a cor do ícone da bandeja para {0}",
-  "SyncIconColor": "Sincronizar a cor do ícone com a do Windows"
+  "SyncIconColor": "Sincronizar a cor do ícone com a do Windows",
+  "TrayIconOrderManagedByWindows": "Para alterar a ordem dos ícones, arraste-os diretamente na área de notificação do Windows."
 }
