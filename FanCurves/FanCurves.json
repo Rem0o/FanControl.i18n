@@ -21,7 +21,7 @@
   "LinearMinimumDescription": "Below the minimum temperature, minimum speed is applied.",
   "Mix": "Mix",
   "MixDescription": "The mix fan curve applies a function to the selected fan curves.",
-  "MixFanCurveRestoreError": "Missing sensors for mix fan curve {0}",
+  "MixFanCurveRestoreError": "Missing fan curves for mix fan curve {0}",
   "NameAlreadyTaken": "Fan curve name \"{0}\" is already taken",
   "RpmModeWarning": "Changing mode will reset this graph. Are you sure you want to continue?",
   "Sync": "Sync",

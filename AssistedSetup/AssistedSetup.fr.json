@@ -21,7 +21,7 @@
   "ProceedQuestion": "Voulez-vous continuer ?",
   "Settings": "Paramètres",
   "ShowHiddenCardsExplanation": "Tous les contrôles qui n'ont pas répondu à la configuration assistée seront cachés.",
-  "StartPercent": "% de démmarage",
+  "StartPercent": "% de démarrage",
   "Step1": "Sélectionnez le type de capteurs à détecter",
   "Step2": "Trouvez le capteur de RPM correspondant pour chaque contrôle",
   "Step3": "Calibrez chaque contrôle qui a été associé avec un capteur de RPM",
