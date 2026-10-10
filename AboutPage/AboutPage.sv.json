@@ -1,0 +1,12 @@
+﻿{
+  "Credit": "Kredit",
+  "Documentation": "Dokumentation",
+  "Donate": "Donera",
+  "Email": "E-post",
+  "EULALicenses": "Avtal & licenser",
+  "OfficialWebsite": "Officiell hemsida",
+  "PayPal": "PayPal",
+  "Sponsor": "Sponsor",
+  "Stripe": "Stripe",
+  "VersionStringFormat": "Version: {0}"
+}
