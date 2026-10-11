@@ -8,6 +8,7 @@
   "EmbeddedEC": "Inbyggt styrsystem (endast ASUS)",
   "Enabled": "Aktiverad",
   "EnabledWillOverrideLHM": "Aktiverad (förbigår LHM)",
+  "ExcludeUsbStorage": "Exkludera USB-enheter",
   "GPU": "GPU",
   "InstallPlugin": "Installera insticksmodul",
   "LHM": "LibreHardwareMonitor",
