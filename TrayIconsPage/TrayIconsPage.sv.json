@@ -1,0 +1,11 @@
+﻿{
+  "AddTrayIconSpeed": "Lägg till aktivitetfältsikon för fläktfart (%)",
+  "AddTrayIconTemp": "Lägg till aktivitetfältsikon för temperatur",
+  "CustomTrayIcons": "Anpassade aktivitetfältsikoner",
+  "DefaultTrayIcon": "Standardikon i aktivitetsfältet",
+  "DefaultTrayIconColor": "Aktivitetfältikonens standardfärg",
+  "MissingTrayIconSensor": "Aktivitetfältsikonens givare saknas",
+  "SelectColor": "Välj aktivitetfältsikonfärg för {0}",
+  "SyncIconColor": "Synka ikonfärg med Windows",
+  "TrayIconOrderManagedByWindows": "Ändra ordningen på aktivitetfältsikonerna genom att dra runt dem i Windows gränssnitt."
+}

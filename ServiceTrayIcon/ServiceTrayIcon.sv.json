@@ -1,0 +1,18 @@
+﻿{
+  "ChangeConfiguration": "Ändra konfiguration",
+  "CurrentConfigFormat": "Nuvarande konfiguration: {0}",
+  "CurrentConfigNone": "(ingen)",
+  "CurrentConfigUnavailable": "Nuvarande konfiguration: otillgänglig",
+  "CurrentConfigUnknown": "Nuvarande konfiguration: okänd",
+  "ExitClient": "Avsluta klienten",
+  "ExitService": "Avsluta tjänsten",
+  "NoConfigsFound": "(Inga konfigurationer hittades)",
+  "OpenFanControlStopService": "Öppna FanControl (stanna tjänst)",
+  "RestartSensorDetection": "Starta om givardetekering",
+  "ServiceChecking": "Tjänsten: kontrolleras...",
+  "ServiceNotRunning": "Tjänsten: körs inte",
+  "ServiceRunning": "Tjänsten: körs",
+  "ServiceUnavailable": "(Tjänsten är otillgänglig)",
+  "StartService": "Starta tjänsten",
+  "Tooltip": "FanControl-tjänstens klient"
+}
