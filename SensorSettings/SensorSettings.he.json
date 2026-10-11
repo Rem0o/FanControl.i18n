@@ -8,6 +8,7 @@
   "EmbeddedEC": "EC משולב (ASUS)",
   "Enabled": "מופעל",
   "EnabledWillOverrideLHM": "מופעל (יעקוף את LHM)",
+  "ExcludeUsbStorage": "החרגת אחסון USB",
   "GPU": "מעבד גרפי (GPU)",
   "InstallPlugin": "התקן תוסף",
   "LHM": "LibreHardwareMonitor",

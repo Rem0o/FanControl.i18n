@@ -8,6 +8,7 @@
   "EmbeddedEC": "Embedded EC (ASUS)",
   "Enabled": "Увімкнено",
   "EnabledWillOverrideLHM": "Увімкнено (перекриє LHM)",
+  "ExcludeUsbStorage": "Виключити USB-накопичувачі",
   "GPU": "GPU",
   "InstallPlugin": "Встановити плагін",
   "LHM": "LibreHardwareMonitor",

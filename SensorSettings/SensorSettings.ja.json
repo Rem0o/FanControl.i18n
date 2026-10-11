@@ -8,6 +8,7 @@
   "EmbeddedEC": "組み込み EC (ASUS のみ)",
   "Enabled": "有効",
   "EnabledWillOverrideLHM": "有効 (LHM を上書きします)",
+  "ExcludeUsbStorage": "USBストレージを除外",
   "GPU": "GPU",
   "InstallPlugin": "プラグインをインストール",
   "LHM": "LibreHardwareMonitor",

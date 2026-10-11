@@ -8,6 +8,7 @@
   "EmbeddedEC": "EC Embutido (ASUS)",
   "Enabled": "Habilitado",
   "EnabledWillOverrideLHM": "Habilitado (irá substituir o LHM)",
+  "ExcludeUsbStorage": "Excluir armazenamento USB",
   "GPU": "GPU",
   "InstallPlugin": "Instalar Plugin",
   "LHM": "LibreHardwareMonitor",

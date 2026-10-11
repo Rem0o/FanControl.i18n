@@ -8,6 +8,7 @@
   "EmbeddedEC": "Sisäinen ohjain, \"EC\" (ASUS)",
   "Enabled": "Käytössä",
   "EnabledWillOverrideLHM": "Käytössä (ohittaa kierrosluvun)",
+  "ExcludeUsbStorage": "Ohita USB-tallennuslaitteet",
   "GPU": "Näytönohjain",
   "InstallPlugin": "Asenna lisäosa",
   "LHM": "LibreHardwareMonitor",

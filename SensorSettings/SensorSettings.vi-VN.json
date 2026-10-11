@@ -8,6 +8,7 @@
   "EmbeddedEC": "Embedded EC (chỉ dành cho ASUS)",
   "Enabled": "Đã bật",
   "EnabledWillOverrideLHM": "Đã bật (sẽ ghi đè LHM)",
+  "ExcludeUsbStorage": "Loại trừ thiết bị lưu trữ USB",
   "GPU": "GPU",
   "InstallPlugin": "Cài đặt plugin",
   "LHM": "LibreHardwareMonitor",

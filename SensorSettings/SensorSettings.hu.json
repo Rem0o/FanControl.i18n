@@ -8,6 +8,7 @@
   "EmbeddedEC": "Beágyazott EC (ASUS)",
   "Enabled": "Engedélyezve",
   "EnabledWillOverrideLHM": "Engedélyezve (felülbírálja az LHM-et)",
+  "ExcludeUsbStorage": "USB-tárolók kizárása",
   "GPU": "GPU",
   "InstallPlugin": "Plugin telepítése",
   "LHM": "LibreHardwareMonitor",

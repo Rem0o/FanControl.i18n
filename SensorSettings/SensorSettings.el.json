@@ -8,6 +8,7 @@
   "EmbeddedEC": "Εσωματωμένο EC (μόνο για ASUS)",
   "Enabled": "Ενεργοποιημένο",
   "EnabledWillOverrideLHM": "Ενεργοποιημένο (θα παρακάμψει το LHM)",
+  "ExcludeUsbStorage": "Εξαίρεση αποθηκευτικών συσκευών USB",
   "GPU": "GPU",
   "InstallPlugin": "Εγκατάσταση πρόσθετου",
   "LHM": "LibreHardwareMonitor",

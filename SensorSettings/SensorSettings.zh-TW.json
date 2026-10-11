@@ -8,6 +8,7 @@
   "EmbeddedEC": "嵌入式EC(華碩)",
   "Enabled": "啟用",
   "EnabledWillOverrideLHM": "啟用(將覆寫 LHM)",
+  "ExcludeUsbStorage": "排除 USB 儲存裝置",
   "GPU": "GPU",
   "InstallPlugin": "安裝插件",
   "LHM": "LibreHardwareMonitor",

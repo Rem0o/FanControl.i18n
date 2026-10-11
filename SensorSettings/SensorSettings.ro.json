@@ -8,6 +8,7 @@
   "EmbeddedEC": "EC încorporat (doar ASUS)",
   "Enabled": "Activat",
   "EnabledWillOverrideLHM": "Activat (va suprascrie LHM)",
+  "ExcludeUsbStorage": "Excludeți dispozitivele de stocare USB",
   "GPU": "GPU",
   "InstallPlugin": "Instalează plugin",
   "LHM": "LibreHardwareMonitor",

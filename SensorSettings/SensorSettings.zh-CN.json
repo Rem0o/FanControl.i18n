@@ -8,6 +8,7 @@
   "EmbeddedEC": "嵌入式 EC（华硕）",
   "Enabled": "启用",
   "EnabledWillOverrideLHM": "启用（将覆盖 LHM）",
+  "ExcludeUsbStorage": "排除 USB 存储设备",
   "GPU": "GPU",
   "InstallPlugin": "安装插件",
   "LHM": "LibreHardwareMonitor",

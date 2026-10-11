@@ -8,6 +8,7 @@
   "EmbeddedEC": "Embedded EC (ASUS)",
   "Enabled": "Aktiveret",
   "EnabledWillOverrideLHM": "Aktiveret (vil tilsidesætte LHM)",
+  "ExcludeUsbStorage": "Udeluk USB-lager",
   "GPU": "GPU",
   "InstallPlugin": "Installer plugin",
   "LHM": "LibreHardwareMonitor",

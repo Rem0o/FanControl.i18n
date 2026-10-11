@@ -8,6 +8,7 @@
   "EmbeddedEC": "Gömülü EC (ASUS)",
   "Enabled": "Etkin",
   "EnabledWillOverrideLHM": "Etkin (LHM'nin üzerine yazacaktır)",
+  "ExcludeUsbStorage": "USB depolama aygıtlarını hariç tut",
   "GPU": "GPU",
   "InstallPlugin": "Eklentiyi Yükle",
   "LHM": "LibreHardwareMonitor",
