@@ -8,6 +8,7 @@
   "EmbeddedEC": "EC المضمنة (ASUS)",
   "Enabled": "ممكّنة",
   "EnabledWillOverrideLHM": "ممكّن (سوف يتجاوز LHM)",
+  "ExcludeUsbStorage": "استبعاد وحدات تخزين USB",
   "GPU": "وحدة معالجة الرسوميات",
   "InstallPlugin": "تثبيت المكوّن الإضافي",
   "LHM": "LibreHardwareMonitor",

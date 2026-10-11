@@ -8,6 +8,7 @@
   "EmbeddedEC": "임베디드 EC (ASUS 전용)",
   "Enabled": "사용함",
   "EnabledWillOverrideLHM": "사용함 (LHM을 재정의함)",
+  "ExcludeUsbStorage": "USB 저장 장치 제외",
   "GPU": "GPU",
   "InstallPlugin": "플러그인 설치",
   "LHM": "LibreHardwareMonitor",

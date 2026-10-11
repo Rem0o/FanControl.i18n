@@ -8,6 +8,7 @@
   "EmbeddedEC": "Встроенный контроллер EC (ASUS)",
   "Enabled": "Включено",
   "EnabledWillOverrideLHM": "Включено (переопределит LHM)",
+  "ExcludeUsbStorage": "Исключить USB-накопители",
   "GPU": "ГП",
   "InstallPlugin": "Установить плагин",
   "LHM": "LibreHardwareMonitor",

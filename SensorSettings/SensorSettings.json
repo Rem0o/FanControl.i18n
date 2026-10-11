@@ -8,6 +8,7 @@
   "EmbeddedEC": "Embedded EC (only ASUS)",
   "Enabled": "Enabled",
   "EnabledWillOverrideLHM": "Enabled (will override LHM)",
+  "ExcludeUsbStorage": "Exclude USB Storage",
   "GPU": "GPU",
   "InstallPlugin": "Install Plugin",
   "LHM": "LibreHardwareMonitor",

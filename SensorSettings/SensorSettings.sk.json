@@ -8,6 +8,7 @@
   "EmbeddedEC": "Embedded EC (ASUS)",
   "Enabled": "Povolené",
   "EnabledWillOverrideLHM": "Povolené (prepíše LHM)",
+  "ExcludeUsbStorage": "Vylúčiť USB úložiská",
   "GPU": "GPU",
   "InstallPlugin": "Inštalovať plugin",
   "LHM": "LibreHardwareMonitor",
