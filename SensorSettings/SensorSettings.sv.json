@@ -1,5 +1,5 @@
 ﻿{
-  "ADLX": "ADLX (endast för AMD:s RDNA GPU:er eller liknande)",
+  "ADLX": "ADLX (endast AMD:s GPU:er med RDNA eller nyare)",
   "ApplicationWillRefresh": "Appen kommer att laddas om.",
   "BeforeRefreshingConfigurationChanged": "Nuvarande konfiguration ändrades innan omladdning. Vill du spara den?",
   "Controller": "Styrsystem från tredje part",
@@ -14,7 +14,7 @@
   "LHM": "LibreHardwareMonitor",
   "LHMLogCopied": "LHM-logg kopierades till urklipp.",
   "Memory": "Minnesenheter",
-  "MissingSensorWillThrow": "Givare som fattas från nuvarande konfiguration kommer ge upphov till felmeddelanden när konfigurationen återställs.",
+  "MissingSensorWillThrow": "Givare som saknas i nuvarande konfiguration kommer orsaka fel när konfigurationen återställs.",
   "Motherboard": "Moderkort",
   "NoPluginsLoaded": "Inga insticksmoduler är inlästa",
   "NvAPIWrapper": "NVAPI (endast för NVIDIA:s GTX- och RTX-GPU:er)",
@@ -28,10 +28,10 @@
   "UpdateInterval": "Uppdateringsintervall",
   "WantToContinue": "Vill du fortsätta?",
   "Warning": "Observera!",
-  "ZeroRPMOverrideHelpPart1": "Några NVIDIA-baserade grafikkorts fläktstyrning har en undre gräns (oftast 30%) som tredjepartsmjukvaror, inklusive Fan Control, inte kan passera.",
+  "ZeroRPMOverrideHelpPart1": "Några NVIDIA-baserade grafikkorts fläktstyrning har en undre gräns (oftast 30%) som tredjepartsmjukvaror, därbland Fan Control, inte kan passera.",
   "ZeroRPMOverrideHelpPart2": "Till följd av detta spärras användningen av fläktstoppfunktionen på dessa grafikkort.",
   "ZeroRPMOverrideHelpPart3": "Denna inställning \"avaktiverar\" NVIDIA:s styrning när den når 0%. Detta låter styrningen återgå till den \"inbyggda\" fläktkurvan, som eventuellt kan stanna fläktarna.",
-  "ZeroRPMOverrideHelpPart4": "Var medvedent om att du behöver prova temperaturer i närheten av den som fabriksinställningen stannar fläktarna.",
+  "ZeroRPMOverrideHelpPart4": "Var medveten om att du behöver prova temperaturer nära den som fabriksinställningen stannar fläktarna vid.",
   "ZeroRPMOverrideHelpPart5": "Du kommer inte kunna ställa in fläktarna till att stanna över den temperaturen.",
-  "ZeroRPMOverrideHelpPart6": "För att nyttja denna funktion korrekt bör du ställa in NVIDA-kontrollens start-% och stop-% till 30%. På så sätt kommer alla %-satser under den att sjunka till 0%."
+  "ZeroRPMOverrideHelpPart6": "För att nyttja denna funktion korrekt bör du ställa in NVIDIA-kontrollens start-% och stop-% till 30%. På så sätt kommer alla %-satser under den att ställas till 0%."
 }

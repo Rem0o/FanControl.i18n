@@ -2,7 +2,7 @@
   "CurrentVersionUpToDate": "Nuvarande mjukvaruversion ({0}) är den senaste!",
   "DisableUpdatePopupStartup": "Avaktivera uppdateringspåminnelse vid start.",
   "DownloadingUpdater": "Laddar ner uppdateraren...",
-  "NewVersion": "En ny mjukvaruversion finns tillgänglig: {0} (nuvarande är {1})",
+  "NewVersion": "En nyare version finns tillgänglig: {0} (nuvarande är {1})",
   "UpdateAvailable": "En uppdatering finns tillgänglig",
   "UpdateText": "Uppdatera",
   "VersionInfoError": "Kunde inte hämta mjukvaruversion från servern."
