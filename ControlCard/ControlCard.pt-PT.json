@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Ajustes",
   "Auto": "Automático",
   "AvoidModeEnabled": "O modo de prevenção está ativo: o alvo atual está a ser ajustado para permanecer fora de uma região de prevenção.",
   "Calibrate": "Calibrar",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Calibração manual da ventoinha",
   "ManualPairSingleFanDescription": "Emparelhar controlo com um sensor de velocidade",
   "MatchSpeedSensor": "Emparelhar sensor de velocidade",
+  "MaximumPercent": "Máximo %",
+  "MaxPercentHelp": "Percentagem máxima (%) que pode ser aplicada a este controlo.",
   "MinimumPercent": "Percentagem mínima",
   "MinPercentHelp": "Percentagem (%) mínima que pode ser aplicada a este controlo.",
   "Offset": "Desvio",

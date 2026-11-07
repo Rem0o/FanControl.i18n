@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Regolazioni",
   "Auto": "Automatico",
   "AvoidModeEnabled": "La modalità di evitamento è attiva: l'obiettivo corrente viene regolato per restare fuori da una regione di evitamento.",
   "Calibrate": "Calibra",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Calibrazione manuale della ventola",
   "ManualPairSingleFanDescription": "Abbina il controllo a un sensore di velocità",
   "MatchSpeedSensor": "Abbina sensore di velocità",
+  "MaximumPercent": "Massimo %",
+  "MaxPercentHelp": "Percentuale massima (%) applicabile a questo controllo.",
   "MinimumPercent": "% minima",
   "MinPercentHelp": "Percentuale minima (%) che può essere applicata a questo controllo.",
   "Offset": "Offset",

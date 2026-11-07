@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "التعديلات",
   "Auto": "Auto",
   "AvoidModeEnabled": "وضع التجنب نشط: يتم ضبط الهدف الحالي للبقاء خارج منطقة التجنب.",
   "Calibrate": "معايرة",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "المعايرة اليدوية للمروحة",
   "ManualPairSingleFanDescription": "إقران التحكم بمستشعر السرعة",
   "MatchSpeedSensor": "إقران مستشعر السرعة",
+  "MaximumPercent": "الحد الأقصى %",
+  "MaxPercentHelp": "أقصى نسبة مئوية (%) يمكن تطبيقها على عنصر التحكم هذا.",
   "MinimumPercent": "الحد الأدنى %",
   "MinPercentHelp": "الحد الأدنى للنسبة المئوية (%) التي يمكن تطبيقها على عنصر التحكم هذا.",
   "Offset": "الأوفست",

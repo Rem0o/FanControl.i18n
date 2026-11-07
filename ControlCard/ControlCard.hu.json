@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Módosítások",
   "Auto": "Automatikus",
   "AvoidModeEnabled": "Az elkerülési mód aktív: az aktuális célérték módosul, hogy az elkerülési tartományon kívül maradjon.",
   "Calibrate": "Kalibrálás",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Manuális ventilátor kalibrálás",
   "ManualPairSingleFanDescription": "Párosítsa a vezérlőt egy sebesség-érzékelőhöz!",
   "MatchSpeedSensor": "Sebesség-érzékelő párosítása",
+  "MaximumPercent": "Maximális %",
+  "MaxPercentHelp": "A vezérlőre alkalmazható maximális százalék (%).",
   "MinimumPercent": "Minimum %",
   "MinPercentHelp": "Ezen vezérlőhöz alkalmazható minimális százalék (%).",
   "Offset": "Eltolás",

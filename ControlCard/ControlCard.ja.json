@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "調整",
   "Auto": "自動",
   "AvoidModeEnabled": "回避モードが有効: 現在の目標値は回避領域を避けるように調整されています。",
   "Calibrate": "キャリブレーション",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "手動ファンキャリブレーション",
   "ManualPairSingleFanDescription": "コントロールを回転速度センサーとペアにします。",
   "MatchSpeedSensor": "速度センサーをペア",
+  "MaximumPercent": "最大 %",
+  "MaxPercentHelp": "このコントロールに適用できる最大割合（%）。",
   "MinimumPercent": "最小 %",
   "MinPercentHelp": "このコントロールに適用できる最小割合 (%) です。",
   "Offset": "オフセット",

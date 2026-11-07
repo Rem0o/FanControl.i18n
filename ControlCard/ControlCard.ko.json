@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "조정",
   "Auto": "자동",
   "AvoidModeEnabled": "회피 모드가 활성화됨: 현재 목표가 회피 구간을 벗어나도록 조정되고 있습니다.",
   "Calibrate": "보정",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "수동 팬 보정",
   "ManualPairSingleFanDescription": "속도 센서에 제어 페어링",
   "MatchSpeedSensor": "속도 센서 페어링",
+  "MaximumPercent": "최대 %",
+  "MaxPercentHelp": "이 컨트롤에 적용할 수 있는 최대 백분율(%)입니다.",
   "MinimumPercent": "최소 %",
   "MinPercentHelp": "이 제어에 적용할 수 있는 최소 백분율 (%)입니다.",
   "Offset": "오프셋",

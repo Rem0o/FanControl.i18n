@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Ajustes",
   "Auto": "Automático",
   "AvoidModeEnabled": "El modo de evitación está activo: el objetivo actual se está ajustando para mantenerse fuera de una región de evitación.",
   "Calibrate": "Calibrar",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Calibración manual",
   "ManualPairSingleFanDescription": "Emparejar controlador a un sensor de velocidad",
   "MatchSpeedSensor": "Emparejar sensor de velocidad",
+  "MaximumPercent": "Máximo %",
+  "MaxPercentHelp": "Porcentaje máximo (%) que se puede aplicar a este control.",
   "MinimumPercent": "% mínimo",
   "MinPercentHelp": "Porcentaje (%) mínimo que puede ser aplicado a este controlador.",
   "Offset": "Compensación",

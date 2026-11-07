@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Justeringar",
   "Auto": "Auto",
   "AvoidModeEnabled": "Aktiverar strikt reglering: begränsas till att vara utanför det oönskade området.",
   "Calibrate": "Kalibrera",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Manuell fläktkalibrering",
   "ManualPairSingleFanDescription": "Para styrsystemet med en varvtalsgivare",
   "MatchSpeedSensor": "Para varvtalsgivare",
+  "MaximumPercent": "Max %",
+  "MaxPercentHelp": "Högsta procentsats (%) som kan tillämpas på den här styrningen.",
   "MinimumPercent": "Lägsta %-sats",
   "MinPercentHelp": "Lägsta %-sats som kan tillämpas i detta styrsystem.",
   "Offset": "Förskjutning",

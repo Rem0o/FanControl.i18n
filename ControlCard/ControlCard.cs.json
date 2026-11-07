@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Úpravy",
   "Auto": "Automaticky",
   "AvoidModeEnabled": "Režim vyhýbání je aktivní: aktuální cíl se upravuje, aby zůstal mimo oblast vyhýbání.",
   "Calibrate": "Kalibrovat",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Manuální kalibrace ventilátoru",
   "ManualPairSingleFanDescription": "Párování ovládání se snímačem rychlosti",
   "MatchSpeedSensor": "spárovat snímač rychlosti",
+  "MaximumPercent": "Maximální %",
+  "MaxPercentHelp": "Maximální procento (%), které lze použít pro tento ovládací prvek.",
   "MinimumPercent": "Minimální %",
   "MinPercentHelp": "Minimální procento (%), které lze použít pro tuto kontrolu.",
   "Offset": "Posun",

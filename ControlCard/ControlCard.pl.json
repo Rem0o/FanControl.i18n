@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Regulacje",
   "Auto": "Automatyczny",
   "AvoidModeEnabled": "Tryb unikania jest aktywny: bieżący cel jest dostosowywany, aby pozostać poza obszarem unikania.",
   "Calibrate": "Kalibruj",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Ręczna kalibracja wentylatora",
   "ManualPairSingleFanDescription": "Sparuj kontroler z czujnikiem prędkości",
   "MatchSpeedSensor": "Sparuj czujnik prędkości",
+  "MaximumPercent": "Maksimum %",
+  "MaxPercentHelp": "Maksymalny procent (%), który można zastosować w tym sterowaniu.",
   "MinimumPercent": "% minimalny",
   "MinPercentHelp": "Minimalny procent możliwy do zastosowania na tym kontrolerze.",
   "Offset": "Przesunięcie",

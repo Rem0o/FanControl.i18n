@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "התאמות",
   "Auto": "אוטומטי",
   "AvoidModeEnabled": "מצב הימנעות פעיל: היעד הנוכחי מותאם כדי להישאר מחוץ לאזור הימנעות.",
   "Calibrate": "כיול",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "כיול מאוורר ידני",
   "ManualPairSingleFanDescription": "זיווג רכיב בקרה לחיישן מהירות",
   "MatchSpeedSensor": "זיווג חיישן מהירות",
+  "MaximumPercent": "מקסימום %",
+  "MaxPercentHelp": "האחוז המרבי (%) שניתן להחיל על פקד זה.",
   "MinimumPercent": "אחוז מינימלי",
   "MinPercentHelp": "אחוז מינימלי (%) שניתן להחיל על רכיב בקרה זה.",
   "Offset": "היסט",

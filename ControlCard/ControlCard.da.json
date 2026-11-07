@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Justeringer",
   "Auto": "Automatisk",
   "AvoidModeEnabled": "Undgå-tilstand er aktiv: det aktuelle mål justeres for at holde sig uden for et undgå-område.",
   "Calibrate": "Kalibrer",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Manuel blæserkalibrering",
   "ManualPairSingleFanDescription": "Par kontrol med en hastighedssensor",
   "MatchSpeedSensor": "Par hastighedssensor",
+  "MaximumPercent": "Maksimum %",
+  "MaxPercentHelp": "Den maksimale procentdel (%), der kan anvendes på denne styring.",
   "MinimumPercent": "Minimum %",
   "MinPercentHelp": "Minimumsprocent (%) der kan anvendes på denne kontrol.",
   "Offset": "Offset",

@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Säädöt",
   "Auto": "Automaattinen",
   "AvoidModeEnabled": "Vältä-tila on aktiivinen: nykyistä tavoitetta säädetään, jotta se pysyy vältettävän alueen ulkopuolella.",
   "Calibrate": "Kalibroi",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Manuaalinen tuuletinkalibrointi",
   "ManualPairSingleFanDescription": "Parita ohjaus nopeusanturiin",
   "MatchSpeedSensor": "Parita nopeusanturi",
+  "MaximumPercent": "Enintään %",
+  "MaxPercentHelp": "Suurin prosenttiosuus (%), joka voidaan asettaa tälle ohjaimelle.",
   "MinimumPercent": "Vähimmäisprosetti",
   "MinPercentHelp": "Pienin ohjaimelle asetettavissa oleva prosenttiarvo.",
   "Offset": "Poikkeama",

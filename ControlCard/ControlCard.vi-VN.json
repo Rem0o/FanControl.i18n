@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Điều chỉnh",
   "Auto": "Tá»± Ä‘á»™ng",
   "AvoidModeEnabled": "Chế độ tránh đang hoạt động: mục tiêu hiện tại đang được điều chỉnh để nằm ngoài vùng tránh.",
   "Calibrate": "Hiá»‡u chá»‰nh",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Hiá»‡u chá»‰nh quáº¡t thá»§ cÃ´ng",
   "ManualPairSingleFanDescription": "GhÃ©p Ä‘iá»u khiá»ƒn vá»›i má»™t cáº£m biáº¿n tá»‘c Ä‘á»™",
   "MatchSpeedSensor": "GhÃ©p cáº£m biáº¿n tá»‘c Ä‘á»™",
+  "MaximumPercent": "Tối đa %",
+  "MaxPercentHelp": "Tỷ lệ phần trăm tối đa (%) có thể áp dụng cho bộ điều khiển này.",
   "MinimumPercent": "Tá»‘i thiá»ƒu %",
   "MinPercentHelp": "Tá»· lá»‡ pháº§n trÄƒm (%) tá»‘i thiá»ƒu cÃ³ thá»ƒ Ã¡p cho Ä‘iá»u khiá»ƒn nÃ y.",
   "Offset": "Äá»™ lá»‡ch",

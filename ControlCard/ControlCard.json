@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Adjustments",
   "Auto": "Auto",
   "AvoidModeEnabled": "Avoid mode is active: current target is being adjusted to stay out of an avoid region.",
   "Calibrate": "Calibrate",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Manual Fan Calibration",
   "ManualPairSingleFanDescription": "Pair control to a speed sensor",
   "MatchSpeedSensor": "Pair speed sensor",
+  "MaximumPercent": "Maximum %",
+  "MaxPercentHelp": "Maximum percentage (%) that can be applied to this control.",
   "MinimumPercent": "Minimum %",
   "MinPercentHelp": "Minimum percentage (%) that can be applied to this control.",
   "Offset": "Offset",

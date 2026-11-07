@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Anpassungen",
   "Auto": "Autom.",
   "AvoidModeEnabled": "Der Vermeidungsmodus ist aktiv: Das aktuelle Ziel wird angepasst, um außerhalb eines Vermeidungsbereichs zu bleiben.",
   "Calibrate": "Kalibrieren",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Manuelle Lüfterkalibrierung",
   "ManualPairSingleFanDescription": "Steuerung mit einem Drehzahlsensor koppeln",
   "MatchSpeedSensor": "Drehzahlsensor koppeln",
+  "MaximumPercent": "Maximalwert %",
+  "MaxPercentHelp": "Maximaler Prozentsatz (%), der auf diese Steuerung angewendet werden kann.",
   "MinimumPercent": "Mindest-%",
   "MinPercentHelp": "Minimale Prozentzahl (%), die auf diese Steuerung angewendet werden kann.",
   "Offset": "Offset",

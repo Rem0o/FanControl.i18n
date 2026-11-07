@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Ajustements",
   "Auto": "Automatique",
   "AvoidModeEnabled": "Le mode évitement est actif : la cible actuelle est ajustée pour rester en dehors d'une zone d'évitement.",
   "Calibrate": "Calibrer",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Calibration manuelle",
   "ManualPairSingleFanDescription": "Associer un contrôle à un capteur de vitesse",
   "MatchSpeedSensor": "Jumeler un capteur de vitesse",
+  "MaximumPercent": "% maximum",
+  "MaxPercentHelp": "Pourcentage maximal (%) pouvant être appliqué à ce contrôle.",
   "MinimumPercent": "% minimum",
   "MinPercentHelp": "Pourcentage minimum (%) limité.",
   "Offset": "Décalage",

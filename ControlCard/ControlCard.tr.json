@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Ayarlamalar",
   "Auto": "Otomatik",
   "AvoidModeEnabled": "Kaçınma modu etkin: mevcut hedef, kaçınma bölgesinin dışında kalacak şekilde ayarlanıyor.",
   "Calibrate": "Kalibre Et",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Manuel Fan Kalibrasyonu",
   "ManualPairSingleFanDescription": "Kontrolü hız sensörüne eşleştir",
   "MatchSpeedSensor": "Hız sensörünü eşleştir",
+  "MaximumPercent": "Maksimum %",
+  "MaxPercentHelp": "Bu kontrole uygulanabilecek en yüksek yüzde (%).",
   "MinimumPercent": "Minimum %",
   "MinPercentHelp": "Bu kontrole uygulanabilen minimum yüzde (%).",
   "Offset": "Ofset",

@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Aanpassingen",
   "Auto": "Automatisch",
   "AvoidModeEnabled": "Vermijdingsmodus is actief: het huidige doel wordt aangepast om buiten een vermijdingsgebied te blijven.",
   "Calibrate": "Kalibreren",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Handmatige ventilatorkalibratie",
   "ManualPairSingleFanDescription": "Koppel de regeling aan een snelheidssensor",
   "MatchSpeedSensor": "Koppel snelheidssensor",
+  "MaximumPercent": "Maximaal %",
+  "MaxPercentHelp": "Het maximale percentage (%) dat op deze regeling kan worden toegepast.",
   "MinimumPercent": "Minimum %",
   "MinPercentHelp": "Minimumpercentage (%) dat op deze regeling kan worden toegepast.",
   "Offset": "Offset",

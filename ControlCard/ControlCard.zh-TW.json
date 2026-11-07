@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "調整",
   "Auto": "自動",
   "AvoidModeEnabled": "避讓模式已啟用：目前目標正在調整，以保持在避讓區域之外。",
   "Calibrate": "校準",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "手動風扇校準",
   "ManualPairSingleFanDescription": "將控制器與轉速感測器配對",
   "MatchSpeedSensor": "配對轉速感測器",
+  "MaximumPercent": "最大 %",
+  "MaxPercentHelp": "可套用至此控制項的最大百分比 (%)。",
   "MinimumPercent": "最小 %",
   "MinPercentHelp": "可套用於此控制器的最小百分比。",
   "Offset": "偏移",

@@ -1,4 +1,5 @@
 ﻿{
+  "Adjustments": "Ajustări",
   "Auto": "Automat",
   "AvoidModeEnabled": "Modul de evitare este activ: ținta curentă este ajustată pentru a rămâne în afara unei regiuni de evitare.",
   "Calibrate": "Calibrează",
@@ -29,6 +30,8 @@
   "ManualFanCalibration": "Calibrare manuală a ventilatorului",
   "ManualPairSingleFanDescription": "Asociază controlul cu un senzor de viteză",
   "MatchSpeedSensor": "Asociază senzorul de viteză",
+  "MaximumPercent": "Maxim %",
+  "MaxPercentHelp": "Procentul maxim (%) care poate fi aplicat acestui control.",
   "MinimumPercent": "Minim %",
   "MinPercentHelp": "Procentajul minim (%) care poate fi aplicat acestui control.",
   "Offset": "Compensare",
