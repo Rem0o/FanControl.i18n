@@ -1,4 +1,4 @@
-﻿{
+{
   "Adjustments": "調整",
   "Auto": "自動",
   "AvoidModeEnabled": "回避モードが有効: 現在の目標値は回避領域を避けるように調整されています。",
@@ -21,8 +21,8 @@
   "DiscrepancyPart8": "後者が原因であれば、次のオプションを有効にすると、不一致が検出されるたびに値を再適用します。",
   "EditCalibration": "キャリブレーションを編集...",
   "EnableDisableSoftwareControl": "ソフトウェアコントロールを有効",
-  "ForceApply": "強制適用",
-  "ForceApplyEnabled": "強制適用が有効です。",
+  "ForceApply": "強制的に適用",
+  "ForceApplyEnabled": "強制的に適用が有効です。",
   "ForceApplyToolTip": "不一致が検出されるたびに、目的のコントロール値を再適用します。",
   "InvalidCalibrationError": "コントロール「{0}」には有効なキャリブレーションがありません。また、ファンカーブ「{1}」は RPM モードです。",
   "Manual": "手動",
@@ -31,7 +31,7 @@
   "ManualPairSingleFanDescription": "コントロールを回転速度センサーとペアにします。",
   "MatchSpeedSensor": "速度センサーをペア",
   "MaximumPercent": "最大 %",
-  "MaxPercentHelp": "このコントロールに適用できる最大割合（%）。",
+  "MaxPercentHelp": "このコントロールに適用できる最大割合 (%) です。",
   "MinimumPercent": "最小 %",
   "MinPercentHelp": "このコントロールに適用できる最小割合 (%) です。",
   "Offset": "オフセット",
