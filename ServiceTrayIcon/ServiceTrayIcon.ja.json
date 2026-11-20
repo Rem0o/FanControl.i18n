@@ -1,4 +1,4 @@
-﻿{
+{
   "ChangeConfiguration": "構成を変更",
   "CurrentConfigFormat": "現在の構成: {0}",
   "CurrentConfigNone": "(なし)",
@@ -6,12 +6,12 @@
   "CurrentConfigUnknown": "現在の構成: 不明",
   "ExitClient": "クライアントを終了",
   "ExitService": "サービスを終了",
-  "NoConfigsFound": "(構成がありません)",
-  "OpenFanControl": "Fan Control を開く",
+  "NoConfigsFound": "(構成が見つかりません)",
+  "OpenFanControl": "FanControl を開く",
   "ServiceChecking": "サービス: 確認中...",
   "ServiceNotRunning": "サービス: 実行していません",
   "ServiceRunning": "サービス: 実行中",
-  "ServiceUnavailable": "(サービスは利用できません)",
+  "ServiceUnavailable": "(サービスは利用不可です)",
   "StartService": "サービスを開始",
-  "Tooltip": "Fan Control サービスクライアント"
+  "Tooltip": "FanControl サービスクライアント"
 }
