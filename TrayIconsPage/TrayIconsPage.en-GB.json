@@ -1,0 +1,11 @@
+{
+  "AddTrayIconSpeed": "Add tray icon fan speed (%)",
+  "AddTrayIconTemp": "Add tray icon temperature",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
+  "DefaultTrayIconColor": "Tray Icon Colour",
+  "MissingTrayIconSensor": "Missing tray icon sensor",
+  "SelectColor": "Select the tray icon colour for {0}",
+  "SyncIconColor": "Sync icon colour with Windows",
+  "TrayIconOrderManagedByWindows": "To change the order of tray icons, drag them directly in the Windows notification area."
+}
