@@ -1,0 +1,17 @@
+{
+  "ChangeConfiguration": "Endre oppsett",
+  "CurrentConfigFormat": "Nåværende oppsett: {0}",
+  "CurrentConfigNone": "(ingen)",
+  "CurrentConfigUnavailable": "Nåværende oppsett: utilgjengelig",
+  "CurrentConfigUnknown": "Nåværende oppsett: ukjent",
+  "ExitClient": "Avslutt klienten",
+  "ExitService": "Avslutt tjenesten",
+  "NoConfigsFound": "(Ingen oppsett ble funnet)",
+  "OpenFanControl": "Åpne FanControl",
+  "ServiceChecking": "Tjeneste: sjekker ...",
+  "ServiceNotRunning": "Tjeneste: kjører ikke",
+  "ServiceRunning": "Tjeneste: kjører",
+  "ServiceUnavailable": "(Tjeneste utilgjengelig)",
+  "StartService": "Start tjenesten",
+  "Tooltip": "FanControl-tjenesteklient"
+}
