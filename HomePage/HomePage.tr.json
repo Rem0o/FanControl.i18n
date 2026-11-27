@@ -5,6 +5,7 @@
   "AssistedSetup": "Destekli kurulum...",
   "AssistedSetupSteps": "Destekli kurulum adımları",
   "CalibrateControls": "Eşleştirilmiş kontrolleri otomatik olarak kalibre et...",
+  "CardCountHint": "Görünür: {0}, gizli: {1}. Gizli kartları göstermek veya gizlemek için tıklayın.",
   "CheckForUpdate": "Güncelleme kontrol et...",
   "ColumnsMode": "Sütun modu",
   "Controls": "Kontroller",

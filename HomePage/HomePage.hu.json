@@ -5,6 +5,7 @@
   "AssistedSetup": "Támogatott beállítás...",
   "AssistedSetupSteps": "Támogatott beállítás lépések",
   "CalibrateControls": "A párosított vezérlők automatikus kalibrálása...",
+  "CardCountHint": "Látható: {0}, rejtett: {1}. Kattintson a rejtett kártyák megjelenítéséhez vagy elrejtéséhez.",
   "CheckForUpdate": "Frissítés keresése...",
   "ColumnsMode": "Oszlopok mód",
   "Controls": "Vezérlők",

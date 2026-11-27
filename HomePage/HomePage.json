@@ -5,6 +5,7 @@
   "AssistedSetup": "Assisted setup...",
   "AssistedSetupSteps": "Assisted setup steps",
   "CalibrateControls": "Calibrate paired controls automatically...",
+  "CardCountHint": "{0} visible, {1} hidden. Click to show or hide hidden cards.",
   "CheckForUpdate": "Check for update...",
   "ColumnsMode": "Columns mode",
   "Controls": "Controls",

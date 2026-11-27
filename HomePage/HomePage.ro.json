@@ -5,6 +5,7 @@
   "AssistedSetup": "Configurare asistată...",
   "AssistedSetupSteps": "Pași configurare asistată",
   "CalibrateControls": "Calibrează automat controalele asociate...",
+  "CardCountHint": "Vizibile: {0}, ascunse: {1}. Apasă pentru a afișa sau a ascunde cardurile ascunse.",
   "CheckForUpdate": "Caută actualizări...",
   "ColumnsMode": "Mod coloane",
   "Controls": "Controale",

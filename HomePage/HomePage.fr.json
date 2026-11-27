@@ -5,6 +5,7 @@
   "AssistedSetup": "Configuration assistée...",
   "AssistedSetupSteps": "Étapes de configuration assistée",
   "CalibrateControls": "Calibrer les contrôles jumelés automatiquement...",
+  "CardCountHint": "Visibles : {0}, cachées : {1}. Cliquez pour afficher ou masquer les tuiles cachées.",
   "CheckForUpdate": "Vérifier les mises à jour...",
   "ColumnsMode": "Mode colonnes",
   "Controls": "Contrôles",

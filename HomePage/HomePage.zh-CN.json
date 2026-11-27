@@ -5,6 +5,7 @@
   "AssistedSetup": "设置助手...",
   "AssistedSetupSteps": "设置助手步骤",
   "CalibrateControls": "自动校准控制配对...",
+  "CardCountHint": "可见：{0}，隐藏：{1}。点击以显示或隐藏隐藏卡。",
   "CheckForUpdate": "检查更新...",
   "ColumnsMode": "列模式",
   "Controls": "控制",

@@ -5,6 +5,7 @@
   "AssistedSetup": "Määritysapuri...",
   "AssistedSetupSteps": "Määritysapurin vaiheet",
   "CalibrateControls": "Kalibroi paritetut ohjaimet automaattisesti...",
+  "CardCountHint": "Näkyviä: {0}, piilotettuja: {1}. Napsauta näyttääksesi tai piilottaaksesi piilotetut kortit.",
   "CheckForUpdate": "Tarkista päivitykset...",
   "ColumnsMode": "Saraketila",
   "Controls": "Ohjaimet",

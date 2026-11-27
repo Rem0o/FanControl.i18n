@@ -5,6 +5,7 @@
   "AssistedSetup": "セットアップアシスト...",
   "AssistedSetupSteps": "セットアップアシストの手順",
   "CalibrateControls": "ペアされているコントロールを自動でキャリブレーション...",
+  "CardCountHint": "表示: {0}、非表示: {1}。クリックして非表示のカードの表示・非表示を切り替えます。",
   "CheckForUpdate": "更新を確認...",
   "ColumnsMode": "カラムモード",
   "Controls": "コントロール",

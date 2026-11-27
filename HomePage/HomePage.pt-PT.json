@@ -5,6 +5,7 @@
   "AssistedSetup": "Configuração assistida...",
   "AssistedSetupSteps": "Passos da configuração assistida",
   "CalibrateControls": "Calibrar controlos pareados automaticamente...",
+  "CardCountHint": "Visíveis: {0}, ocultos: {1}. Clique para mostrar ou ocultar os cartões ocultos.",
   "CheckForUpdate": "Procurar por atualizações...",
   "ColumnsMode": "Modo de colunas",
   "Controls": "Controles",

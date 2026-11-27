@@ -5,6 +5,7 @@
   "AssistedSetup": "Asistované nastavení...",
   "AssistedSetupSteps": "Kroky asistovaného nastavení",
   "CalibrateControls": "Automatická kalibrace spárovaných ovládacích prvků...",
+  "CardCountHint": "Viditelné: {0}, skryté: {1}. Kliknutím zobrazíte nebo skryjete skryté karty.",
   "CheckForUpdate": "Zkontrolovat aktualizaci...",
   "ColumnsMode": "Režim sloupců",
   "Controls": "Ovládací prvky",

@@ -5,6 +5,7 @@
   "AssistedSetup": "Ondersteunde installatie...",
   "AssistedSetupSteps": "Ondersteunde installatiestappen",
   "CalibrateControls": "Kalibreer gekoppelde bedieningselementen automatisch...",
+  "CardCountHint": "Zichtbaar: {0}, verborgen: {1}. Klik om verborgen kaarten te tonen of te verbergen.",
   "CheckForUpdate": "Controleren op updates...",
   "ColumnsMode": "Kolommenmodus",
   "Controls": "Bedieningselementen",

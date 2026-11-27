@@ -5,6 +5,7 @@
   "AssistedSetup": "Asystent konfiguracji...",
   "AssistedSetupSteps": "Kroki asystenta konfiguracji",
   "CalibrateControls": "Skalibruj sparowane kontrolery automatycznie...",
+  "CardCountHint": "Widoczne: {0}, ukryte: {1}. Kliknij, aby pokazać lub ukryć ukryte karty.",
   "CheckForUpdate": "Szukaj aktualizacji...",
   "ColumnsMode": "Tryb kolumnowy",
   "Controls": "Kontrolery",

@@ -5,6 +5,7 @@
   "AssistedSetup": "Einrichtungsassistent …",
   "AssistedSetupSteps": "Schritte des Einrichtigungsassistenten",
   "CalibrateControls": "Gekoppelte Steuerungen automatisch kalibrieren …",
+  "CardCountHint": "Sichtbar: {0}, ausgeblendet: {1}. Klicken, um ausgeblendete Karten anzuzeigen oder zu verbergen.",
   "CheckForUpdate": "Auf Update prüfen …",
   "ColumnsMode": "Spaltenmodus",
   "Controls": "Steuerungen",

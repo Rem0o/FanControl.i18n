@@ -5,6 +5,7 @@
   "AssistedSetup": "התקנה מסייעת...",
   "AssistedSetupSteps": "שלבי ההתקנה המסייעת",
   "CalibrateControls": "כייל רכיבי בקרה מזווגים באופן אוטומטי...",
+  "CardCountHint": "גלויים: {0}, מוסתרים: {1}. לחץ כדי להציג או להסתיר כרטיסים מוסתרים.",
   "CheckForUpdate": "בדוק עדכונים...",
   "ColumnsMode": "מצב עמודות",
   "Controls": "רכיבי בקרה",

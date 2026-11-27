@@ -5,6 +5,7 @@
   "AssistedSetup": "Assisteret opsætning...",
   "AssistedSetupSteps": "Trin i assisteret opsætning",
   "CalibrateControls": "Kalibrer parrede kontroller automatisk...",
+  "CardCountHint": "Synlige: {0}, skjulte: {1}. Klik for at vise eller skjule skjulte kort.",
   "CheckForUpdate": "Tjek for opdatering...",
   "ColumnsMode": "Kolonnetilstand",
   "Controls": "Kontroller",

@@ -5,6 +5,7 @@
   "AssistedSetup": "Thiết lập hỗ trợ...",
   "AssistedSetupSteps": "Các bước thiết lập hỗ trợ",
   "CalibrateControls": "Tự động hiệu chỉnh các điều khiển đã ghép...",
+  "CardCountHint": "Hiển thị: {0}, bị ẩn: {1}. Nhấp để hiện hoặc ẩn các thẻ bị ẩn.",
   "CheckForUpdate": "Kiểm tra cập nhật...",
   "ColumnsMode": "Chế độ cột",
   "Controls": "Điều khiển",

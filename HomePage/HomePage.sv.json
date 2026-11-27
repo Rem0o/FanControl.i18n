@@ -5,6 +5,7 @@
   "AssistedSetup": "Uppsättningshjälpen...",
   "AssistedSetupSteps": "Steg i uppsättningshjälpen",
   "CalibrateControls": "Kalibrera parade styrsystem automatiskt...",
+  "CardCountHint": "Synliga: {0}, gömda: {1}. Klicka för att visa eller dölja gömda kort.",
   "CheckForUpdate": "Kontrollera mjukvaruversion...",
   "ColumnsMode": "Kolumnläge",
   "Controls": "Styrsystem",

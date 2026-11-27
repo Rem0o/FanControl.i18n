@@ -5,6 +5,7 @@
   "AssistedSetup": "輔助設定...",
   "AssistedSetupSteps": "輔助設定步驟",
   "CalibrateControls": "自動校準配對的控制器...",
+  "CardCountHint": "可見：{0}，隱藏：{1}。點擊以顯示或隱藏隱藏卡。",
   "CheckForUpdate": "檢查更新...",
   "ColumnsMode": "欄位模式",
   "Controls": "控制",
